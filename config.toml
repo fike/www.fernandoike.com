@@ -5,6 +5,7 @@ author = "Fernando Ike"
 copyright = "&copy; 2016. All rights reserved."
 canonifyurls = true
 paginate = 10
+theme = "blackburn"
 
 [indexes]
   tag = "tags"
