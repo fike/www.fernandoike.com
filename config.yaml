@@ -1,0 +1,35 @@
+---
+baseurl: "http://www.fernandoike.com/"
+languageCode: "en-us"
+title: "Fike's Mnemonics"
+disqusShortname: "fernandoike"
+MetaDataFormat: "yaml"
+theme: "hyde-x"
+#theme: "cactus"
+paginate: 10
+
+
+permalinks:
+    # Optional. Change the permalink format for the 'post' content type.
+    # The format shown here is the same one Jekyll/Octopress uses by default.
+    post: "/:year/:month/:day/:title/" 
+
+taxonomies:
+  tag: "tags"
+  category: "categories"
+
+
+params:
+  truncate: false
+  defaultDescription: "Fike Mnemonics"
+  tagline: "My brain nuts"
+  home: "Home"
+  highlight: "github"
+  twitter: "https://twitter.com/fernandoike"  
+  googleAnalytics: "UA-34467089-1"
+  gravatarHash: "168c322e7157a4cfffdeb88ab2309e02"
+  github: "https://github.com/fike"
+  disqus: "fernandoike"
+  linkedin: "https://www.linkedin.com/in/fernandoike"
+  rss: true
+---
