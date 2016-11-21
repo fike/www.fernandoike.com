@@ -1,5 +1,5 @@
 +++
-title = "Hangout com bruno domingues adiado ..."
+title = "Hangout com bruno domingues adiado"
 date = "2013-07-06"
 draft = false
 Categories = ["portugues", "web performance"]
