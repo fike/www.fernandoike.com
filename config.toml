@@ -59,26 +59,26 @@ theme = "blackburn"
   twitter = "fernandoike"
   gnusocial = "*" # Specify href (e.g. https://quitter.se/yourusername)
   facebook = "*"
-  googleplus = "*"
-  weibo = "*"
-  tumblr = "*"
+  #googleplus = "*"
+  #weibo = "*"
+  #tumblr = "*"
 
   # SNS photo/video sharing
-  instagram = "*"
-  flickr = "*"
-  pinterest = "*"
-  youtube = "*"
-  vimeo = "*"
-  vine = "*"
+  #instagram = "*"
+  #flickr = "*"
+  #pinterest = "*"
+  #youtube = "*"
+  #vimeo = "*"
+  #vine = "*"
   slideshare = "fernandoike"
 
   # SNS career oriented
   linkedin = "https://www.linkedin.com/in/fernandoike"
-  xing = "*"
+  #xing = "*"
 
   # SNS news
-  reddit = "*"
-  hackernews = "*"
+  #reddit = "*"
+  #hackernews = "*"
 
   # Techie
   github = "fike"
@@ -87,7 +87,7 @@ theme = "blackburn"
   serverfault = "*"
 
   # Gaming
-  steam = "*"
+  #steam = "*"
 
   # Music
   lastfm = "*"
@@ -95,4 +95,3 @@ theme = "blackburn"
 
   # Other
   keybase = "*"
-
