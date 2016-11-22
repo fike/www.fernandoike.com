@@ -82,16 +82,16 @@ theme = "blackburn"
 
   # Techie
   github = "fike"
-  bitbucket = "*"
-  stackoverflow = "*"
-  serverfault = "*"
+  #bitbucket = "*"
+  #stackoverflow = "*"
+  #serverfault = "*"
 
   # Gaming
   #steam = "*"
 
   # Music
-  lastfm = "*"
-  discogs = "*"
+  #lastfm = "*"
+  #discogs = "*"
 
   # Other
-  keybase = "*"
+  #keybase = "*"
