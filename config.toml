@@ -22,8 +22,8 @@ theme = "blackburn"
   dateFormat = "02 Jan 2006, 15:04"
   # Include any custom CSS and/or JS files
   # (relative to /static folder)
-  custom_css = ["css/my.css"]
-  custom_js = ["js/my.js"]
+  #custom_css = ["css/my.css"]
+  #custom_js = ["js/my.js"]
 
 
 [menu]
