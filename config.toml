@@ -1,5 +1,5 @@
 baseurl = "https://www.fernandoike.com/"
-title = "My brain nuts"
+title = "Fike's mnemonics"
 author = "Fernando Ike"
 # Shown in the side menu
 copyright = "&copy; 2016. All rights reserved."
@@ -15,7 +15,7 @@ theme = "blackburn"
   # Shown in the home page
   subtitle = "The bytes of universe inside in a nutshell"
   brand = "Blackburn"
-  googleAnalytics = "Your Google Analytics tracking ID"
+  googleAnalytics = "UA-34467089-1"
   disqus = "fernandoike"
   # CSS name for highlight.js
   highlightjs = "androidstudio"
@@ -24,6 +24,7 @@ theme = "blackburn"
   # (relative to /static folder)
   custom_css = ["css/my.css"]
   custom_js = ["js/my.js"]
+
 
 [menu]
   # Shown in the side menu.
@@ -73,7 +74,7 @@ theme = "blackburn"
   slideshare = "fernandoike"
 
   # SNS career oriented
-  linkedin = "https://www.linkedin.com/in/fernandoike"
+  linkedin = "fernandoike"
   #xing = "*"
 
   # SNS news
