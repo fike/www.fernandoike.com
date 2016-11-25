@@ -14,13 +14,13 @@ DefaultContentLanguageInSubdir = true
     # The format shown here is the same one Jekyll/Octopress uses by default.
     post = "/:year/:month/:day/:title/"
 
-[Languages]
-  [Languages.en]
-    weight = 1
-    title = "English"
-  [Language.pt]
-    weight = 2
-    title = "Português"
+#[Languages]
+#  [Languages.en]
+#    weight = 1
+#    title = "English"
+#  [Language.pt]
+#    weight = 2
+#    title = "Português"
 
 [indexes]
   tag = "tags"
