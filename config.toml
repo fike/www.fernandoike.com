@@ -1,4 +1,4 @@
-baseurl = "https://www.fernandoike.com/"
+baseurl = "http://www.fernandoike.com/"
 title = "Fike's mnemonics"
 author = "Fernando Ike"
 # Shown in the side menu
@@ -73,8 +73,8 @@ DefaultContentLanguageInSubdir = true
 
   # SNS microblogging
   twitter = "fernandoike"
-  gnusocial = "*" # Specify href (e.g. https://quitter.se/yourusername)
-  facebook = "*"
+  #gnusocial = "*" # Specify href (e.g. https://quitter.se/yourusername)
+  #facebook = "*"
   #googleplus = "*"
   #weibo = "*"
   #tumblr = "*"
@@ -93,8 +93,8 @@ DefaultContentLanguageInSubdir = true
   #xing = "*"
 
   # SNS news
-  #reddit = "*"
-  #hackernews = "*"
+  reddit = "fernandoike"
+  hackernews = "fike"
 
   # Techie
   github = "fike"
@@ -110,4 +110,4 @@ DefaultContentLanguageInSubdir = true
   #discogs = "*"
 
   # Other
-  #keybase = "*"
+  keybase = "fernandoike"
