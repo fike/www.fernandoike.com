@@ -3,7 +3,7 @@ title = "Eventos em maio de 2015"
 date = "2015-05-11"
 draft = false
 Categories = ["SL", "portugues", "docker", "devops"]
-Tags = ["web performance", "docker", "SL"]
+Tags = ["web performance", "docker", "SL", "portugues"]
 +++
 
 Essa semana estarei participando de dois eventos como palestrante.
