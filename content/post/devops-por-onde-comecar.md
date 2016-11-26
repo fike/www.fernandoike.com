@@ -107,9 +107,8 @@ Puppet ou Chef.
 1.  Monitoração/Monitoramento
 
 Um Sysadmin já paranóico com monitoramento, num cenário que está usando
-a ”*nuvem*” para hospedar as aplicações, monitorar é imprescindível mas
-## portanto monitorar as
-aplicações também gera uma grande quantidade de dados. Saber os itens a
+a ”*nuvem*” para hospedar as aplicações, monitorar é imprescindível mas monitorará-las
+também gera uma grande quantidade de dados. Saber os itens a
 serem monitorados bem como os gatilhos (thresholds) torna-se questão de
 sobrevivência.
 
@@ -130,9 +129,9 @@ infraestrutura reunir-se para conversar sobre tarefas, projetos,
 problemas, etc. Principalmente nas empresas com grande contigente na
 área de TI.
 
-Fazer reuniões rápidas em que as pessoas troque informações relavantes
-sobre o que estão fazendo e que prentende fazer é tão importante como os
-tickets, chamdos ou ordem de serviços. Elas são importantes para que a
+Fazer reuniões rápidas em que as pessoas troque informações relevantes
+sobre o que estão fazendo e que pretende fazer é tão importante como os
+tickets, chamados ou ordem de serviços. Elas são importantes para que a
 equipe tenha sinergia, empatia e trabalhe com equipe e não um punhado de
 indivíduos com a mesma função
 
@@ -146,7 +145,7 @@ Na Cultura Ágil e por conseguinte na Cultura DevOps esqueça disso,
 provavelmente terá semanas que terá um dois deploys por dia e em casos
 extremos terá centenas de deploy por dia. Isso acontece, principalmente,
 em ambientes web e reflete que as aplicações estão eternamente em Beta.
-Não que seja ruim, pelo contrário, se as aplicações atigirem a
+Não que seja ruim, pelo contrário, se as aplicações atingirem a
 maturidade é porque o negócio da empresa não esteja tão bom como pensado
 ou porque fechou as portas.
 

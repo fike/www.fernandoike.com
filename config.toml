@@ -29,7 +29,7 @@ DefaultContentLanguageInSubdir = true
 [params]
   # Shown in the home page
   subtitle = "The bytes of universe inside in a nutshell"
-  brand = "Blackburn"
+  brand = "Fernando Ike"
   googleAnalytics = "UA-34467089-1"
   disqus = "fernandoike"
   # CSS name for highlight.js
