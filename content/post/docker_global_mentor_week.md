@@ -1,7 +1,7 @@
 +++
 description = "Participação do Meetup Docker São Paulo no GMW"
 date = "2016-11-26T13:26:24-02:00"
-title = "docker_global_mentor_week"
+title = "Docker Global Mentor Week"
 draft = false
 tags = ["devops","portugues","container","docker","meetup"
 ]
