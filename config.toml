@@ -6,21 +6,20 @@ copyright = "&copy; 2016. All rights reserved."
 canonifyurls = true
 paginate = 10
 theme = "blackburn"
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "pt"
 DefaultContentLanguageInSubdir = true
+
+[Languages]
+[Languages.pt]
+weight = 1
+
+[Languages.en]
+weight = 2
 
 [permalinks]
     # Optional. Change the permalink format for the 'post' content type.
     # The format shown here is the same one Jekyll/Octopress uses by default.
     post = "/:year/:month/:day/:title/"
-
-#[Languages]
-#  [Languages.en]
-#    weight = 1
-#    title = "English"
-#  [Language.pt]
-#    weight = 2
-#    title = "Português"
 
 [indexes]
   tag = "tags"
@@ -50,17 +49,23 @@ DefaultContentLanguageInSubdir = true
     identifier = "home"
     url = "/"
   [[menu.main]]
-    name = "Posts"
+    name = "English"
     pre = "<i class='fa fa-list fa-fw'></i>"
     weight = 1
-    identifier = "post"
-    url = "/post/"
+    identifier = "english"
+    url = "/en/"
   [[menu.main]]
     name = "About"
     pre = "<i class='fa fa-user fa-fw'></i>"
     weight = 2
     identifier = "about"
-    url = "/about/"
+    url = "/en/about/"
+  [[menu.main]]
+    name = "Sobre"
+    pre = "<i class='fa fa-user fa-fw'></i>"
+    weight = 2
+    identifier = "sobre"
+    url = "/pt/sobre/"
   [[menu.main]]
     name = "Contact"
     pre = "<i class='fa fa-phone fa-fw'></i>"
