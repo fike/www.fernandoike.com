@@ -3,7 +3,7 @@ title = "Building Debian images by jigdo"
 date = "2015-08-19"
 draft = false
 Categories = ["SL", "english", "debian"]
-Tags = ["debian", "jigdo", "images", "english", "SL"]
+Tags = ["english", "debian", "jigdo", "images", "english", "SL"]
 +++
 A friend asked me how to got a [Debian][debian] Old Image, she wanted to download Debian [Squeeze][squeeze] DVD image. Unfortunately, it's impossible to download by Debian-CD mirror because Squeeze isn't more maintainer. So, it's possible to get a Image by Debian-CD primary server but it's locate in Sweden. Nothing problem, right? Well, She lives in Brazil and the download time is a little bit more than 8 hours.
 

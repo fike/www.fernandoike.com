@@ -3,7 +3,7 @@ title = "Rsync resume transfering"
 date = "2012-10-25"
 draft = false
 Categories = ["debian", "linux", "SL", "english"]
-Tags = ["debian", "rsync", "SL", ]
+Tags = ["english", "debian", "rsync", "SL", ]
 +++
 ![](/images/i-robot-300x165.jpg)
 

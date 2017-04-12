@@ -1,6 +1,6 @@
 ---
 categories: ["english", "web performance"]
-Tags: [web performance", "webpagetest", "rum", "gzip", "ttfb", "front-end", "backend"]
+Tags: ["english", "web performance", "webpagetest", "rum", "gzip", "ttfb", "front-end", "backend"]
 date: 2016-01-15T18:07:07-02:00
 description: "Tips how to identify bottlenecks of web sites"
 keywords: ["web performance, user experience, bottleneck"]

@@ -3,7 +3,7 @@ title = "How to recover oftc Debian irc password"
 date = "2012-08-31"
 draft = false
 Categories = ["SL", "debian", "english"]
-Tags = ["irc", "oftc", "freenode"]
+Tags = ["english", "irc", "oftc", "freenode"]
 +++
 Ok, it’s terrible!
 

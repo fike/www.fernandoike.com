@@ -1,6 +1,6 @@
 ---
 categories: ["debian", "SL", "english"]
-Tags: ["debian", "ian murdock", "legacy"]
+Tags: ["english", "debian", "ian murdock", "legacy"]
 date: 2016-01-15T18:04:47-02:00
 description: "Short text about Ian Murdock legacy"
 keywords: ["debian, legacy, ian murdock"]
