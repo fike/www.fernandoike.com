@@ -3,7 +3,7 @@ categories = ["devops", "portuguese"]
 date = "2017-05-10T09:56:32-03:00"
 description = "Uma versão da apresentação sobre DBA e DevOps no DBA Brasil 2.0"
 draft = false
-tags = ["devops", "dba", "data scientist", "release", "microsoft"]
+tags = ["devops", "dba", "data scientist", "release", "automacao"]
 title = "DevOps: O novo papel do DBA"
 
 +++

@@ -49,9 +49,15 @@ DefaultContentLanguageInSubdir = true
     identifier = "portuguese"
     url = "https://www.fernandoike.com/tags/portugues"
   [[menu.main]]
+    name = "English"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 2
+    identifier = "english"
+    url = "https://www.fernandoike.com/tags/english"
+  [[menu.main]]
     name = "About"
     pre = "<i class='fa fa-user fa-fw'></i>"
-    weight = 2
+    weight = 3
     identifier = "about"
     url = "/about/"
 #  [[menu.main]]
