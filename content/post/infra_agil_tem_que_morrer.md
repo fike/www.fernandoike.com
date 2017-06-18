@@ -4,7 +4,7 @@ date = "2017-06-17T21:56:11-03:00"
 description = "Uma revisão conceitual do Anti-Pattern Infraestrutura Ágil"
 draft = false
 tags = ["devops", "agile", "infragil", "portugues", "buzzword", "sre", "continuous delivery"]
-title = "Infraestrutura Ágil tem que morrer"
+title = "Infraestrutura Agil tem que morrer"
 
 +++
 ![Frankenstein](/images/Boris_Karloff_as_Frankenstein's_monster.jpg)
