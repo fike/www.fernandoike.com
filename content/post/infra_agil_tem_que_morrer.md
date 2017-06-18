@@ -4,7 +4,7 @@ date = "2017-06-17T21:56:11-03:00"
 description = "Uma revisão conceitual do Anti-Pattern Infraestrutura Ágil"
 draft = false
 tags = ["devops", "agile", "infragil", "portugues", "buzzword", "sre", "continuous delivery"]
-title = "Infraestrutura Agil tem que morrer"
+title = "Infraestrutura Ágil tem que morrer"
 
 +++
 ![Frankenstein](/images/Boris_Karloff_as_Frankenstein's_monster.jpg)
@@ -73,7 +73,7 @@ A motivação para escrever este teto ocorreu ao assistir uma apresentação de 
 
 Lembrem-se do [ICE](http://radar.oreilly.com/2015/01/devops-keeps-it-cool-with-ice.html), principalmente a *Empatia* (**E**mpathy) que foi definida por Dave Zwieback como: "*A empatia é uma conversa em dois sentidos, uma maneira de resolver conflitos e de satisfazer as necessidades das pessoas*".
 
-Referências
+**Referências**:
 
 - DevOps como Buzzword: https://www.fernandoike.com/2017/01/10/devops-como-buzzword
 
