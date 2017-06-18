@@ -74,16 +74,29 @@ A motivação para escrever este teto ocorreu ao assistir uma apresentação de 
 Lembrem-se do [ICE](http://radar.oreilly.com/2015/01/devops-keeps-it-cool-with-ice.html), principalmente a *Empatia* (**E**mpathy) que foi definida por Dave Zwieback como: "*A empatia é uma conversa em dois sentidos, uma maneira de resolver conflitos e de satisfazer as necessidades das pessoas*".
 
 Referências
-DevOps como Buzzword - https://www.fernandoike.com/2017/01/10/devops-como-buzzword
-10 deploys per day, Dev & ops cooperation at Flickr - https://www.slideshare.net/jallspaw/10-deploys-per-day-dev-and-ops-cooperation-at-flickr/
-DevOpsDays Ghent - https://legacy.devopsdays.org/events/2009-ghent/
-State of DevOps Report - https://puppet.com/resources/whitepaper/state-of-devops-report
-The DevOps Handbook - http://itrevolution.com/devops-handbook
-Toyota Production System - http://www.toyota-global.com/company/vision_philosophy/toyota_production_system/
-Lean - https://www.lean.org/WhatsLean/
-Blameless PostMortems and a Just Culture - https://codeascraft.com/2012/05/22/blameless-postmortems/
-CAMS - https://blog.chef.io/2010/07/16/what-devops-means-to-me/
-The Three Waay - https://itrevolution.com/the-three-ways-principles-underpinning-devops/
-ICE - http://radar.oreilly.com/2015/01/devops-keeps-it-cool-with-ice.html
-SRE Book - https://landing.google.com/sre/book/
-SRE por Fernando Ike - https://www.fernandoike.com/2017/03/23/site-reliability-engineer---sre/
+
+- DevOps como Buzzword: https://www.fernandoike.com/2017/01/10/devops-como-buzzword
+
+- 10 deploys per day, Dev & ops cooperation at Flickr:  https://www.slideshare.net/jallspaw/10-deploys-per-day-dev-and-ops-cooperation-at-flickr/
+
+- DevOpsDays Ghent: https://legacy.devopsdays.org/events/2009-ghent/
+
+- State of DevOps Report: https://puppet.com/resources/whitepaper/state-of-devops-report
+
+- The DevOps Handbook: http://itrevolution.com/devops-handbook
+
+- Toyota Production System:  http://www.toyota-global.com/company/vision_philosophy/toyota_production_system/
+
+- Lean: https://www.lean.org/WhatsLean/
+
+- Blameless PostMortems and a Just Culture: https://codeascraft.com/2012/05/22/blameless-postmortems/
+
+- CAMS: https://blog.chef.io/2010/07/16/what-devops-means-to-me/
+
+- The Three Way:  https://itrevolution.com/the-three-ways-principles-underpinning-devops/
+
+- ICE: http://radar.oreilly.com/2015/01/devops-keeps-it-cool-with-ice.html
+
+- SRE Book: https://landing.google.com/sre/book/
+
+- SRE por Fernando Ike: https://www.fernandoike.com/2017/03/23/site-reliability-engineer---sre/
