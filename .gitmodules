@@ -7,3 +7,6 @@
 [submodule "themes/hucore"]
 	path = themes/hucore
 	url = https://github.com/mgjohansen/hucore
+[submodule "themes/hyde-x"]
+	path = themes/hyde-x
+	url = git@github.com:fike/hyde-x.git
