@@ -4,3 +4,9 @@
 [submodule "themes/hugo-future-imperfect"]
 	path = themes/hugo-future-imperfect
 	url = https://github.com/jpescador/hugo-future-imperfect.git
+[submodule "themes/hucore"]
+	path = themes/hucore
+	url = https://github.com/mgjohansen/hucore
+[submodule "themes/hyde-x"]
+	path = themes/hyde-x
+	url = https://github.com/fike/hyde-x
