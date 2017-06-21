@@ -6,7 +6,7 @@ copyright = "&copy; 2016. All rights reserved."
 canonifyurls = true
 paginate = 10
 theme = "hyde-x"
-disqus = "fernandoike"
+disqusShortname = "fernandoike"
 DefaultContentLanguage = "en"
 DefaultContentLanguageInSubdir = true
 
