@@ -1,7 +1,7 @@
 +++
 title = "Um review do State of DevOps Report 2017"
 date = "2017-06-23T14:07:37-03:00"
-description = "Análise dos dados mais interessantes do relatório da Puppet e DORA"
+description = "Análise dos dados mais relevantes do relatório da Puppet e DORA"
 draft = false
 tags = ["devops", "puppet", "portugues", "buzzword", "continuous delivery"]
 categories = ["devops", "portugues"]
@@ -74,7 +74,7 @@ O estudo mostra que o desenvolvimento de software for baseado no trunk há um ga
 
 Ao seguir essas práticas as organizações de alta performance têm pouco esforço na integração (algumas horas). As organizações de baixa performance pelo contrário, as equipes ficam alguns dias para fazer o merge.
 
-Referências:
+**Referências**:
 
 - State of DevOps Report 2017: https://puppet.com/resources/whitepaper/state-of-devops-report
 - State of DevOps Report 2016: https://puppet.com/resources/whitepaper/2016-state-of-devops-report
