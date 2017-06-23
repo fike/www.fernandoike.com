@@ -2,7 +2,7 @@
 title = "Um review do State of DevOps Report 2017"
 date = "2017-06-23T14:07:37-03:00"
 description = "Análise dos dados mais interessantes do relatório da Puppet e DORA"
-draft = true
+draft = false
 tags = ["devops", "puppet", "portugues", "buzzword", "continuous delivery"]
 categories = ["devops", "portugues"]
 +++
