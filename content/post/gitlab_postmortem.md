@@ -19,20 +19,25 @@ A recuperação do backup foi demasiadamente lenta (18 horas), isso porque a rec
 
 Antes de você tirar conclusões a partir daqui, recomendo que leia o relatório do Gitlab, eles detalham tudo que aconteceu e o que estão fazendo para melhorar. No relatório, eles usam o **5 Whys** (**5 porquês**) para identificar porque ocorreu a indisponibilidade do servidor de banco de dados e porque demorou para recuperar o serviço. [5 Whys](http://www.toyota-global.com/company/toyota_traditions/quality/mar_apr_2006.html) é uma técnica interrogativa [iterativa](https://pt.m.wiktionary.org/wiki/iterativo) para identificar a causa raiz de um defeito, é parte do [Toyota Production System](http://www.toyota-global.com/company/vision_philosophy/toyota_production_system/). Abaixo uma tradução livre de uma das análises usando 5 Whys.
 
-1. Por que o Gitlab.com ficou fora do ar?
-O diretório do banco de dados primário foi removido acidentalmente, ao invés de remover o diretório do banco de dados secundário.
+1 - **Por que o Gitlab.com ficou fora do ar?**
 
-2. Por que o diretório do banco de dados foi removido?
-A replicação do banco de dados parou, foi necessário refazer o banco secundário. Para isso, é necessários que o dados do diretório do PostgreSQL esteja vazio. A restauração dele é um trabalho manual, porque isso não foi automatizado, nem foi documento apropriadamente.
+>O diretório do banco de dados primário foi removido acidentalmente, ao invés de >remover o diretório do banco de dados secundário.
 
-3. Por que a replicação parou?
-Uma sobrecarga fez o processo de replicação parar. Isso aconteceu porque o banco de dados primário removeu os segmentos WAL antes do banco de dados secundário pudesse replicá-los.
+2 - **Por que o diretório do banco de dados foi removido?**
 
-4. Por que a carga do banco de dados cresceu?
-Ela foi causada por dois eventos que aconteceram ao mesmo tempo: aumento no spam em conjunto ao processo de remoção executado por funcionário da Gitlab e os dados associados.
+>A replicação do banco de dados parou, foi necessário refazer o banco >secundário. Para isso, é necessários que o dados do diretório do PostgreSQL >esteja vazio. A restauração dele é um trabalho manual, porque isso não foi >automatizado, nem foi documento apropriadamente.
 
-5. Por que um funcionário da Gitlab estava designado para remover?
-O funcionário recebeu uma notificação de abuso por um troll. O sistema atual para responder notificação de abuso torna muito fácil ignorar os detalhes da notificação. Como resultado, o funcionário designado removeu acidentalmente.
+3 - **Por que a replicação parou?**
+
+>Uma sobrecarga fez o processo de replicação parar. Isso aconteceu porque o >banco de dados primário removeu os segmentos WAL antes do banco de dados >secundário pudesse replicá-los.
+
+4 - **Por que a carga do banco de dados cresceu?**
+
+>Ela foi causada por dois eventos que aconteceram ao mesmo tempo: aumento no >spam em conjunto ao processo de remoção executado por funcionário da Gitlab e >os dados associados.
+
+5 - **Por que um funcionário da Gitlab estava designado para remover?**
+
+>O funcionário recebeu uma notificação de abuso por um troll. O sistema atual >para responder notificação de abuso torna muito fácil ignorar os detalhes da >notificação. Como resultado, o funcionário designado removeu acidentalmente.
 
 
 Especificamente sobre PostgreSQL, existem muitas formas de replicação que poderiam evitar ou minimizar um incidente deste tipo. Este não é o ponto deste texto (quem sabe num outro), uma das formas de melhor rapidamente a resiliência de um serviço é através do Game Day, identificando gargalhos e problemas de disponibilidade nos serviços através de testes de carga/resiliência. Este processo também é chamado de Engenharia de resiliência, [Jesse Robins](https://twitter.com/jesserobbins) falou sobre isso na Usenix Conference: *[GameDay: Creating Resiliency Through Destruction](https://www.youtube.com/watch?v=zoz0ZjfrQ9s)*
