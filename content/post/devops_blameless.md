@@ -1,7 +1,7 @@
 +++
 title = "Blameless: A culpa não é sua"
 date = 2017-08-21T12:12:12-03:00
-draft = true
+draft = false
 description = "Primeira parte da versão escrita do palestra sobre Blameless no DevOpsDays Porto Alegre de 2017."
 categories = ["devops", "blameless", "lean", "portugues", "agile"]
 tags = ["devops", "blameless", "agile", "lean", "portugues", "google", "chaos"]
