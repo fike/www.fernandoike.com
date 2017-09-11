@@ -1,6 +1,6 @@
 +++
 date = "2016-12-27T12:17:30-02:00"
-title = "DevOps Anti-Patterns 1.5"
+title = "DevOps Anti-Patterns - um-ponto-cinco"
 categories = ["devops", "portugues"]
 tags = ["portugues", "devops", "devopssec", "devopsweek"]
 draft = false
