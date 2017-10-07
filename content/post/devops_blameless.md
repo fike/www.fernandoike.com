@@ -12,13 +12,14 @@ Um caso interessante (e muito triste) para analisar é o do acidente (2007) do a
 
 Ainda é muito comum no mundo da Tecnologia da Informação procurar/encontrar/culpados (humanos) por uma falha de um sistema e em caos nem tão extremos, a demissão dos mesmos. Quando isso acontece ou quando achamos que isso irá acontecer, a reação instintiva da nossa é tentar se proteger do perigo (da demissão) e tratamos de fazer as nossas atividades com cautela ou com o conservadorismo excessivo. Mesmo que a missão da organização esteja descrita como audaz, descontraída, etc. A cultura da organização terá o medo como base para as atividades e as pessoas tentarão se exporem menos possível como mecanismo de defesa. John Allspaw chama situação como "[Ciclo de Culpa](https://codeascraft.com/2012/05/22/blameless-postmortems/)" num post sobre como a cultura Blameless é aplicada na Etsy:
 
-1. Engenheiro tomam atitude e contribuem para uma falha ou acidente.
-2. Engenheiro é punido, envergonhado, culpado ou reprimido.
-3. Reduz a confiança entre engenheiros e a gerência fica procurando alguém como bode expiatório.
-4. Engenheiros ficam em silêncio sobre detalhes de ações/situações/observações, resultando na engenharia de "Cover-Your-Ass" (pelo medo de punição).
-5. Gerentes tornam-se menos conscientes e informados sobre o desempenho do trabalho do dia a dia, engenheiros se tornam menos educados na espreita ou condição latente para falha devido ao silêncio mencionado no passo **#4**.
-6. Erros tornam-se mais prováveis, condição latente para eles não serem identificadas devido ao passo **#5**.
-7. Repete a partir do passo **#1**
+
+1. *Engenheiro tomam atitude e contribuem para uma falha ou acidente.*
+2. *Engenheiro é punido, envergonhado, culpado ou reprimido.*
+3. *Reduz a confiança entre engenheiros e a gerência fica procurando alguém como bode expiatório.*
+4. *Engenheiros ficam em silêncio sobre detalhes de ações/situações/observações, resultando na engenharia de "Cover-Your-Ass" (pelo medo de punição).*
+5. *Gerentes tornam-se menos conscientes e informados sobre o desempenho do trabalho do dia a dia, engenheiros se tornam menos educados na espreita ou condição latente para falha devido ao silêncio mencionado no passo* **#4**.
+6. *Erros tornam-se mais prováveis, condição latente para eles não serem identificadas devido ao passo* **#5**.
+7. *Repete a partir do passo* **#1**
 
 Uma técnica muito comum em lugares que "aplicam" é o apontar o culpado com o dedo, principalmente em reuniões logo após um incidente, esta técnica é muito comum em ambientes em que as pessoas sente que estão trabalhando o tempo todo com a guilhotina apontada para o pescoço. [Sidney Dekker](http://sidneydekker.com/) chama isso de "A teoria da maçã podre" no livro "[The Field Guide to Understanding Human Error](https://www.amazon.com/Field-Guide-Understanding-Human-Error/dp/0754648265)":
 
