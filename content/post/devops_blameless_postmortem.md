@@ -24,7 +24,7 @@ Organizações em que as equipes trabalham remotamente é mais difícil trabalha
 
 Numa empresa que trabalhei o tratamento dos incidentes graves eram gerenciado da seguinte maneira:
 
-#### War room por chat e conf call
+#### Sala de Guerra (War room) por chat e conf call
   A maioria das equipes trabalhavam em escritórios distantes ou em casa. O principal meio de comunicação da empresa era o Slack e nos incidentes graves o usávamos discutir um incidente. Todo mundo da empresa podia interagir nos canais de Operação para obter informações sobre incidente e avisar os clientes. Também era aberto um conferência de áudio com as pessoas mais relevantes para tratar o incidente.
 
 #### Documentando o incidente na Wiki
@@ -79,22 +79,18 @@ Postmortems são um excelente oportunidade de aprender a partir da experiência 
 
 **Referências** :
 
-Practical Postmortems at Etsy - https://www.infoq.com/articles/postmortems-etsy
+Practical Postmortems at Etsy: https://www.infoq.com/articles/postmortems-etsy
 
-How to Conduct a Blameless Security Post-Mortem -
-https://www.pagerduty.com/blog/blameless-post-mortems-strategies-for-success/
+How to Conduct a Blameless Security Post-Mortem: https://www.pagerduty.com/blog/blameless-post-mortems-strategies-for-success/
 
-5 Whys – how we conduct blameless post-mortems after something goes wrong -
-http://code.hootsuite.com/blameless-post-mortems/
+5 Whys – how we conduct blameless post-mortems after something goes wrong: http://code.hootsuite.com/blameless-post-mortems/
 
-Blameless postmortems – strategies for success
-https://www.pagerduty.com/blog/blameless-post-mortems-strategies-for-success/
+Blameless postmortems – strategies for success: https://www.pagerduty.com/blog/blameless-post-mortems-strategies-for-success/
 
-Dan Luu - Postmortem repository
-https://github.com/danluu/post-mortems
+Dan Luu - Postmortem repository: https://github.com/danluu/post-mortems
 
-The Five Whys Technique
-https://www.adb.org/sites/default/files/publication/27641/five-whys-technique.pdf
+The Five Whys Technique: https://www.adb.org/sites/default/files/publication/27641/five-whys-technique.pdf
 
-Debriefing Facilitation Guide
-https://extfiles.etsy.com/DebriefingFacilitationGuide.pdf
+Debriefing Facilitation Guide: https://extfiles.etsy.com/DebriefingFacilitationGuide.pdf
+
+Helping Better Understand Events by Building a Post Mortem Tool: https://vimeo.com/77206751
