@@ -1,10 +1,10 @@
 +++
 title = "Palestras técnicas com mais textos"
 date = 2017-10-27T23:09:47-02:00
-draft = true
+draft = false
 description = "Uma reflexão sobre apresentações com muita imagem e pouco texto, e tudo ao contrário"
 categories = ["portugues", "apresentacao"]
-tags = ["slides", "apresentacao", ""]
+tags = ["slides", "apresentacao"]
 +++
 ![](/images/hand-977641_640.jpg)
 
