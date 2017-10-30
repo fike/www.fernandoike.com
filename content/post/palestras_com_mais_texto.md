@@ -10,17 +10,17 @@ tags = ["slides", "apresentacao"]
 
 Você é um gosta de palestras com slides com muitas imagens e pouco textos ou ao contrário?
 
-Já não vou para muitos eventos como alguns (muitos) anos atrás, os eventos que tenho ido tem sido recorrente palestras com pouco ou quase nenhum texto, muitas imagens e GIFs engraçadinhos ou muito mão na massa (palestrante faz uma demonstração do que está apresentando). Essas apresentações são montadas para que o público preste mais atenção no palestrante ao invés de ficarem lendo os slides, isso tem ajudado a tornar os eventos menos chatos e divertidos.
+Já não vou para muitos eventos como alguns (muitos) anos atrás, os eventos que tenho ido tem sido recorrente palestras com pouco ou quase nenhum texto, muitas imagens e [GIFs engraçadinhos](https://giphy.com/) ou muito mão na massa (palestrante faz uma demonstração do que está apresentando). Essas apresentações são montadas para que o público preste mais atenção no palestrante ao invés de ficarem lendo os slides, isso tem ajudado a tornar os eventos menos chatos e divertidos.
 
 Palestras motivacionais e/ou biográficas faz todo sentido adotar esta estratégia, mas vale ponderar se palestras técnicas (de TI) devem manter este estilo. Até o momento em que estou escrevendo este texto, acredito que as apresentações em palestras devem ter (bons) textos mas não em todos os slides. Se o palco e microfone é sua vida, este texto não é para você, mas se você é profissional de TI e quer/pretende/vai ministrar uma palestra e não sabe por onde começar, talvez abaixo tenha alguma coisa que vocễ possa aproveitar.
 
 ### Qual seu público?
 
-O público de uma apresentação não somente aquele que estará assistindo você, muitos eventos pedem para você disponibilizar sua apresentação para disponibilizar no site deles. Parte do seu público são também as pessoas que te acompanham nas redes sociais, portanto, considere ter uma conta num site como Slideshare, SpeakerDeck e outros. Por exemplo: a maioria dos acessos às minhas apresentações vem de smartphone, portanto, escolhi um site que tivesse um bom suporte para ser acessado por browser mobile (mobile friendly).
+O público de uma apresentação não somente aquele que estará assistindo você, muitos eventos pedem para você disponibilizar sua apresentação para disponibilizar no site deles. Parte do seu público são também as pessoas que te acompanham nas redes sociais, portanto, considere ter uma conta num site como [Slideshare](https://www.slideshare.net/), [SpeakerDeck](https://speakerdeck.com/) e outros. Por exemplo: a maioria dos acessos às minhas apresentações vem de smartphone, portanto, escolhi um site que tivesse um bom suporte para ser acessado por browser mobile (mobile friendly).
 
 ### Como usar as cores
 
-Não sou a melhor pessoa para dizer quais são as melhores combinações de cores de uma apresentação. O Eriksen Costa me ajudou (salvou) uma apresentação que montei usando uma paleta mais harmoniosa e muitas outras coisas. Sobre a paleta, ele recomendou usar o [ColourLovers](http://www.colourlovers.com/palettes/most-views/all-time/meta), lá tem várias combinações de paleta.
+Não sou a melhor pessoa para dizer quais são as melhores combinações de cores de uma apresentação. O [Eriksen Costa](https://twitter.com/eriksencosta) me ajudou (salvou) uma apresentação que montei usando uma paleta mais harmoniosa e muitas outras coisas. Sobre a paleta, ele recomendou usar o [ColourLovers](http://www.colourlovers.com/palettes/most-views/all-time/meta), lá tem várias combinações de paleta.
 
 Considere usar um fundo mais para o escuro em seus slides. Principalmente se a apresentação será gravada (em vídeo) e também se o público tire fotos do slides. Sim, fotos! Muitas pessoas tira foto de alguns slides específicos para compartilhar depois no trabalhou, rede social ou como lembrete para estudo posterior. A maioria das fotos são dos slides com frases que fazem a definição de conceito ou desenho de arquitetura de sistema.
 
@@ -43,8 +43,9 @@ Tente usar imagens com boa resolução gráfica e permissão de uso, quase sempr
 
 ### Como montar a apresentação...
 
-Um bom método para usar na criação de uma apresentação é o Storytelling, funcionou bem quando usei. Atualmente tenho criado as apresentações como o exemplo abaixo. Ele serve de base tanto para apresentação como um post no meu blog.
+Um bom método para usar na criação de uma apresentação é o [Storytelling](http://www.duarte.com/blog/storytelling-presentation-skills/), funcionou bem quando usei. Atualmente tenho criado as apresentações como o exemplo abaixo. Ele serve de base tanto para apresentação como um post no meu blog.
 
+```
 Assunto
  Mini-bio
  Subtema Luas
@@ -59,6 +60,7 @@ Assunto
       Notas do slide para falar
 Slide Imagem - estatísticas
 [...]
+```
 
 Cuidado com os efeitos nos slides, principalmente se você fizer o upload em PDF. Por enquanto não existe animação em PDFs (ainda bem...).
 
@@ -76,7 +78,7 @@ Não decore os textos e nem os leia, salvo quando são uma citação de alguém.
 
 ### Demos
 
-Se for fazer uma demonstração, grave um vídeo com o que você quer demonstrar. Os deuses das apresentações gostam de brincar com as demos, sempre alguma coisa dá errada nas minhas apresentações com demo. Se isso acontecer, toca o vídeo e comente as ações do vídeo. Tipo playback de show.
+Se for fazer uma demonstração, grave um vídeo com o que você quer demonstrar. Os deuses das apresentações gostam de brincar com as demos, sempre alguma coisa dá errada nas minhas apresentações com demo. Se isso acontecer, toca o vídeo e comente as ações do vídeo. Tipo [playback](https://pt.wikipedia.org/wiki/Playback) de show.
 
 ### Por fim, o grande dia
 
