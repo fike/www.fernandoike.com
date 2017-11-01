@@ -42,10 +42,10 @@ Tente usar imagens com boa resolução gráfica e permissão de uso, quase sempr
 
 Bons repositórios de imagens e fotos:
 
-Pexel - https://www.pexels.com/
-Pixbay - https://pixabay.com/
-Usplash - https://unsplash.com/
-Gihy - https://giphy.com/
+- Pexel - https://www.pexels.com/
+- Pixbay - https://pixabay.com/
+- Usplash - https://unsplash.com/
+- Gihy - https://giphy.com/
 
 
 ### Como montar a apresentação...
