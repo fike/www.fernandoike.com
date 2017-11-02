@@ -12,7 +12,7 @@ Você é um gosta de palestras com slides com muitas imagens e pouco textos ou a
 
 Já não vou para muitos eventos como alguns (muitos) anos atrás, os eventos que tenho ido é recorrente palestras com pouco ou quase nenhum texto, muitas imagens e [GIFs engraçadinhos](https://giphy.com/) ou muito mão na massa (palestrante faz uma demonstração do que está apresentando). Essas apresentações são montadas para que o público preste mais atenção no palestrante ao invés de ficarem lendo os slides, um bom efeito disso é que os eventos estão menos chatos e mais divertidos.
 
-Para palestras motivacionais e/ou biográficas, esta estratégia é muito adequada, mas palestra com o perfil mais técnico também faz sentido? Até o momento (ideia), acredito que elas devam ter (bons) textos em algumas parte dos slides. Se o paco e o microfone é sua vida, este texto não é para você, mas se você pe profissional de TI e quer/pretende/vai ministrar uma palestra e não sabe por onde começar, talvez um dos itens abaixo pode ajudar.
+Para palestras motivacionais e/ou biográficas, esta estratégia é muito adequada mas palestra com o perfil mais técnico também faz sentido? Até o momento (posso mudar de ideia...), acredito que elas devam ter (bons) textos em algums slides. Se o palco e o microfone é sua vida, este texto não é para você, mas se você pe profissional de TI e quer/pretende/vai ministrar uma palestra e não sabe por onde começar, talvez um dos itens abaixo pode ajudar.
 
 ### Qual seu público?
 
@@ -32,7 +32,7 @@ Não use fonte com a largura grande, as pessoas que estiverem mais ao fundo te a
 
 ### Os textos
 
-Textos são bons para trazer uma definição de conceito e destacar o que for relevante. Nunca formate um slide com textos em duas colunas ou com muitas palavras/frases, também se controle ao usar bullets. A recomendação dos papas das apresentações dizem para nunca usar bullet,  não sigo a risca mas tento evitar o máximo.
+Textos são bons para trazer uma definição de conceito e destacar o que for relevante. Nunca formate um slide com textos em duas colunas ou com muitas palavras/frases, também se controle ao usar bullets. A recomendação dos papas das apresentações dizem para nunca usar bullet,  não sigo a risca mas tento evitar ao máximo.
 
 Uma forma de me vigiar para não usar muito texto e bullets em um slide é falar no máximo um minuto por slide. Tenho a tendência a perder o raciocínio se ficar falando mais de um minuto por slide, exceto se for para contar uma história rápida (causo).
 
@@ -79,7 +79,7 @@ Por fim, considere contar em algum ponto da apresentação uma lição aprendida
 
 As pessoas que me conhecem já algum tempo lembram que geralmente eu preparava os slides das apresentações muito próximo dos eventos ou durante um evento. Fazer dessa maneira me deixava estressado e quase sempre achava que as minhas apresentações não estavam com boa qualidade.
 
-Atualmente, prefiro montar os slides das apresentações com antecedência para testá-la repassando com alguém. Bem como, faço alguns ensaios gravando o vídeo da apresentação ou narrando os slides enquanto estou no caminho do trabalho.
+Atualmente, prefiro montar os slides das apresentações com antecedência para testá-la repassando-a com alguém. Bem como, faço alguns ensaios gravando o vídeo da apresentação ou narrando os slides enquanto estou no caminho do trabalho.
 
 Não decore os textos e nem os leia, salvo quando são uma citação de alguém. Se fizer, não leia em voz alto como se fosse um ditado na escola. Comente os pontos mais importante, dê um tempo para as pessoas ler ou tirar foto.
 
