@@ -1,3 +1,4 @@
 hugo_deploy.sh
 public
 .DS_Store
+.vscode
