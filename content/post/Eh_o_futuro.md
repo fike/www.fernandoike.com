@@ -1,6 +1,6 @@
 +++
 title = "É o Futuro"
-date = 2017-11-13T21:30:53-02:00
+date = 2017-11-13T22:30:53-02:00
 draft = false
 description = "Tradução do texto de Paul Biggar (um dos fundadores da CircleCI) - It's future"
 categories = ["portugues", "devops"]
@@ -8,11 +8,13 @@ tags = ["portugues", "devops", "containers", "circleci", "kubernetes", "docker"]
 +++
 ![](/images/bunny.jpg)
 
-[Paul Biggar](https://twitter.com/paulbiggar) ([@paulbiggar](https://twitter.com/paulbiggar))escreveu no blog da [CircleCI](https://circleci.com/) uma pequena história sobre uma pessoa que desenvolveu um pequeno app (clássico CRUD) e outra pessoa entusiasta de todas novas tecnologias. Abaixo uma tradução livre e o original está [aqui](https://circleci.com/blog/its-the-future/). Se achar qualquer erro na tradução ou no português, abra uma [issue](https://github.com/fike/www.fernandoike.com).
+[Paul Biggar](https://twitter.com/paulbiggar) ([@paulbiggar](https://twitter.com/paulbiggar)) escreveu no blog da [CircleCI](https://circleci.com/) uma pequena história sobre uma pessoa que desenvolveu um pequeno app (clássico CRUD) e outra pessoa é entusiasta das novas tecnologias. Abaixo uma tradução livre e o original está [aqui](https://circleci.com/blog/its-the-future/). Se achar qualquer erro na tradução ou no português, abra uma [issue](https://github.com/fike/www.fernandoike.com).
+
+---
 
 Oi, meu chefe disse para falar contigo - Soube que você manja muito sobre aplicações web?
 
-**- Claro, Eu estou mais para um cara de sistemas distribuídos. Acabei de voltar da ContainerCamp e GlueCon, vou para a DockerCon na próxima semana. Estou muito empolgado em participar com a forma em que a indústria está se movendo - tornando tudo mais simples e confiável. É o futuro!**
+**- Claro, Estou mais para um cara de sistemas distribuídos. Acabei de voltar da ContainerCamp e GlueCon, vou para a DockerCon na próxima semana. Estou muito empolgado em participar com a forma em que a indústria está se movendo - tornando tudo mais simples e confiável. É o futuro!**
 
 Legal. Estou construindo uma aplicação web simples no momento - uma típica aplicação CRUD usando Rails e vai rodar no Heroku. É ainda o caminho a fazer?
 
@@ -22,7 +24,7 @@ Hm. Ok. O que é isso?
 
 **- Docker é a nova forma de construir conteinerização. É como LXC, mas é também um formato de pacote, uma plataforma de distribuição (de apps) e ferramentas para fazer sistemas distribuídos realmente simples.**
 
-Contain... - O que agora? O que é LXE?
+Contain... - O que? O que é LXE?
 
 **- É LXC. É um chroot com esteroides!**
 
@@ -34,11 +36,11 @@ Ah, tipo Vagrant.
 
 **- Não, Vagrant está morto. Tudo está indo para ser conteinerizado. É o futuro.**
 
-Ok, I não preciso saber mais nada sobre virtualização?
+Ok, não preciso saber mais nada sobre virtualização?
 
-**- Não, você ainda precisa da virtualização porque contêineres não fornecem uma história completa ainda. Então, se você quer rodar qualquer coisa num ambiente multi-tenant, você precisa garantir que nada escape do sandbox.**
+**- Não, você ainda precisa da virtualização porque contêineres não fornecem segurança completa ainda. Então, se você quer rodar qualquer coisa num ambiente multi-tenant, precisa garantir que nada escape do sandbox.**
 
-Ok, eu me perdi um pouco no assunto. Vamos recapitular. Há uma coisa do tipo virtualização chamada contêineres. Posso usar isso no Heroku?
+Ok, me perdi um pouco no assunto. Vamos recapitular. Há uma coisa do tipo virtualização chamada contêineres. Posso usar isso no Heroku?
 
 **- Veja bem, Heroku tem algum suporte ao docker mas como disse a você: Heroku está morto. Você precisa rodar seus containers no CoreOS.**
 
@@ -88,7 +90,7 @@ O que?
 
 Gify?
 
-**- "Google's infraestructure for everyone" (Infraestrutura do Google para todos). Você pega algumas ferramentas e stacks usando contêineres e pode ter uma infraestrutura como Google tem.**
+**- "Google's infraestructure for everyone" (Infraestrutura do Google para todos). Você pega algumas ferramentas e stacks usando contêineres e pode ter uma infraestrutura como tem o Google.**
 
 Por que eu não só uso as coisas do Google?
 
@@ -98,7 +100,7 @@ Ok. Alguém já faz hospedagem desse tipo de coisa? Eu não quero hospedar por m
 
 **- Bem, Amazon tem ECS mas você terá que escrever em XML ou alguma porcaria do tipo.**
 
-E quanto a alguma coisa no OpenStack?
+E quanto a hospedagem de   alguma coisa no OpenStack?
 
 **- Putz**
 
@@ -140,7 +142,7 @@ Orquestrar eles?
 
 Eu preciso de um cluster agora?
 
-**- Claro, para confiabilidade. Mas Kubernetes gerencia isso e você sabe que o Kubernetes funciona por que o Google  construiu-o e roda no etcd**
+**- Claro, pela confiabilidade. Mas Kubernetes gerencia isso e você sabe que o Kubernetes funciona por que o Google  construiu-o e roda no etcd.**
 
 O que é etcd?
 
@@ -150,17 +152,17 @@ Ok, o que é Raft?
 
 **- É como Paxos.**
 
-Cristo. Como ir a fundo neste maldito buraco de coelho em que estamos entrando. Só quero lançar um app. Suspiro. Ok, respira fundo. Jesus. Ok, o que é Paxos?
+Cristo. Indo a fundo neste maldito buraco de coelho em que estamos entrando. Só quero lançar um app. Suspiro. Ok, respira fundo. Jesus. Ok, o que é Paxos?
 
 **- Paxos é como este protocolo de consenso distribuído muito antigo dos anos 70 que ninguém usa ou entende.**
 
 Legal, obrigado por falar sobre eles. E Raft é o que?
 
-**- Como ninguém entender o Paxos, este cara é o Diego...**
+**- Como ninguém entende o Paxos, este cara é o Diego...**
 
 Ah, você conhece ele?
 
-**- Não, ele trabalha na CoreOS. De qualquer forma, Diego construiu o Raft para sua tese de PhD por que Paxos era muito difícil.  Um cara muito inteligente e doidão. Então, ele escreveu o ETCD como uma implementação e Aphyr disse que não é ruim.**
+**- Não, ele trabalha na CoreOS. De qualquer forma, Diego construiu o Raft para sua tese de PhD porque Paxos era muito difícil. Um cara muito inteligente e doidão. Então, ele escreveu o ETCD como uma implementação e Aphyr disse que não é ruim.**
 
 Quem é Aphyr?
 
@@ -196,11 +198,11 @@ Ah, como Redis.
 
 Ok. Então é armazenamento chave-valor **distribuído**. No que ele é útil?
 
-**- *Kubernetes configura um cluster padrão de 5 nós usando etcd como um barramento de mensagens. Ele combina com alguns dos serviços próprios do Kubernetes para fornecer um sistema de orquestração muito resiliente.**
+**- Kubernetes configura um cluster padrão de 5 nós usando etcd como um barramento de mensagens. Ele combina com alguns dos serviços próprios do Kubernetes para fornecer um sistema de orquestração muito resiliente.**
 
 5 nós? Eu tenho um app. Quantas máquinas vou precisar para tudo isso?
 
-**- Bem, terá cerca 12 serviços, e claro, você precisará de algumas cópias de cada uma, alguns balanceadores de carga, o cluster do etcd, seu banco de dados e o cluster do kubernetes. Portanto, seria como se 50 contêineres em execução.**
+**- Bem, terá cerca 12 serviços, e claro, você precisará de algumas cópias de cada um, alguns balanceadores de carga, o cluster do etcd, seu banco de dados e o cluster do kubernetes. Portanto, seria como se 50 contêineres em execução.**
 
 PQP!
 
@@ -210,7 +212,7 @@ Esse é um jeito de fazer. Serei capaz de fazer um simples deploy do meu app com
 
 **- Claro, armazenamento (storage) é uma questão em aberto com Docker e Kubernetes e rede dá um pouco de trabalho mas o básico está lá.**
 
-Entendo, Ok, Acho que consigo.
+Ok, Entendo. Acho que consigo.
 
 **- Legal.**
 
@@ -222,7 +224,7 @@ Deixe só eu resumir para ver se entendi direito.
 
 **- Claro.**
 
-Então, só preciso separar meu app CRUD em 12 micro-serviços, cada com sua própria API na qual chama outras APIs mas tolerante a falhas, coloco dentro de contêiner Dockers, instalo um cluster de 8 máquinas que terão Docker Host rodando CoreOS, “orquestrador” deles usando um cluster pequeno de Kubernetes rodando etcd, entendendo as “questões abertas” de rede e armazenamento e então entrego continuamente múltiplas cópias redundantes de cada micro-serviço no meu cluster. É isso?
+Então, só preciso separar meu app CRUD em 12 micro-serviços, cada com sua própria API na qual chama outras APIs mas tolerante a falhas, coloco dentro de contêineres Docker, instalo um cluster de 8 máquinas que terão Docker Host rodando CoreOS, “orquestrador” deles usando um pequeno cluster de Kubernetes rodando etcd, entendendo as “questões abertas” de rede e armazenamento e então entrego continuamente múltiplas cópias redundantes de cada micro-serviço no meu cluster. É isso?
 
 **Sim! Não é glorioso?**
 
