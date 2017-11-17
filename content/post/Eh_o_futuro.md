@@ -16,9 +16,9 @@ Oi, meu chefe disse para falar contigo - Soube que você manja muito sobre aplic
 
 **- Claro, Estou mais para um cara de sistemas distribuídos. Acabei de voltar da ContainerCamp e GlueCon, vou para a DockerCon na próxima semana. Estou muito empolgado em participar com a forma em que a indústria está se movendo - tornando tudo mais simples e confiável. É o futuro!**
 
-Legal. Estou construindo uma aplicação web simples no momento - uma típica aplicação CRUD usando Rails e vai rodar no Heroku. É ainda o caminho a fazer?
+Legal. Estou construindo uma aplicação web simples no momento - uma típica aplicação CRUD usando Rails e vai rodar no Heroku. É ainda um bom caminho?
 
-**- Não, Isso é old school (antigo). Heroku está morto - ninguém usa mais. Você tem que usar Docker agora. É o futuro.**
+**- Não, isso é old school (antigo). Heroku está morto - ninguém usa mais. Você tem que usar Docker agora. É o futuro.**
 
 Hm. Ok. O que é isso?
 
@@ -30,7 +30,7 @@ Contain... - O que? O que é LXE?
 
 O que é cher-oot?
 
-**- Hum, veja. Docker. Conteinerização. É o futuro. É como virtualização mas rápido e barato.**
+**- Hum, veja. Docker. Conteinerização. É o futuro. É como virtualização porém mais rápido e barato.**
 
 Ah, tipo Vagrant.
 
@@ -38,7 +38,7 @@ Ah, tipo Vagrant.
 
 Ok, não preciso saber mais nada sobre virtualização?
 
-**- Não, você ainda precisa da virtualização porque contêineres não fornecem segurança completa ainda. Então, se você quer rodar qualquer coisa num ambiente multi-tenant, precisa garantir que nada escape do sandbox.**
+**- Não, você ainda precisa da virtualização porque contêineres ainda não fornecem segurança completa. Então, se você quer rodar qualquer coisa num ambiente multi-tenant, precisa garantir que nada escape do sandbox.**
 
 Ok, me perdi um pouco no assunto. Vamos recapitular. Há uma coisa do tipo virtualização chamada contêineres. Posso usar isso no Heroku?
 
@@ -100,7 +100,7 @@ Ok. Alguém já faz hospedagem desse tipo de coisa? Eu não quero hospedar por m
 
 **- Bem, Amazon tem ECS mas você terá que escrever em XML ou alguma porcaria do tipo.**
 
-E quanto a hospedagem de   alguma coisa no OpenStack?
+E quanto a hospedagem de alguma coisa no OpenStack?
 
 **- Putz**
 
