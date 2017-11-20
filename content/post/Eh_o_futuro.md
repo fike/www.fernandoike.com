@@ -128,7 +128,7 @@ Isso parece um exagero.
 
 **É o único caminho para ser confiável. Então, se seu serviço de autenticação cair...**
 
-Serviço de autenticação? I só queria usar esta gem que já use algumas vezes.
+Serviço de autenticação? Eu só queria usar esta gem que já use algumas vezes.
 
 **- Legal. Use a gem. Coloque-o num projeto próprio. Crie uma API RESTful para ele. Em seguida, seus outros serviços usarão esta API e gerenciarão graciosamente as falhas. Coloque num contêiner e entregue continuamente esta porcaria.**
 
