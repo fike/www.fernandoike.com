@@ -1,14 +1,14 @@
 +++
 title = "Devops: Os três Eureka!"
 date = 2017-12-17T10:51:39-02:00
-draft = true
+draft = false
 description = "A evolução conceitual do DevOps na minha cabeça"
 categories = ["devops", "portugues"]
 tags = ["devops", "flickr", "ebc", "agile", "lean", "ford", "taylor", "management 3.0"]
 +++
 ![light_off](/images/light_off.jpg)
 
-"**Eureka!**" é um termo antigo conhecido por Arquimedes, poucas pessoas utilizam atualmente mas é uma boa expressão para mostrar como e quando tive três grandes mudanças na minha visão sobre DevOps. 
+"**Eureka!**" é um termo antigo conhecido por [Arquimedes](https://en.wikipedia.org/wiki/Archimedes), poucas pessoas utilizam atualmente mas é uma boa expressão para mostrar como e quando tive três grandes mudanças na minha visão sobre DevOps. 
 
 # Os três Eureka!
 
