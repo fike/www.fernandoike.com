@@ -7,6 +7,9 @@ categories = ["devops", "sre", "portugues"]
 tags = ["portugues", "devops", "sre", "blameless", "postmortem", "agile"]
 
 +++
+*Obrigado a todos que revisaram este texto, especialmente o [Álefe](https://github.com/alefeans) por mandar sugestões de mudanças. Se você encontrar também, manda o [PR](https://github.com/fike/www.fernandoike.com/issues). :)*
+
+
 Se ainda não viu uma vaga de trabalho ou mesmo só a sigla SRE, então se prepare porque a tendência é tornar-se bem popular. O acrônimo SRE é usado para descrever tanto **Site Reliability Engineering** ("Disciplina/Cultura") **como Site Reliability Engineer** (descrição de função/vaga de trabalho). O termo foi criado em 2003 por [Ben Treynor](https://www.linkedin.com/in/benjamin-treynor-sloss-207120/), atual VP de Engenharia do Google e ele relata sobre a criação da equipe no livro [Site Reliability Engineering](https://landing.google.com/sre/book/). (tradução livre)
 
 > SRE é o que acontece quando você pede para um engenheiro de software para projetar uma equipe de operações. Quando entrei no Google em 2003 e recebi a tarefa de gerenciar uma "Equipe de Produção" de sete engenheiros, durante a minha vida fui engenheiro de software até aquele ponto. Então, projetei e gerenciei o grupo da maneira que eu gostaria que ele funcionasse, se eu trabalhasse como um SRE. Desde então, esse grupo amadureceu para se tornar a equipe atual de SRE do Google que permanece fiel a suas origens como previsto por engenheiro de software ao longo da vida.
@@ -147,7 +150,7 @@ Outros testes que não foram mencionado mas considero relevante são os testes d
 
 SRE usa muito da cultura ágil como também tem muito da cultura DevOps, a grande diferença (para mim) é que as disciplina envolvidas em SRE são visíveis e o entendimento sobre SRE é conciso, diferentemente de DevOps que cada um tem uma interpretação diferente do que é. Não foi mencionado explicitamente acima mas vale mencionar é que automação é fortemente utilizada e a estratégia de deploy dos sistemas é o [Canary](https://martinfowler.com/bliki/CanaryRelease.html).
 
-Já vi algumas descrições de vagas SRE em sites de emprego aqui no Brasil, diferentemente de DevOps, SRE pode ser descrito como uma função de trabalho. Talvez não se torne tão popular por alguma restrição do CREA porque a profissão de engenheiro é regulamentada por eles. Então, mesmo que não você não seja um SRE onde trabalha, o importante é entender as disciplinas envolvidas e cultura. Provavelmente parte do que foi destacado neste texto ou no livro de SRE do Google você já deve fazer.
+Diferente de Devops, SRE pode ser definidado como uma função/vaga de trabalho. Talvez não se torne tão popular por alguma restrição do CREA porque a profissão de engenheiro é regulamentada por eles. Então, mesmo que não você não seja um SRE onde trabalha, o importante é entender as disciplinas envolvidas e cultura. Provavelmente parte do que foi destacado neste texto ou no livro de SRE do Google você já deve fazer.
 
 No momento, vejo SRE para infraestrutura como uma profunda e metódica forma de transformar a área de operações (infraestrutura) em ambientes altamente resilientes, autônomos (é diferente de automatizado) e de alta confiabilidade. A Tickemaster é um caso interessante e factível para a maioria das organizações, eles têm as funções de SRE como parte da cultura DevOps. Você pode usar SRE e/ou DevOps, ressaltando que o objetivo é transformar a organização de baixa para alta performance.
 
