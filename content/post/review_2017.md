@@ -12,7 +12,7 @@ Este post é uma nota para mim num futuro nem tão distante para lembrar o quant
 
 ### Meetup Docker São Paulo 
 
-Desde 2016 estou como um dos organizadores (agora chamado [Community Leader](https://blog.docker.com/2017/11/community-leaders/)) do [Meetup Docker São Paulo](https://www.meetup.com/Docker-Sao-Paulo/). Em 2017 foram realizados 9 eventos abordando os mais diversos assuntos relacionados ao [Docker](https://www.docker.com/) e Containers. Obrigado aos palestrantes, empresas que cederam espaço para realizar os eventos e as pessoas que participaram ativamente dos eventos. Claro que não posso esquecer de mencionar os outros organizadores do Meetup que foram importantes para realização dos eventos: [Giovanni Bassi](https://twitter.com/giovannibassi) e [Wellington "Boina" Silva](https://twitter.com/_wsilva)
+Desde 2016 estou como um dos organizadores (agora chamado [Community Leader](https://blog.docker.com/2017/11/community-leaders/)) do [Meetup Docker São Paulo](https://www.meetup.com/Docker-Sao-Paulo/). Em 2017 foram realizados 9 eventos abordando os mais diversos assuntos relacionados ao [Docker](https://www.docker.com/) e Containers. Obrigado aos palestrantes, empresas que cederam espaço para realizar os eventos e as pessoas que participaram ativamente dos eventos. Claro que não posso esquecer de mencionar os outros organizadores do Meetup que foram importantes para realização dos eventos: [Giovanni Bassi](https://twitter.com/giovannibassi) e [Wellington "Boina" Silva](https://twitter.com/_wsilva).
 
 ### 17 textos publicados
 

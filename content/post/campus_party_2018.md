@@ -1,10 +1,10 @@
 +++
 title = "Campus Party 2018 São Paulo"
 date = 2018-02-06T11:43:35-02:00
-draft = true
-description = "Uma resenha sobre a Campus Party 2018"
-categories = ["deops"]
-tags = [""]
+draft = false
+description = "Uma resenha sobre a Campus Party 2018 em São Paulo, um reflexão sobre usar Scrum sem entregar valor de verdade e por fim as palestras sobre DevOps Anti-Patterns e Síndrome do Impostor"
+categories = ["devops", "agile", "scrum", "portugues"]
+tags = ["devops", "agile", "scrum", "portugues", "sindrome do impostor"]
 +++
 Campus Party 2018 - São Paulo
 
@@ -18,7 +18,7 @@ As propostas foram enviadas pelo sistema do [Campusero](https://campuse.ro/) na 
 
 ## A apresentação - DevOps Anti-Patterns
 
-Há dois anos atrás fiz atrás fiz essa apresentação e foi uma boa hora para uma revisão com as coisas que  dizem ser “DevOps” em 2018 mas se tiver um olhar mais profundamente veremos que falta alguma coisa. Ao final da apresentação um rapaz (desculpa, sou péssimo para guardar nomes) veio conversar sobre onde trabalha, a organização tem várias produtos (softwares) criados no modelo tradicional (waterfall) e estão criando um novo produto usando Scrum. Os líderes da organização estão com dificuldade para entender se a equipe está entregando valor e ele está tentando manter a equipe produtiva mas isso tem sido uma tarefa bem difícil.
+Há dois anos atrás fiz atrás fiz essa apresentação e foi uma boa hora para uma revisão com as coisas que  dizem ser “DevOps” em 2018 mas se tiver um olhar mais profundamente veremos que falta alguma coisa. Ao final da apresentação um rapaz (desculpa, sou péssimo para guardar nomes) veio conversar sobre onde trabalha, a organização tem várias produtos (softwares) criados no modelo tradicional (waterfall) e estão criando um novo produto usando [Scrum](https://www.scrum.org/resources/what-is-scrum). Os líderes da organização estão com dificuldade para entender se a equipe está entregando valor e ele está tentando manter a equipe produtiva mas isso tem sido uma tarefa bem difícil.
 
 No decorrer da conversa identificamos dois grandes entraves:
 
@@ -30,7 +30,7 @@ No decorrer da conversa identificamos dois grandes entraves:
 
 O feedback aqui é dos potenciais clientes, um das coisas mais frustrantes para qualquer pessoa é investir muito tempo em alguma coisa e saber depois de muito tempo que aquilo não irá servir para muito coisa. O mesmo vale para uma organização, o produto não foi testado nos potenciais clientes então não tem como saber se o produto vai ter aceitação do mercado do jeito que está ou irá precisar de ajustes. 
 
-Enfim, ao final concluímos que uma ajuda externa (consultoria de “Agile/Lean”) poderia ajudar muito eles com exemplos de outras organizações, espero realmente que tenham sucesso. :)
+Enfim, ao final concluímos que uma ajuda externa (consultoria de “*Agile/Lean*”) poderia ajudar muito eles com exemplos de outras organizações, espero realmente que tenham sucesso. :)
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/KomSWCzTyUwp00" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/fernandoike/dev-ops-anti-patterns-campus-party" title="DevOps Anti-Patterns - Campus Party" target="_blank">DevOps Anti-Patterns - Campus Party</a> </strong> from <strong><a href="https://www.slideshare.net/fernandoike" target="_blank">Fernando Ike</a></strong> </div>
 
