@@ -18,7 +18,7 @@ As propostas foram enviadas pelo sistema do [Campusero](https://campuse.ro/) na 
 
 ## A apresentação - DevOps Anti-Patterns
 
-Há dois anos atrás fiz essa apresentação e é uma boa hora para uma revisão com as coisas que  dizem ser “DevOps” em 2018 mas se tiver um olhar mais profundamente veremos que falta alguma coisa. Ao final da apresentação um rapaz (desculpa, sou péssimo para guardar nomes) veio conversar sobre onde trabalha, a organização tem várias produtos (softwares) criados no modelo tradicional (waterfall) e estão criando um novo produto usando Scrum. Os líderes da organização estão com dificuldade para entender se a equipe está entregando valor e ele está tentando manter 
+Há dois anos atrás fiz essa apresentação e agora foi uma boa hora para uma revisão com as coisas que  dizem ser “DevOps” em 2018 mas se tiver um olhar mais profundamente veremos que falta alguma coisa. Ao final da apresentação um rapaz (desculpa, sou péssimo para guardar nomes) veio conversar sobre onde trabalha, a organização tem várias produtos (softwares) criados no modelo tradicional (waterfall) e estão criando um novo produto usando Scrum. Os líderes da organização estão com dificuldade para entender se a equipe está entregando valor e ele está tentando manter 
 
 No decorrer da conversa identificamos dois grandes entraves:
 
