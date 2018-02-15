@@ -16,7 +16,7 @@ Este texto não tem a intenção de ser uma receita prática e infalível de com
 
 <iframe src="https://giphy.com/embed/3HAYjf986boJO698zIY" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/powerade-basketball-yes-ok-3HAYjf986boJO698zIY"></a></p>
 
-Como ela não é classificado como uma doença mas ela pode ser um grande limitador de produtividade e evolução profissional. A maioria das pessoas que estão com Síndrome do Impostor tem grande potencial de desenvolvimento e ganho de produtividade, antes de rotulá-las, observer com um pouco mais de atenção e pense em potenciais oportunidades de atividades para que a pessoa possa cumprir. Reforçando, a maioria das pessoas já estiveram, estão ou estarão com ela.  
+Como ela não é classificado como uma doença mas ela pode ser um grande limitador de produtividade e evolução profissional. A maioria das pessoas que estão com Síndrome do Impostor tem grande potencial de desenvolvimento e ganho de produtividade, antes de rotulá-las, observer com um pouco mais de atenção e pense em potenciais oportunidades de atividades para que a pessoa possa cumprir. Reforçando, a [maioria](https://en.wikipedia.org/wiki/Impostor_syndrome) das pessoas já estiveram, estão ou estarão com ela.
 
 ## Não pressione
 
