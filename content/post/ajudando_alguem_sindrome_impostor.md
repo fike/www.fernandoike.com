@@ -2,7 +2,7 @@
 title = "Como ajudar alguém com Síndrome do Impostor"
 date = 2018-02-14T21:55:02-02:00
 draft = false
-description = "Alguns ine"
+description = "Alguns formas de ajudar alguém que está com Síndrome do Impostor, este texto terá outras atualizações..."
 categories = ["devops", "portugues"]
 tags = ["mentoria", "devops", "portugues", "sindrome do impostor"]
 +++
