@@ -1,7 +1,7 @@
 +++
 title = "Review DevOpsDays Sao Paulo 2018"
 date = 2018-07-22T11:15:30-03:00
-draft = true
+draft = false
 description = "Uma resenha de como foi orgainzar o DevOpsDays São Paulo 2018"
 categories = ["devops", "portugues", "agile", "lean"]
 tags = ["devopsdays", "devops", "portugues", "agile", "lean", "tests"]
