@@ -76,7 +76,8 @@ Nós perdemos alguns patrocínios por causa dessa premissa, isso de maneira nenh
 Como já citado anteriormente, nós tivemos +- 240 pessoas no evento com a média de idade de 32 anos, pessoas de 9 estados do Brasil e + de 40 cidades participaram.
 
 O perfil do público era majoritariamente masculino, apenas 12,5% se declaram mulheres. Nós acreditávamos que teriam mais mulheres no evento porque o evento teve mais de ⅓ de palestrantes mulheres. Isso reforça a necessidade de adotar estratégias para que haja mais mulheres em eventos de TI, entre elas (estratégias): ingressos com desconto, campanha nos grupos femininos, entre outros.  
-Inscrições
+
+# Inscrições
 
 Os ingressos esgotaram há uma semana antes do evento, evidenciando o sucesso do mesmo. Contudo, durante a construção do evento aprendemos algumas coisas importantes que ficaram de lição para os próximos eventos.
 
