@@ -1,5 +1,5 @@
 +++
-title = "Um review do DevOpsDays 2019"
+title = "Um review do DevOpsDays 2019 São Paulo"
 date = 2019-04-29T22:10:13-03:00
 draft = false
 description = "Balanço e relatório do DevOpsDays São Paulo 2019"
