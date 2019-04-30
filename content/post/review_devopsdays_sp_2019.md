@@ -6,6 +6,8 @@ description = "Balanço e relatório do DevOpsDays São Paulo 2019"
 categories = ["portugues", "devops", "devopsdays"]
 tags = ["portugues", "devops", "devopsdays", "containers", "kubernetes"]
 +++
+![](/images/take_a_note.jpg)
+
 # Introdução 
 
 Este é um relatório com os dados estatísticos e lições aprendidas sobre o [DevOpsDays São Paulo 2019](https://devopsdays.org/events/2019-sao-paulo/welcome/), realizado nos dia 10 e 11 de Abril no [Hotel Century Paulista](https://www.centuryflat.com.br/).
