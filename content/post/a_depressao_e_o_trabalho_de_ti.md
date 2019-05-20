@@ -28,19 +28,19 @@ Não existe (ainda) um estudo identificando a relação dos profissionais de TI,
 
 ## A Depressão/Ansiedade
 
-Os dados estatísticos sobre Depressão e Ansiedade sobre a capacidade de trabalho das pessoas da Organização Mundial da Saúde mostram que há a necessidade de ter ações para tratar o assunto com seriedade. Eles mostram que há + de 300 milhões de pessoas com Depressão e + de 200 milhões de pessoas com Ansiedade. 
+Os dados estatísticos sobre Depressão e Ansiedade sobre a capacidade de trabalho das pessoas da **O**rganização **M**undial da **S**aúde (OMS) mostram que há a necessidade de ter ações para tratar o assunto com seriedade. Eles mostram que há + de 300 milhões de pessoas com Depressão e + de 200 milhões de pessoas com Ansiedade. 
 
 Uma [notícia](https://epocanegocios.globo.com/Carreira/noticia/2017/02/mais-de-75-mil-pessoas-foram-afastadas-do-trabalho-por-depressao-em-2016.html) via Agência Globo cita que em 2017 mais de 70 mil pessoas foram afastadas por Depressão no Brasil (citam dados da Previdência Social). Apenas 5% das pessoas afastadas são reabilitadas a voltar ao trabalho. A impressão que tenho que a quantidade de pessoas afastadas é maior do que reportado na matéria, ao menos na área da TI.
 
-O diagnóstico da Depressão não é tão simples como uma doença com sintomas específicos (gripe, caxumba, sarampo, etc.), pode-se levar muito tempo até que tenha um diagnóstico e ainda mais tempo que tenha o tratamento adequado. Citando o tratamento, também não como o tratamento de uma doença com o agente sendo uma bactéria (ex: tomar antibiótico por alguns dias), porque não tem uma maneira específica de tratar. O tratamento para depressão tem diversas medidas, as principais são remédios, psicoterapia e atividade física. Para cada indivíduo com depressão, haverá  um tratamento distinto de outro. 
+O diagnóstico da Depressão não é tão simples como uma doença com sintomas específicos (gripe, caxumba, sarampo, etc.), pode-se levar muito tempo até que tenha um diagnóstico e ainda mais tempo que tenha o tratamento adequado. Citando o tratamento, também não é como o tratamento de uma doença com o agente sendo uma bactéria (ex: tomar antibiótico por alguns dias), porque não tem uma maneira específica de tratar. O tratamento para depressão tem diversas medidas, as principais são remédios, psicoterapia e atividade física. Para cada indivíduo com depressão, haverá  um tratamento distinto de outro. 
 
 Há um tabu em falar e discutir sobre Depressão/Ansiedade nas organizações, na maioria das vezes sequer fala-se a respeito. Em muitas organizações não há políticas para identificar e ajudar os colabores a procurar tratamento, muitas vezes o assunto é tratado como descaso ou com preconceito.
 
-A minha depressão foi identificada tardiamente, ela já estava ali comigo há alguns anos mas não foi identificados pelos meus colegas, pelas áreas responsáveis por pessoas (RH), líderes diretos ou mesmo por mim. Somente depois de algum tempo tratando a depressão consegui perceber que ela estava comigo há alguns anos.
+A minha depressão foi identificada tardiamente, ela já estava ali comigo há alguns anos mas não foi identificados pelos meus colegas, pelas áreas responsáveis por pessoas (RH), líderes diretos ou mesmo por mim. Somente depois de algum tempo tratando a depressão consegui perceber que ela estava comigo algum tempo.
 
 ## Eu sou o problema?
 
-Na maioria absoluta das vezes as pessoas que estão com depressão ou crise de ansiedade não sabem que estão mas sabem que tem alguma coisa que não está no lugar. No meu caso eu não conseguia ser realmente produtivo, demorava muito para conseguir executar uma atividade (levava semanas para fazer algo que faço em dias/horas atualmente). Algumas pessoas que conversei a respeito relataram que elas simplesmente ficavam paralisadas ao olhar a quantidade de atividades que tinham para fazer ou simplesmente não se sentiam capazes de executá-las, procrastinando por muito tempo pois elas tinham medo de fracassarem.
+Na maioria absoluta das vezes as pessoas que estão com depressão ou crise de ansiedade não sabem que estão, mas sabem que tem alguma coisa que não está no lugar. No meu caso eu não conseguia ser realmente produtivo, demorava muito para conseguir executar uma atividade (levava semanas para fazer algo que faço em dias/horas atualmente). Algumas pessoas que conversei a respeito relataram que elas simplesmente ficavam paralisadas ao olhar a quantidade de atividades que tinham para fazer ou simplesmente não se sentiam capazes de executá-las, procrastinando por muito tempo pois elas tinham medo de fracassarem.
 
 Provavelmente você terá outros exemplos e fique livre para comentar neste post ou em privado comigo se não se sentir confortável em relatar publicamente. Se você estiver se sentindo improdutivo em relação ao passado, pergunte para uma pessoa que você confia se ela está vendo que você está diferente: se está mais disperso, demorando mais tempo para fazer uma atividade ou está esquecendo de fazer partes da atividade.
 
@@ -56,7 +56,7 @@ Alguns lugares que trabalhei adotaram uma política interessante, as reuniões s
 
 Não estou dizendo que os escritórios abertos causam depressão, mas há que ter uma equilíbrio entre o silêncio, concentração para realizar as atividades e um ambiente descontraído/”interativo” e aberto.
 
-Provável que meus argumentos não foram suficiente, certo? Vale a leitura de dois textos a respeito: [A new study should be the final nail for open-plan offices](https://theconversation.com/a-new-study-should-be-the-final-nail-for-open-plan-offices-99756) e [Why open offices are bad for us](http://www.bbc.com/capital/story/20170105-open-offices-are-damaging-our-memories)
+Provável que meus argumentos não foram suficiente, certo? Vale a leitura de dois textos a respeito: [A new study should be the final nail for open-plan offices](https://theconversation.com/a-new-study-should-be-the-final-nail-for-open-plan-offices-99756) e [Why open offices are bad for us](http://www.bbc.com/capital/story/20170105-open-offices-are-damaging-our-memories).
 
 ## Como ajudar?
 
@@ -65,7 +65,7 @@ Não tem um jeito fácil de ajudar ou dizer que alguém talvez esteja com Depres
 
 A OPAS recomenda algumas ações se você acredita que está com depressão:
 
-* Converse sobre os seus sentimentos com uma pessoa de confiança. A maior parte das pessoas se sente melhor depois de conversar com alguém que se preocupa consigo.
+* Converse sobre os seus sentimentos com uma pessoa de confiança. A maior parte das pessoas se sente melhor depois de conversar com alguém que se preocupa contigo.
 
 * Busque ajuda especializada. Um profissional de saúde ou médico local é um bom começo.
 
@@ -89,13 +89,13 @@ A OPAS recomenda algumas ações se você acredita que está com depressão:
 
 Eu já errei muito aqui, principalmente de exigir que a pessoa tenha o desempenho de como se não tivesse com Depressão. Portanto, se perceber que há alguma coisa diferente, tente conversar a respeito e ajude a organizar as atividades para que a pessoa consiga terminar as tarefas. Não espere sugestão vindo dela do que pode fazer e nem pergunte isso, se ela não sabe que está com depressão, não entenderá e achará que o trabalho dela estará ameaçado.
 
-Existem diversos graus de depressão, alguns deles é factível da pessoa continuar trabalhando sem a necessidade dela ficar afastada. Não cobre dela a mesma produtividade que os outros, tente diminuir o escopo de trabalho e engage o time a ajudá-la a terminar as tarefas. Fazẽ-la sentir-se produtiva ajuda muito a não piorar a depressão.
+Existem diversos graus de depressão, alguns deles é factível da pessoa continuar trabalhando sem a necessidade dela ficar afastada. Não cobre dela a mesma produtividade que os outros, tente diminuir o escopo de trabalho e engage o time a ajudá-la a terminar as tarefas. Fazê-la sentir-se produtiva ajuda muito a não piorar a depressão.
 
 Não deixe de conversar com o RH, departamento pessoal sobre como lidar com alguém que está com suspeita de depressão. Se for uma organização com o mínimo de estrutura para lidar com casos como esse, conseguirá ajudar. 
 
 ### Como Organização
 
-Segundo a [American Psiquiatric Association](https://psychnews.psychiatryonline.org/doi/full/10.1176/appi.pn.2018.8a7), entre 6 e 7 por cento dos trabalhadores americanos tem depressão. Eles também citam que trabalhadores americanos  com depresao perdem 31,4 dias de trabalho e 27,8 dias de trabalho são improdutivos. Isso representa um custo estimado de 44 bilhões de dólares anualmente.
+Segundo a [American Psiquiatric Association](https://psychnews.psychiatryonline.org/doi/full/10.1176/appi.pn.2018.8a7), entre 6 e 7 por cento dos trabalhadores americanos têm depressão. Eles também citam que trabalhadores americanos  com depressão perdem 31,4 dias de trabalho e 27,8 dias de trabalho são improdutivos. Isso representa um custo estimado de 44 bilhões de dólares anualmente.
 
 Organizar o escritório para ter áreas onde possa estar para fazer trabalho que exige concentração é importante se existem funções diretamente relacionadas a Tecnologia da Informação. Também mostrar para toda organização que tratam isso com seriedade ajuda, como por exemplo: ter uma política para mostrar claramente que a organização se importa coma saúde mental de seus colaboradores e ter um programa para ajudar a identificar e tratar o assunto com a seriedade necessária.
 

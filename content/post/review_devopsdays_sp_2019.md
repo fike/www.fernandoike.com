@@ -40,7 +40,7 @@ Sobre a menor representatividade de outras cidades e estados, temos uma hipótes
 
 A definição da função profissional continua sendo bem intrigante: os participantes descrevam 122 papéis diferentes! Veja abaixo os perfis que mais apareceram:
 
-![](/images/dodsp2019_conhecimento.png)
+![](/images/dodsp2019_funcoes_trabalho.png)
 
 
 ## Patrocinadores e apoiadores
