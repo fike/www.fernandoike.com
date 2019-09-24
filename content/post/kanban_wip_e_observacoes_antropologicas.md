@@ -1,7 +1,7 @@
 +++
 title = "Kanban, WIP e observações antropológicas"
 date = 2019-09-24T10:44:13-03:00
-draft = true
+draft = false
 description = "O segundo caso de implantação de Kanban"
 categories = ["kanban", "agile", "devops", "portugues"]
 tags = ["kanban", "agile", "devops", "portugues", "scrum", "wip"]
