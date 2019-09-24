@@ -9,7 +9,7 @@ tags = ["portugues", "devops", "kanban", "agile"]
 ![](/images/kanban.jpg)
 
 
-Há dez anos atrás quando Agile e DevOps no Governo Federal não havia muitos casos de governo, nesta época participei da implantação de ambos com relativo sucesso e muitas lições aprendidas na [EBC](https://www.ebc.com.br/). Inicialmente, havia uma resistência das equipes em usar novas tecnologias, métodos ou serviços. 
+Há nove anos atrás quando Agile e DevOps no Governo Federal não havia muitos casos de governo, nesta época participei da implantação de ambos com relativo sucesso e muitas lições aprendidas na [EBC](https://www.ebc.com.br/). Inicialmente, havia uma resistência das equipes em usar novas tecnologias, métodos ou serviços. 
 
 A desconfiança entre as pessoas da equipe era grande, não havia muita conversa sobre as atividades em execução, planejamento ou mesmo conversa de boteco. Ou seja, elas estavam confinadas fisicamente numa mesma área da organização, contudo não eram uma equipe, uma típica cena daquela época em muitas instituições públicas. Um das causas era a frequente mudança de lideranças, como consequência, havia uma mudança frequente de diretrizes, o que fazer e como fazer. O efeito colateral era começar muitos projetos e quase nunca terminá-los. 
 
