@@ -6,21 +6,23 @@ description = "O segundo caso de implantação de Kanban"
 categories = ["kanban", "agile", "devops", "portugues"]
 tags = ["kanban", "agile", "devops", "portugues", "scrum", "wip"]
 +++
-Algum tempo atrás postei no twitter uma referência sobre limitação de WIP (Work-in-Progress) e como isso impacta as mudanças nas equipes.
+Algum tempo atrás postei no twitter uma referência sobre limitação de WIP (**Work-in-Progress**) e como isso impacta as mudanças nas equipes.
 
 <blockquote class="twitter-tweet"><p lang="pt" dir="ltr">Não tenho certeza de quem ouvi mas acho que foi do <a href="https://twitter.com/rodrigoy?ref_src=twsrc%5Etfw">@rodrigoy</a>, não usando as mesmas palavras: Aplicar WIP no Kanban é uma experiência antropoĺógica. <a href="https://t.co/DrDZWi5uAY">pic.twitter.com/DrDZWi5uAY</a></p>&mdash; fernandoike (@fernandoike) <a href="https://twitter.com/fernandoike/status/1137056112996470785?ref_src=twsrc%5Etfw">June 7, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 
-O tweet está relacionado a uma implantação do Kanban numa startup no qual a equipe de Engenharia, também conhecida como Tecnologia da Informação, estava mudando a forma de organizar suas atividades vindo de uma experiência anterior com Scrum. Idealmente esta implementação deveria ser baseada no [STATIK](), mas infelizmente não consegui seguir nessa linha. A experiência anterior das equipes com SCRUM possibilitou ter alguma organização dos projetos e atividades das equipes, mas havia um conflito constante entre o que estava sendo entregue pelas equipes e o que estava sendo demandado pelas outras das áreas da organização e clientes.
+O tweet está relacionado a uma implantação do Kanban numa startup no qual a equipe de Engenharia, também conhecida como Tecnologia da Informação, estava mudando a forma de organizar suas atividades vindo de uma experiência anterior com Scrum. Idealmente esta implementação deveria ser baseada no [STATIK](https://www.knowledge21.com.br/blog/o-que-e-statik-dicas-aplicar-kanban/), mas infelizmente não consegui seguir nessa linha. A experiência anterior das equipes com SCRUM possibilitou ter alguma organização dos projetos e atividades das equipes, mas havia um conflito constante entre o que estava sendo entregue pelas equipes e o que estava sendo demandado pelas outras das áreas da organização e clientes.
 
 Havia dois problemas mais evidentes:
 
-1 - Papéis demais para um mesmo responsável
+**1 - Papéis demais para um mesmo responsável**
+
 Uma mesma pessoa exercia o papel de Scrum Master, Product Owner e ainda liderança das equipes (Scrum-Product-Boss). A sobreposição de papéis acabava, invariavelmente, numa comunicação verticalizada das equipes. Os desenvolvedores apenas executava as tarefas já previamente discriminadas pelo SPB, uma parte significativa dos desenvolvedores não sentiam-se responsáveis pelo desenvolvimento e pelas entregas previstas, eles se sentiam como Macaco Programadores. Como consequência, a maioria das novas funcionalidades, como também, correção de bugs eram entregues fora dos prazos estipulado.
 
 Quando as pessoas que são responsáveis, neste caso os desenvolvedores, não têm a oportunidade de entender o contexto do projeto ou da atividade que está sendo designada para ele, o resultado quase sempre é o artefato que será entregue não corresponde ao que foi requisitado.
 
-2 - A inflexibilidade dos rituais
+**2 - A inflexibilidade dos rituais**
+
 Qualquer framework que muda o modo a forma de trabalhar deve respeitar a cultura organizacional vigente. Respeitar no sentido de entender o contexto no qual está sendo aplicado o framework, implementa de forma abrupta leva um tensionamento entre as pessoas não importando qual o papel que cada um exerce. Seja um ERP, um método relacionado a Agilidade ou qualquer outro.
 
 O planejamento e backlog seguiam o ritual de enquanto não entregar a atividade em andamento, não se adiciona nada no backlog. Mesmo quando havia priorização pela liderança da organização como uma oportunidade de novos negócios ou uma urgência solicitada por um cliente. Isso gerava um tensão e insegurança se realmente conseguiriam entregar o que estava acordado com os clientes.
