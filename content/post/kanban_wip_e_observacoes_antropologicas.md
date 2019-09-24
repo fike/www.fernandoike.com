@@ -36,7 +36,12 @@ Funcionou muito bem no início no sentido de transparência e visualização, cl
 
 Esta nova organização melhorou as reuniões diárias de cada equipe, contudo as pessoas moviam os cartões para executar a atividade mas as atividades não eram finalizadas no Kanban. Isso representava a realidade, para os desenvolvedores o conceito de finalizado era de realizar o commit no repositório Git na árvore principal. Contudo, isso não era realmente o conceito que a organização entendia como finalizado, para organização "finalizado" significava que a funcionalidade desenvolvida foi validada por testes manuais e/ou automáticos, como também, instalada em produção.
 
+**Cumulative Flow Diagram da implantação inicial do Kanban**
+![CFD antes de aplicar WIP](/images/CumulativeFlowDiagram.png)
+
 Apesar desta diferença no entendimento da definição de finalizado, já havia efeito positivo na organização: as funcionalidades, correções de bugs estavam alinhado com a expectativa da liderança da organização e clientes. Qualquer um poderia olhar o que estava em andamento, em qual etapa estava uma funcionalidade específica, dar um novo direcionamento para uma tarefa se houvesse necessidade.
+
+# Aplicação do WIP
 
 Diuturnamente era conversado com as equipes para "cuidar" da funcionalidade até que ela fosse instalada em produção. Conforme a funcionalidade desenvolvida fosse avançado no pipeline do serviço de Continuous Delivery, a pessoa responsável pela funcionalidade deveria mover o cartão para os respectivo estágio do pipeline no Kanban. A adoção desta política não foi muito efetiva até implantar WIP em cada etapa do pipeline.
 
@@ -46,6 +51,9 @@ Esta mudança também significou que a maioria desenvolvedores de fato se respon
 
 Outro efeito positivo é que a throughput das entregas continua a mesma de antes da implementação do Kanban. O ganho de produtividade das equipes significou a possibilidade de desenvolver as funcionalidades, fazer as correções sem que tenha que trabalhar de forma exaustiva para fazer as entregas.
 
-Um pouco mais deste caso é contado nesta apresentação. 
+**Cumulative Flow Diagrama com WIP estabelecido**
+![](/images/CumulativeFlowDiagram_WIP.png)
+
+Há muito por fazer mas mostra que processos quando bem aplicados podem transformar uma organização, um pouco desta história foi contada na apresentação abaixo.
 
 <script async class="speakerdeck-embed" data-id="ec9e2e0c2257405080121b334fe62e6a" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
