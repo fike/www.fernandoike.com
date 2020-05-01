@@ -251,7 +251,12 @@ DevOps em 2009 ou quando estiver lendo este texto será um meio para acelerar o 
 
 Se a essência, ou melhor, os fundamentos são o mesmo ao decorrer de uma década por que usar Cultura DevOps? Como DevOps é um buzzword, não será estranho em breve surgir ramificações como Business DevOps, Food DevOps ou Battle DevOps. Apenas chame DevOps porque as ferramentas irão mudar, novas técnicas irão surgir mas no fim de um dia de trabalho o que importa é entregar valor sem ficarmos loucos de tanto trabalhar. :)
 
+<script async class="speakerdeck-embed" data-id="2678f867f13e479ebe0b78e7b031fb92" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
 Se chegou aqui, obrigado pelo seu tempo. Espero que tenho gostado! Se quiser ver os slides, eles estão [aqui](https://speakerdeck.com/fernandoike/devops-e-cultura-dot-dot-dot-por-que-so-falamos-de-ferramentas-devopsdays-vitoria).
 
 
 {{< youtube 5BgPIETVYSQ >}}
+
+
+
