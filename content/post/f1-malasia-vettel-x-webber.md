@@ -2,8 +2,8 @@
 itle = "f1 malasia vettel x webber"
 date = "2013-03-24"
 draft = false
-Categories = ["portugues", "f1"]
-Tags = ["portugues", "f1"]
+categories = ["portugues", "f1"]
+tags = ["portugues", "f1"]
 +++
 ![](/images/Mark-Webber-Sebastian-Vet-008.jpg "[The Guardian]")
 

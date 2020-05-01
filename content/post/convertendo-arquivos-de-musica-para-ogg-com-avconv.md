@@ -2,8 +2,8 @@
 title = "Convertendo arquivos de musica para ogg com avconv"
 date = "2013-11-23"
 draft = false
-Categories = ["SL", "debian", "portugues"]
-Tags = ["portugues", "avconv", "debian", "ffmpeg"]
+categories = ["SL", "debian", "portugues"]
+tags = ["portugues", "avconv", "debian", "ffmpeg"]
 +++
 Eu estava recuperando os arquivos do **Navaranda Podcast** para deixar
 disponível na internet. A versão original estava no formato

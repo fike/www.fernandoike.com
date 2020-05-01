@@ -2,8 +2,8 @@
 title = "Motor novo Octopress"
 date = "2013-02-15"
 draft = false
-Categories = ["octopress", "SL", "portugues"]
-Tags = ["octopress", "SL", "portugues", "wordpress"]
+categories = ["octopress", "SL", "portugues"]
+tags = ["octopress", "SL", "portugues", "wordpress"]
 +++
 ![](/images/new_ford_motor.jpg)
 

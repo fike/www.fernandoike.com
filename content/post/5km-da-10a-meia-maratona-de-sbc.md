@@ -2,8 +2,8 @@
 title = "5km da 10a meia maratona de sbc"
 date = "2012-08-07"
 draft = false
-Categories = ["corrida de rua", "portugues"]
-Tags = ["corrida de rua", "portugues"]
+categories = ["corrida de rua", "portugues"]
+tags = ["corrida de rua", "portugues"]
 +++
 ![](http://www.corpore.com.br/imagens/submenuscorridas/faixadecorativa_98_faixadecorativa-sbc2012.jpg)
 

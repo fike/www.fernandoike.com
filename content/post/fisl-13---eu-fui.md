@@ -2,8 +2,8 @@
 title = "FISL 13  eu fui"
 date = "2012-08-02"
 draft = false
-Categories = ["SL", "portugues", "debian", "postgresql"]
-Tags = ["portugues", "SL", "fisl", "postgresql", "debian"]
+categories = ["SL", "portugues", "debian", "postgresql"]
+tags = ["portugues", "SL", "fisl", "postgresql", "debian"]
 +++
    ![](http://softwarelivre.org/articles/0043/6010/banner4.jpg)
 

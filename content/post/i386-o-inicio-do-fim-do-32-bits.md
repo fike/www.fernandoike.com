@@ -2,8 +2,8 @@
 title = "i386 o inicio do fim do 32 bits"
 date = "2012-12-17"
 draft = false
-Categories = ["portugues", "aleatorio", "SL"]
-Tags = ["portugues", "i386", "32 bits", "linux", "intel"]
+categories = ["portugues", "aleatorio", "SL"]
+tags = ["portugues", "i386", "32 bits", "linux", "intel"]
 +++
 ![](http://upload.wikimedia.org/wikipedia/commons/thumb/0/04/KL_Intel_i386DX.jpg/220px-KL_Intel_i386DX.jpg)
 

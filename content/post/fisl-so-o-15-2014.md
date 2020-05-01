@@ -2,8 +2,8 @@
 title = "FISL só em 2014"
 date = "2013-07-01"
 draft = false
-Categories = ["portugues", "fisl"]
-Tags = ["portugues", "fisl"]
+categories = ["portugues", "fisl"]
+tags = ["portugues", "fisl"]
 +++
 ![](/images/321559193_769b99e4cf.jpg)
 

@@ -2,8 +2,8 @@
 title = "Latinoware eu fui"
 date = "2012-10-20"
 draft = false
-Categories = ["SL", "portugues", "palestra"]
-Tags = ["SL", "portugues", "latinoware", "postgresql", "mysql", "mongodb"]
+categories = ["SL", "portugues", "palestra"]
+tags = ["SL", "portugues", "latinoware", "postgresql", "mysql", "mongodb"]
 +++
 ![](http://2012.latinoware.org/wp-content/uploads/183x74-B.gif)
 

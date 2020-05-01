@@ -2,8 +2,8 @@
 title = "Usando a ultima versao do firefox no debian"
 date = "2013-04-03"
 draft = false
-Categories = ["web", "debian", "firefox", "portugues", "SL"]
-Tags = ["web", "debian", "portugues", "firefox", "iceweasel"]
+categories = ["web", "debian", "firefox", "portugues", "SL"]
+tags = ["web", "debian", "portugues", "firefox", "iceweasel"]
 +++
 ![](/images/iceweasel.png)
 

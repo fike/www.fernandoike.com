@@ -2,8 +2,8 @@
 title = "E devagar devagarinho"
 date = "2012-07-18"
 draft = false
-Categories = ["aleatorio", "portugues", "SL", "debian", "postgresql"]
-Tags = ["portugues", "debian", "phantomjs", "pgvm", "debian", "postgresql"]
+categories = ["aleatorio", "portugues", "SL", "debian", "postgresql"]
+tags = ["portugues", "debian", "phantomjs", "pgvm", "debian", "postgresql"]
 +++
 ![](http://bitsvolateis.files.wordpress.com/2012/07/slow-down__1215717746_4890.jpg?w=224)
 

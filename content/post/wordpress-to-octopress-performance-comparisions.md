@@ -2,8 +2,8 @@
 title = "Wordpress to octopress performance comparisions"
 date = "2013-02-26"
 draft = false
-Categories = ["blog", "english", "SL"]
-Tags = ["english", "blog", "octopress", "wordpress"]
+categories = ["blog", "english", "SL"]
+tags = ["english", "blog", "octopress", "wordpress"]
 +++
 Continuing to comment a little bit more about the blog change.
 Previously it was Wordpress and now it’s Octopress. I’ll show you data

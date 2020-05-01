@@ -2,8 +2,8 @@
 title = "PGBR no fisl13"
 date = "2012-08-03"
 draft = false
-Categories = ["SL", "portugues", "postgresql"]
-Tags = ["portugues", "SL", "fisl", "pgvm", "postgresql", "hackathon"]
+categories = ["SL", "portugues", "postgresql"]
+tags = ["portugues", "SL", "fisl", "pgvm", "postgresql", "hackathon"]
 +++
 [![action](http://farm1.staticflickr.com/129/321559193_769b99e4cf.jpg)](http://www.flickr.com/photos/kaneda99/321559193/)
 

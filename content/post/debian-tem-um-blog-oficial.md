@@ -2,8 +2,8 @@
 title = "Debian tem um blog oficial"
 date = "2013-03-28"
 draft = false
-Categories = ["debian", "portugues", "SL"]
-Tags = ["portugues", "debian", "portugues", "SL"]
+categories = ["debian", "portugues", "SL"]
+tags = ["portugues", "debian", "portugues", "SL"]
 +++
 ![](/images/challenge.jpg)
 

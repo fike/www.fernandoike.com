@@ -2,8 +2,8 @@
 title = "20a maratona de revezamento pao de acucar"
 date = "2012-09-14"
 draft = false
-Categories = ["portugues", "corrida de rua"]
-Tags = ["portugues", "corrida de rua"]
+categories = ["portugues", "corrida de rua"]
+tags = ["portugues", "corrida de rua"]
 +++
 ![](http://www.maratonaderevezamento.com.br/saopaulo/imagens/SP_01.jpg)
 

@@ -2,8 +2,8 @@
 title = "Octopress e post em modo rascunho"
 date = "2013-05-23"
 draft = false
-Categories = ["portugues", "SL", "octopress"]
-Tags = ["portugues", "octopress"]
+categories = ["portugues", "SL", "octopress"]
+tags = ["portugues", "octopress"]
 +++
 Quando crio um novo post, às vezes esquece de adicionar o campo
 **published** configurado como false. Ele possibilita você trabalhar num
@@ -49,5 +49,5 @@ task :new_post, :title do |t, args|
 title = "Octopress e post em modo rascunho"
 date = ""
 published = false
-Categories = [
+categories = [
 ```

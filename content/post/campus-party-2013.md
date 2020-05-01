@@ -2,8 +2,8 @@
 title = "Campus party 2013"
 date = "2013-01-27"
 draft = false
-Categories = ["SL", "portugues"]
-Tags = ["SL", "portugues", "wordpress", "campus party"]
+categories = ["SL", "portugues"]
+tags = ["SL", "portugues", "wordpress", "campus party"]
 +++
 ![](/images/bannerslcampusparty.png)
 

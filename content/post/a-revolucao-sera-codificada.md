@@ -2,8 +2,8 @@
 title = "A revolucao sera codificada"
 date = "2012-09-24"
 draft = false
-Categories = ["portugues", "protestos", "SL"]
-Tags = ["portugues", "protestos", "ipv6"]
+categories = ["portugues", "protestos", "SL"]
+tags = ["portugues", "protestos", "ipv6"]
 +++
 ![](http://farm1.staticflickr.com/15/20562069_7cf1e2aaec_z.jpg?zz=1)
 

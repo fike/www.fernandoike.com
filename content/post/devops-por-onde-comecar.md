@@ -2,8 +2,8 @@
 title = "Devops por onde comecar"
 date = "2013-03-30"
 draft = false
-Categories = ["devops", "portugues", "agile", "SL"]
-Tags = ["devops", "portugues", "agile", "sysadmin"]
+categories = ["devops", "portugues", "agile", "SL"]
+tags = ["devops", "portugues", "agile", "sysadmin"]
 +++
 O [Guto](http://gutocarvalho.net/)
 [publicou](http://gutocarvalho.net/octopress/2013/03/16/o-que-e-um-devops-afinal/)

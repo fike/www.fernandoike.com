@@ -2,8 +2,8 @@
 title = "Debian brasil fisl13 a mochila fundadora"
 date = "2012-08-03"
 draft = false
-Categories = ["debian", "portugues", "SL"]
-Tags = ["fisl", "debian", "portugues"]
+categories = ["debian", "portugues", "SL"]
+tags = ["fisl", "debian", "portugues"]
 +++
 ![](http://softwarelivre.org/thumbnails/0045/8662/mochila_fundamental_debian_fisl14_20120728_155035_display.jpg?1343752003)
 

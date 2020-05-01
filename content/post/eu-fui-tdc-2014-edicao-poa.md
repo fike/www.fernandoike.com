@@ -2,8 +2,8 @@
 title = "Eu fui tdc 2014 edicao poa"
 date = "2014-10-19"
 draft = false
-Categories = ["SL", "agile", "docker", "portugues", "web performance"]
-Tags = ["portugues", "docker", "SL", "TDC", "visual thinking", "web performance", "managenment 3.0", "postgresql", "1984"]
+categories = ["SL", "agile", "docker", "portugues", "web performance"]
+tags = ["portugues", "docker", "SL", "TDC", "visual thinking", "web performance", "managenment 3.0", "postgresql", "1984"]
 +++
 Participar de eventos é sempre uma boa oportunidade de aprender coisas
 novas, aumentar o networking e repassar conhecimento ou algumas lições

@@ -2,8 +2,8 @@
 title = "Hangout com bruno domingues adiado"
 date = "2013-07-06"
 draft = false
-Categories = ["portugues", "web performance"]
-Tags = ["portugues", "web performance"]
+categories = ["portugues", "web performance"]
+tags = ["portugues", "web performance"]
 +++
 Muito estranho, muito estranho mesmo… :)
 

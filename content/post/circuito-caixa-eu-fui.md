@@ -2,8 +2,8 @@
 title = "Circuito caixa eu fui"
 date = "2012-10-16"
 draft = false
-Categories = ["corrida de rua", "portugues"]
-Tags = ["corrida de rua", "circuitocaixa", "portugues"]
+categories = ["corrida de rua", "portugues"]
+tags = ["corrida de rua", "circuitocaixa", "portugues"]
 +++
 ![](http://www.circuitocaixa.com.br/images/logoHome.png)
 

@@ -2,8 +2,8 @@
 title = "Voltando ao mundo das corridas"
 date = "2014-01-06"
 draft = false
-Categories = ["corrida de rua", "portugues"]
-Tags = ["portugues", "corrida de rua"]
+categories = ["corrida de rua", "portugues"]
+tags = ["portugues", "corrida de rua"]
 +++
 ![]( http://distilleryimage7.s3.amazonaws.com/7819a45a6c2311e382be12a6477cc8fb_6.jpg)
 

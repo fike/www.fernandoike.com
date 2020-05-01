@@ -2,8 +2,8 @@
 title = "Status do servicos do skype"
 date = "2012-10-31"
 draft = false
-Categories = ["portugues", "monitoramento"]
-Tags = ["portugues", "skype", "monitoramento"]
+categories = ["portugues", "monitoramento"]
+tags = ["portugues", "skype", "monitoramento"]
 +++
 O melhor site de status de serviço que conheço é o do [Skype](http://www.skype.com). Ele já existe há muito tempo e tem um visual bacana.
 

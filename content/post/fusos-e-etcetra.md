@@ -2,8 +2,8 @@
 title = "Fusos e etcetra"
 date = "2014-05-20"
 draft = false
-Categories = ["SL", "debian", "portugues"]
-Tags = ["portugues", "SL", "timezone", "debian"]
+categories = ["SL", "debian", "portugues"]
+tags = ["portugues", "SL", "timezone", "debian"]
 +++
 ![]( /images/Tz_world_2013i_efele.png)
 

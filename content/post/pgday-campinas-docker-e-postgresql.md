@@ -2,8 +2,8 @@
 title = "Pgday campinas docker e postgresql"
 date = "2014-09-19"
 draft = false
-Categories = ["docker", "postgresql", "SL", "portugues"]
-Tags = ["docker", "SL", "postgresql", "container", "portugues", "pgday"]
+categories = ["docker", "postgresql", "SL", "portugues"]
+tags = ["docker", "SL", "postgresql", "container", "portugues", "pgday"]
 +++
 Fazia um bom tempo que não participava de um evento de [PostgreSQL][postgresql] 
 e finalmente a pude participar novamente. Fui no [PGDAY Campinas][pgday] e fiquei 

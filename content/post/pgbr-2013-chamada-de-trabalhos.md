@@ -2,8 +2,8 @@
 title = "PGBR 2013 chamada de trabalhos"
 date = "2013-02-16"
 draft = false
-Categories = ["portugues", "postgresql", "timbira", "SL"]
-Tags = ["portugues", "postgresql", "timbira", "pgbr"]
+categories = ["portugues", "postgresql", "timbira", "SL"]
+tags = ["portugues", "postgresql", "timbira", "pgbr"]
 +++
 ![](/images/divulgue_inscricoes_1.jpg)
 

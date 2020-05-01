@@ -2,8 +2,8 @@
 title = "Migrando do wordpress para octopress"
 date = "2013-02-17"
 draft = false
-Categories = ["portugues", "octopress", "web performance", "SL"]
-Tags = ["portugues", "octopress"]
+categories = ["portugues", "octopress", "web performance", "SL"]
+tags = ["portugues", "octopress"]
 +++
 Continuando a comentar um pouco mais sobre a mudança do blog que
 anteriormente era [Wordpress](http://www.wordpress.org) e agora é

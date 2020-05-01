@@ -2,8 +2,8 @@
 title = "Adding subtitles to video using shell"
 date = "2013-09-13"
 draft = false
-Categories = ["SL", "debian", "english"]
-Tags = ["english", "SL", "debian", "avconv", "ffmpeg"]
+categories = ["SL", "debian", "english"]
+tags = ["english", "SL", "debian", "avconv", "ffmpeg"]
 +++
 The libav is a ffmpeg fork and it has the most ffmpeg features. As libav
 is an official Debian package, it will be used like a tool to add

@@ -2,8 +2,8 @@
 title = "Um box vagrant para o cacic 3 dot 0"
 date = "2013-10-08"
 draft = false
-Categories = ["SL", "portugues", "debian"]
-Tags = ["vagrant", "SL", "cacic", "portugues"]
+categories = ["SL", "portugues", "debian"]
+tags = ["vagrant", "SL", "cacic", "portugues"]
 +++
 Se quiser ajudar no desenvolvimento ou teste, pode usar um box vagrant
 que criei com a versão **3.0** beta que está disponibilizado no [Portal

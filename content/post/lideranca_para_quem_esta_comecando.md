@@ -1,7 +1,7 @@
 +++
 title = "Lideranca para novos iniciados"
 date = 2019-11-26T11:49:40-03:00
-draft = false
+draft = true
 description = "Algumas lições aprendidas sobre liderança nas iniciar na função"
 categories = ["portugues", "liderança"]
 tags = ["portugues", "agilidade", ""]

@@ -2,8 +2,8 @@
 title = "Linux e o internet banking do Santander"
 date = "2013-09-23"
 draft = false
-Categories = ["debian", "SL", "portugues"]
-Tags = ["debian", "SL", "portugues", "internet banking", "java"]
+categories = ["debian", "SL", "portugues"]
+tags = ["debian", "SL", "portugues", "internet banking", "java"]
 +++
 Praticamente todos os grandes banco comerciais neste último ano
 começaram usar uma solução que impossibilita usar o internet banking

@@ -2,8 +2,8 @@
 title = "Skynet mais proxima de acontecer"
 date = "2012-09-08"
 draft = false
-Categories = ["portugues", "aleatorio"]
-Tags = ["portugues", "skynet", "exterminador do futuro"]
+categories = ["portugues", "aleatorio"]
+tags = ["portugues", "skynet", "exterminador do futuro"]
 +++
 A cada avanço técnológico, fica mais próximo a ativação da
 [Skynet](http://pt.wikipedia.org/wiki/Skynet). Já deve ter visto

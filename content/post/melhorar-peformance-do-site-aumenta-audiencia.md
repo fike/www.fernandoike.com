@@ -2,8 +2,8 @@
 title = "Melhorar peformance do site aumenta audiencia"
 date = "2013-08-01"
 draft = false
-Categories = ["web performane", "portugues", "debian"]
-Tags = ["portugues", "octopress", "wordpress", "debian", "web performance", "feo"]
+categories = ["web performane", "portugues", "debian"]
+tags = ["portugues", "octopress", "wordpress", "debian", "web performance", "feo"]
 +++
 Há +- um mês eu comecei a fazer otimizações no servidor e no
 [Octopress](http://www.octopress.org) (O

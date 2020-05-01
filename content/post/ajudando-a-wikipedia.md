@@ -2,8 +2,8 @@
 title = "Ajudando a wikipedia"
 date = "2013-03-30"
 draft = false
-Categories = ["portugues", "wikipedia", "SL"]
-Tags = ["portugues","wikipedia"]
+categories = ["portugues", "wikipedia", "SL"]
+tags = ["portugues","wikipedia"]
 +++
 ![](/images/Wikipedia-logo.png)
 

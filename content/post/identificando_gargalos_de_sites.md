@@ -5,7 +5,7 @@ draft: false
 description: [ "Identifcação de problemas básicos de desempenho de sites" ]
 keywords: [ "web performance", "webpagetest", "rum", "gzip,front-end", "backend" ]
 title: Identificando os gargalos de sites
-Tags: ["portugues", "web performance", "webpagetest", "rum", "gzip", "ttfb", "front-end", "backend"]
+tags: ["portugues", "web performance", "webpagetest", "rum", "gzip", "ttfb", "front-end", "backend"]
 ---
 ![Web Performance](/images/320px-AMC_Javelins_1970_SST_and_Sunoco_at_car_show.jpg)
 

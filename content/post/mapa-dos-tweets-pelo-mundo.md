@@ -2,8 +2,8 @@
 title = "Mapa dos tweets pelo mundo"
 date = "2013-07-08"
 draft = false
-Categories = ["aleatorio", "portugues"]
-Tags = ["portugues", "mapas", "visualizacao"]
+categories = ["aleatorio", "portugues"]
+tags = ["portugues", "mapas", "visualizacao"]
 +++
 Visualização de dados é uma das que gosto no mundo informatizado, no
 [Mapbox](http://www.mapbox.net/) tem uma [visualização dos

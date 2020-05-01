@@ -2,8 +2,8 @@
 title = "5km da meia maratona de sao bernardo"
 date = "2012-08-03"
 draft = false
-Categories = ["portugues", "corrida de rua"]
-Tags = ["portugues", "corrida de rua"]
+categories = ["portugues", "corrida de rua"]
+tags = ["portugues", "corrida de rua"]
 +++
 ![](http://www.corpore.com.br/imagens/submenuscorridas/faixadecorativa_98_faixadecorativa-sbc2012.jpg)
 

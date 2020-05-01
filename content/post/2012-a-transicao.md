@@ -2,8 +2,8 @@
 title = "2012 a transicao"
 date = "2013-01-03"
 draft = false
-Categories = ["portugues", "aleatorio", "SL"]
-Tags = ["portugues", "aleatorio", "corrida de rua", "tcu"]
+categories = ["portugues", "aleatorio", "SL"]
+tags = ["portugues", "aleatorio", "corrida de rua", "tcu"]
 +++
 **2012** foi um ano de transição e de certa maneira **2013** também
 será. Mas como este post é sobre **2012**, vamos lá:

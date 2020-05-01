@@ -2,8 +2,8 @@
 title = "Latinoware ai vamos nos"
 date = "2012-10-13"
 draft = false
-Categories = ["SL", "portugues", "palestra"]
-Tags = ["SL", "portugues", "latinoware"]
+categories = ["SL", "portugues", "palestra"]
+tags = ["SL", "portugues", "latinoware"]
 +++
 ![](http://2012.latinoware.org/wp-content/uploads/g64571.png)
 

@@ -2,8 +2,8 @@
 title = "Databasecast 38 vagas de MySQL e PostgreSQL"
 date = "2013-10-21"
 draft = false
-Categories = ["portugues", "postgresql", "SL"]
-Tags = ["portugues", "SL", "podcast", "postgresql", "mysql"]
+categories = ["portugues", "postgresql", "SL"]
+tags = ["portugues", "SL", "podcast", "postgresql", "mysql"]
 +++
 ![]( /images/VitrineDatabaseCast38.jpg)
 

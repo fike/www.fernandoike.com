@@ -2,8 +2,8 @@
 title = "Erlang movie"
 date = "2012-12-18"
 draft = false
-Categories = ["portugues", "SL", "aleatorio" ]
-Tags = ["portugues", "SL", "erlang", "filme"]
+categories = ["portugues", "SL", "aleatorio" ]
+tags = ["portugues", "SL", "erlang", "filme"]
 +++
 ![]( /images/118px-Erlang_logo.png)
 

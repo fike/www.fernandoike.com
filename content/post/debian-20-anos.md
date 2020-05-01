@@ -2,8 +2,8 @@
 title = "Debian 20 anos"
 date = "2013-08-16"
 draft = false
-Categories = ["debian", "SL", "portugues"]
-Tags = ["debian", "toy story", "SL", "portugues"]
+categories = ["debian", "SL", "portugues"]
+tags = ["debian", "toy story", "SL", "portugues"]
 +++
 ![](/images/debian.png)
 

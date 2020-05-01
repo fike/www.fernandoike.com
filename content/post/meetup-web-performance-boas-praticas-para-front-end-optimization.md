@@ -2,8 +2,8 @@
 title = "Meetup web performance boas praticas para front end optimization"
 date = "2013-02-20"
 draft = false
-Categories = ["web performance", "portugues", "palestra"]
-Tags = ["web performance", "portugues", "imagens"]
+categories = ["web performance", "portugues", "palestra"]
+tags = ["web performance", "portugues", "imagens"]
 +++
 ![](/images/clone.jpg)
 

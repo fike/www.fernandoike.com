@@ -2,8 +2,8 @@
 title = "1 mes sem correr"
 date = "2012-11-27"
 draft = false
-Categories = ["portugues", "corrida de rua"]
-Tags = ["portugues", "corrida de rua", "fisioterapia"]
+categories = ["portugues", "corrida de rua"]
+tags = ["portugues", "corrida de rua", "fisioterapia"]
 +++
 ![](/images/fisioterapia.jpg)
 

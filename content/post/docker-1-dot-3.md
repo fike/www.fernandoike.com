@@ -2,8 +2,8 @@
 title = "Docker 1 dot 3"
 date = "2014-10-23"
 draft = false
-Categories = ["docker ", "SL", "portugues"]
-Tags = ["portugues", "docker", "SL", "programming", "foss", "C", "ruby", "go", "go lang", "java", "php", "docker hub"]
+categories = ["docker ", "SL", "portugues"]
+tags = ["portugues", "docker", "SL", "programming", "foss", "C", "ruby", "go", "go lang", "java", "php", "docker hub"]
 +++
 ![]( /images/solomon-keynote-penguin-authentication-300x235.png)
 

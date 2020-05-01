@@ -2,8 +2,8 @@
 title = "Como o estado apropria se de software e o torna livre"
 date = "2013-01-04"
 draft = false
-Categories = ["SL", "portugues", "aleatorios"]
-Tags = ["SL", "portugues", "EBC", "software publico"]
+categories = ["SL", "portugues", "aleatorios"]
+tags = ["SL", "portugues", "EBC", "software publico"]
 +++
 ![](/images/ant-power.jpg)
 

@@ -2,8 +2,8 @@
 title = "Postgresql tuning"
 date = "2013-08-06"
 draft = false
-Categories = ["performance", "postgresql", "SL", "portugues"]
-Tags = ["performance", "tuning", "postgresql", "SL", "portugues"]
+categories = ["performance", "postgresql", "SL", "portugues"]
+tags = ["performance", "tuning", "postgresql", "SL", "portugues"]
 +++
 Normalmente ao pensar em melhorar a performance do banco de dados,
 muitos esquecem de modificar alguns parâmetros e configurações do

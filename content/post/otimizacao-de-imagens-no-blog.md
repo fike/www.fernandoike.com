@@ -2,8 +2,8 @@
 title = "Otimizacao de imagens no blog"
 date = "2013-02-23"
 draft = false
-Categories = ["web performance", "octopress", "portugues", "SL"]
-Tags = ["blog", "web performance", "octopress", "portugues", "SL"]
+categories = ["web performance", "octopress", "portugues", "SL"]
+tags = ["blog", "web performance", "octopress", "portugues", "SL"]
 +++
 Continuando a série sobre optimização de sites…
 

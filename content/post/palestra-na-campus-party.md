@@ -2,8 +2,8 @@
 title = "Palestra na campus party"
 date = "2013-02-01"
 draft = false
-Categories = ["portugues", "SL", "web performance"]
-Tags = ["portugues", "SL", "web peformance", "campus party"]
+categories = ["portugues", "SL", "web performance"]
+tags = ["portugues", "SL", "web peformance", "campus party"]
 +++
 ![](/images/bannerslcampusparty.png)
 

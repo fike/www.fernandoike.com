@@ -2,8 +2,8 @@
 title = "Pes cascusdos tentando voltar ao mundo das corridas"
 date = "2013-05-08"
 draft = false
-Categories = ["corrida", "portugues"]
-Tags = ["corrida", "portugues"]
+categories = ["corrida", "portugues"]
+tags = ["corrida", "portugues"]
 +++
 ![](/images/joquei.png)
 

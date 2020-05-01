@@ -2,8 +2,8 @@
 title = "Configuracao de compressao gzip para sites e ranking de CDN"
 date = "2014-12-23"
 draft = false
-Categories = ["portugues", "web performance", "FEO", "CDN", "SL"]
-Tags = ["portugues", "FEO", "CDN", "webpagetest", "http archive"]
+categories = ["portugues", "web performance", "FEO", "CDN", "SL"]
+tags = ["portugues", "FEO", "CDN", "webpagetest", "http archive"]
 +++
 Estava lendo um [texto](http://www.fastly.com/blog/new-gzip-settings-and-deciding-what-to-compress/) do Steve Souders sobre a alteração da configuração padrão gzip na Fastly. Fastly é uma CDN concorrente da Akamai e tem clientes como Twitter, Shopify, The Guardian, Rakuten, etc.
 

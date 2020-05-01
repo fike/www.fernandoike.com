@@ -2,8 +2,8 @@
 title = "Teste simples sobre um site com ssl"
 date = "2013-01-04"
 draft = false
-Categories = ["SL", "debian", "portugues"]
-Tags = ["portugues", "SL", "debian", "openssl"]
+categories = ["SL", "debian", "portugues"]
+tags = ["portugues", "SL", "debian", "openssl"]
 +++
 O título é péssimo mas por falta de inspiração fica esse por enquanto.
 

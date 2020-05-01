@@ -2,8 +2,8 @@
 title = "Status do tumblr"
 date = "2012-10-27"
 draft = false
-Categories = ["monitoramento", "portugues", "tumblr"]
-Tags = ["monitoramento", "tumblr", "portugues"]
+categories = ["monitoramento", "portugues", "tumblr"]
+tags = ["monitoramento", "tumblr", "portugues"]
 +++
 O [Tumblr](http://www.tumblr.com/) é um sistema de blog (tem um novo
 mais modermo mas esqueci…). Muitas pessoas usam-o como blog ou como

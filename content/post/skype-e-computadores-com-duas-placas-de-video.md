@@ -2,8 +2,8 @@
 title = "Skype e computadores com duas placas de video"
 date = "2013-12-16"
 draft = false
-Categories = ["portugues", "debian", "SL"]
-Tags = ["portugues", "debian", "skype", "nvidia", "bumblebee"]
+categories = ["portugues", "debian", "SL"]
+tags = ["portugues", "debian", "skype", "nvidia", "bumblebee"]
 +++
 Infelizmente uso muito [Skype](http://www.skype.com) no trabalho e
 estava com um problema com ele ao participar de videoconferências, ele

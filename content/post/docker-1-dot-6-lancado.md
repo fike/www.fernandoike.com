@@ -2,8 +2,8 @@
 title = "Docker 1 dot 6 lancado"
 date = "2015-04-27"
 draft = false
-Categories = ["debian", "docker", "SL", "portugues", "devops"]
-Tags = ["docker", "container", "SL", "portugues", "debian", "jessie", "backports"]
+categories = ["debian", "docker", "SL", "portugues", "devops"]
+tags = ["docker", "container", "SL", "portugues", "debian", "jessie", "backports"]
 +++
 ![]( /images/docker-1.6.png)
 

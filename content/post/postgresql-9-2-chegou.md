@@ -2,8 +2,8 @@
 title = "Postgresql 9 2 chegou"
 date = "2012-09-10"
 draft = false
-Categories = ["postgresql", "SL", "timbira", "portugues"]
-Tags = ["postgresql", "portugues", "SL"]
+categories = ["postgresql", "SL", "timbira", "portugues"]
+tags = ["postgresql", "portugues", "SL"]
 +++
 ![](http://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/200px-Postgresql_elephant.svg.png)
 

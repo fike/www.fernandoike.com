@@ -2,8 +2,8 @@
 title = "Debian e o pacote skype multiarch"
 date = "2013-03-29"
 draft = false
-Categories = ["debian", "portugues", "skype", "SL"]
-Tags = ["portugues", "debian", "multiarch", "skype"]
+categories = ["debian", "portugues", "skype", "SL"]
+tags = ["portugues", "debian", "multiarch", "skype"]
 +++
 Estive que reinstalar meu computador e por causa do trabalho tive que
 instalar o [Skype](http://www.skype.com). Já tem muito tempo que o

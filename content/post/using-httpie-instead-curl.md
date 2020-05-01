@@ -2,8 +2,8 @@
 title = "Using httpie instead curl"
 date = "2014-07-22"
 draft = false
-Categories = ["SL", "english", "web performance"]
-Tags = ["english", "curl", "httpie", "SL", "debian"]
+categories = ["SL", "english", "web performance"]
+tags = ["english", "curl", "httpie", "SL", "debian"]
 +++
 ![]( /images/httpie.png)
 

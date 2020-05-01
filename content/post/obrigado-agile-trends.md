@@ -2,8 +2,8 @@
 title = "Obrigado Agile Trends"
 date = "2013-10-06"
 draft = false
-Categories = ["agile", "portugues"]
-Tags = ["agile", "portugues"]
+categories = ["agile", "portugues"]
+tags = ["agile", "portugues"]
 +++
 Participei do [Agile Trends](http://agiletrendsbr.com/) e gostei
 bastante do que vi, conversei e debati. O que aprendi em dois dias foi

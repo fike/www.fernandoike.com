@@ -2,8 +2,8 @@
 title = "Using vagrant with bridge network"
 date = "2013-09-20"
 draft = false
-Categories = ["SL", "english", "debian", "devops"]
-Tags = ["english", "SL", "vagrant", "devops"]
+categories = ["SL", "english", "debian", "devops"]
+tags = ["english", "SL", "vagrant", "devops"]
 +++
 I needed to use vagrant with bridge network in a project and the
 official documentation isn’t clear about it.

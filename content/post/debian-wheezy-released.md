@@ -2,8 +2,8 @@
 title = "Debian wheezy released"
 date = "2013-05-21"
 draft = false
-Categories = ["debian", "english", "SL"]
-Tags = ["english", "debian", "wheezy"]
+categories = ["debian", "english", "SL"]
+tags = ["english", "debian", "wheezy"]
 +++
 On May 4th, the new stable 7.0 version of
 [Debian](http://www.debian.org) (code name Wheezy) was released.

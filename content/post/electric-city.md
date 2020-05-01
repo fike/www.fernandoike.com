@@ -2,8 +2,8 @@
 title = "Electric city"
 date = "2012-10-16"
 draft = false
-Categories = ["portugues", "aleatorio"]
-Tags = ["eletric city", "yahoo", "portugues", "SL"]
+categories = ["portugues", "aleatorio"]
+tags = ["eletric city", "yahoo", "portugues", "SL"]
 +++
 ![](http://www.tubefilter.com/wp-content/uploads/2012/07/electric-city-600x369.jpg)
 

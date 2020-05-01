@@ -2,8 +2,8 @@
 title = "Eu fui circuito adidas primavera"
 date = "2012-09-28"
 draft = false
-Categories = ["corrida de rua", "portugues"]
-Tags = ["corrida de rua", "portugues", "circuito adidas"]
+categories = ["corrida de rua", "portugues"]
+tags = ["corrida de rua", "portugues", "circuito adidas"]
 +++
 ![](http://circuitodasestacoes.com.br/wp-content/themes/estacoes/imagens/logo_estacoes_incentivado_sp_nextel_primavera.png)
 

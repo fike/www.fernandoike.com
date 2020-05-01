@@ -2,8 +2,8 @@
 title = "Purge Debian packages marked with rc status"
 date = "2014-09-12"
 draft = false
-Categories = ["debian", "english", "SL"]
-Tags = ["english", "debian", "dpkg", "SL"]
+categories = ["debian", "english", "SL"]
+tags = ["english", "debian", "dpkg", "SL"]
 +++
 Sometimes when I find a package that is installed on my computer ([Debian][debian]), I
 found status **rc** but I never found a explanation in official documentation.

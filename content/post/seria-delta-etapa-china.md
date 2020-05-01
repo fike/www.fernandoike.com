@@ -2,8 +2,8 @@
 title = "Seria delta etapa china"
 date = "2012-08-13"
 draft = false
-Categories = ["corrida de rua", "portugues"]
-Tags = ["portugues", "corrida de rua", "serie delta"]
+categories = ["corrida de rua", "portugues"]
+tags = ["portugues", "corrida de rua", "serie delta"]
 +++
 Neste domingo às 7:30 da matina fui correr 5Km na [Série
 Delta](http://seriedelta.com.br/sao-paulo/sp-china) ao redor do [Museu

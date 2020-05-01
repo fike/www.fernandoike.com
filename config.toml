@@ -5,7 +5,7 @@ baseurl = "https://www.fernandoike.com/"
 copyright = "&copy; 2016. All rights reserved."
 canonifyurls = true
 paginate = 10
-theme = "hyde-x"
+theme = "hyde-hyde"
 disqusShortname = "fernandoike"
 DefaultContentLanguage = "en"
 DefaultContentLanguageInSubdir = true
@@ -48,7 +48,7 @@ DefaultContentLanguageInSubdir = true
       pre = "<i class='fa fa-home fa-fw'></i>"
       weight = 0
       identifier = "home"
-      url = "/"
+      url = "/tags/portugues"
     [[menu.main]]
       name = "Portuguese"
       pre = "<i class='fa fa-list fa-fw'></i>"

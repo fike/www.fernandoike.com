@@ -2,8 +2,8 @@
 title = "Pbuilder e pdebuilder"
 date = "2013-09-13"
 draft = false
-Categories = ["SL", "debian", "portugues"]
-Tags = ["portugues", "SL", "debian", "pbuilder"]
+categories = ["SL", "debian", "portugues"]
+tags = ["portugues", "SL", "debian", "pbuilder"]
 +++
 Criar pacotes deb (do jeito certo) é trabalhoso. Depois que pega o jeito
 é bem mais fácil mas ainda sim trabalhoso, principalmente quando é

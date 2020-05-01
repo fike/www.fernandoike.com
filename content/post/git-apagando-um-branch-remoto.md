@@ -2,8 +2,8 @@
 title = "Git apagando um branch remoto"
 date = "2012-12-12"
 draft = false
-Categories = ["portugues", "git", "SL"]
-Tags = ["portugues", "git", "branch"]
+categories = ["portugues", "git", "SL"]
+tags = ["portugues", "git", "branch"]
 +++
 ![](/images/220px-Toshiba_Remote_Control_CT-9863.jpg)
 

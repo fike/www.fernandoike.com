@@ -2,8 +2,8 @@
 title = "Timeout para instalar pacotes no Debian velho"
 date = "2012-12-28"
 draft = false
-Categories = ["SL", "debian", "portugues"]
-Tags = ["portugues", "SL", "debian", "lenny"]
+categories = ["SL", "debian", "portugues"]
+tags = ["portugues", "SL", "debian", "lenny"]
 +++
 ![](/images/debian-lenny.jpg)
 

@@ -2,8 +2,8 @@
 title = "Debian adicionando novas fontes manualmente"
 date = "2013-03-21"
 draft = false
-Categories = ["debian", "portugues", "SL"]
-Tags = ["debian", "fontes", "portugues"]
+categories = ["debian", "portugues", "SL"]
+tags = ["debian", "fontes", "portugues"]
 +++
 Esses dias precisei algumas fontes que não estão empacotadas para o
 Debian e entre as várias maneiras de instalar, a que maneira mais

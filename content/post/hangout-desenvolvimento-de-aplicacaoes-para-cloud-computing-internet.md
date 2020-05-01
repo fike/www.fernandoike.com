@@ -2,8 +2,8 @@
 title = "Hangout desenvolvimento de aplicacaoes para cloud computing internet"
 date = "2013-07-05"
 draft = false
-Categories = ["portugues", "SL", "web performance"]
-Tags = ["portugues", "aleatorio"]
+categories = ["portugues", "SL", "web performance"]
+tags = ["portugues", "aleatorio"]
 +++
 Hangout histórico esse que está por acontecer! Por que?
 

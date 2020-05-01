@@ -2,8 +2,8 @@
 title = "Instalando loic no debian"
 date = "2013-07-12"
 draft = false
-Categories = ["debian", "SL", "portugues"]
-Tags = ["debian", "SL", "portugues", "loic"]
+categories = ["debian", "SL", "portugues"]
+tags = ["debian", "SL", "portugues", "loic"]
 +++
 Nos últimos meses tem ocorrido muitas solicitações de clientes para
 fazer testes de carga ou segurança usando LOIC. [LOIC (Low Orbit Ion

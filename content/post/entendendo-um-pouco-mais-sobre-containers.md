@@ -2,8 +2,8 @@
 title = "Entendendo um pouco mais sobre containers"
 date = "2014-07-10"
 draft = false
-Categories = ["SL", "portugues", "containers"]
-Tags = ["SL", "dotcloud", "portugues", "containers"]
+categories = ["SL", "portugues", "containers"]
+tags = ["SL", "dotcloud", "portugues", "containers"]
 +++
 ![]( /images/docker_logo.png)
 Se está curioso em saber mais sobre containers Linux, especificamente 

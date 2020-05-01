@@ -2,8 +2,8 @@
 title = "Instalando o veewee"
 date = "2014-06-05"
 draft = false
-Categories = ["SL", "debian", "portugues"]
-Tags = ["portugues", "debian", "veewee", "nokogiri", "kvm", "vagrant"]
+categories = ["SL", "debian", "portugues"]
+tags = ["portugues", "debian", "veewee", "nokogiri", "kvm", "vagrant"]
 +++
 [Veewee][veewee] é uma ferramenta para criar templates para o
 [Vagrant][vagrant], [KVMs][kvm] e outros sistemas de virtualização. Costumo usá-lo para

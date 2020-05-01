@@ -2,8 +2,8 @@
 title = "Criando um repositorio espelho de um Debian velho"
 date = "2013-01-07"
 draft = false
-Categories = ["debian", "SL", "portugues"]
-Tags = ["portugues", "debian", "SL", "debmirror", "lenny"]
+categories = ["debian", "SL", "portugues"]
+tags = ["portugues", "debian", "SL", "debmirror", "lenny"]
 +++
 Lembra que eu tive que[instalar uma versão antiga](http://www.fernandoike.com/2012/12/27/instalando-um-debian-velho-lenny/) do
 Debian e tive [um probleminha para instalar pacotes](http://www.fernandoike.com/2012/12/28/timeout-para-instalar-pacotes-no-debian-velho/) dele?

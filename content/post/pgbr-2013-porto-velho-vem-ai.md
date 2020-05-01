@@ -2,8 +2,8 @@
 title = "Pgbr 2013 porto velho vem ai"
 date = "2012-12-26"
 draft = false
-Categories = ["portugues", "postgresql", "timbira", "SL"]
-Tags = ["portugues", "postgresql", "pgbr", "porto velho", "big kahuna"]
+categories = ["portugues", "postgresql", "timbira", "SL"]
+tags = ["portugues", "postgresql", "pgbr", "porto velho", "big kahuna"]
 +++
 O intrépido e serelepe [Luis Fernando Bueno](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=C324321) em Porto Velho será o Big Kahuna do [Conferência PostgreSQL Brasil](http://pgbr.postgresql.org.br/). Este ano estará num dos locais mais incríveis do país: Porto Velho.
 

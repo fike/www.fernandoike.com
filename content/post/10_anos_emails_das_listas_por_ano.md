@@ -1,6 +1,6 @@
 ---
 categories: ["portugues", "postgresql", "timbira", "SL", "docker"]
-Tags: ["portugues", "postgresql", "postgresql brasil", "mailman", "docker"]
+tags: ["portugues", "postgresql", "postgresql brasil", "mailman", "docker"]
 date: 2016-01-11T14:28:57-02:00
 description: "Estatísticas das listas do PostgreSQL Brasil"
 keywords: ["portugues, postgresql, postgresql brasil, mailman, docker"]

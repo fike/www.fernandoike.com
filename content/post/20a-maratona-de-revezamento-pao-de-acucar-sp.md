@@ -2,8 +2,8 @@
 title = "20a maratona de revezamento pao de acucar sp"
 date = "2012-09-21"
 draft = false
-Categories = ["portugues", "corrida de rua"]
-Tags = ["portugues", "corrida de rua"]
+categories = ["portugues", "corrida de rua"]
+tags = ["portugues", "corrida de rua"]
 +++
 Bom, fui na [20ª Maratona de Revezamento Pão de Açucar - SP][maratona]!
 

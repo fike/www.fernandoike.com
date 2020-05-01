@@ -2,8 +2,8 @@
 title = "Estou um pouco mais agil scrum"
 date = "2013-07-20"
 draft = false
-Categories = ["portugues", "agile"]
-Tags = ["portugues",  "agile", "scrum"]
+categories = ["portugues", "agile"]
+tags = ["portugues",  "agile", "scrum"]
 +++
 Há um pouco mais de um ano atrás eu decidi que iria mudar o foco da
 minha carreira profissional, desde então tenho estudado e aplicado em

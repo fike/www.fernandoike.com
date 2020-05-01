@@ -2,8 +2,8 @@
 title = "CDN identificando ip de um usuario"
 date = "2013-08-08"
 draft = false
-Categories = ["web performance", "portugues", "SL"]
-Tags = ["portugues", "CDN", "web performance", "SL", "nginx", "apache"]
+categories = ["web performance", "portugues", "SL"]
+tags = ["portugues", "CDN", "web performance", "SL", "nginx", "apache"]
 +++
 Quando um site usa uma
 [CDN](http://pt.wikipedia.org/wiki/Content_Delivery_Network) para fazer

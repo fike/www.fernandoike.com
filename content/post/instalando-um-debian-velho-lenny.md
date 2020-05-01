@@ -2,8 +2,8 @@
 title = "Instalando um Debian velho lenny"
 date = "2012-12-27"
 draft = false
-Categories = ["debian", "SL", "portugues"]
-Tags = ["portugues", "debian", "lenny", "oldstable"]
+categories = ["debian", "SL", "portugues"]
+tags = ["portugues", "debian", "lenny", "oldstable"]
 +++
 ![](/images/debian-lenny.jpg)
 

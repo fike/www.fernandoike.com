@@ -2,8 +2,8 @@
 title = "O vinagre 2"
 date = "2013-06-17"
 draft = false
-Categories = ["aleatorio", "portugues"]
-Tags = ["aleatorio", "portugues", "protestos"]
+categories = ["aleatorio", "portugues"]
+tags = ["aleatorio", "portugues", "protestos"]
 +++
 ![](/images/vinagre.jpg)
 

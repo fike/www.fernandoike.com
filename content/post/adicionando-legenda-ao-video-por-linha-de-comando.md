@@ -2,8 +2,8 @@
 title = "Adicionando legenda ao video por linha de comando"
 date = "2013-09-13"
 draft = false
-Categories = ["portugues", "debian", "SL"]
-Tags = ["portugues", "debian", "SL", "ffmpeg", "avconv"]
+categories = ["portugues", "debian", "SL"]
+tags = ["portugues", "debian", "SL", "ffmpeg", "avconv"]
 +++
 O libav é um fork do ffmpeg e tem a maioria das funcionalidades do
 ffmpeg. Como libav é um pacote oficial do Debian, ele será usado como a

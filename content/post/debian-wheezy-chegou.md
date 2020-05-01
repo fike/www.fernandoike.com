@@ -2,8 +2,8 @@
 title = "Debian wheezy chegou"
 date = "2013-05-08"
 draft = false
-Categories = ["debian", "portugues", "SL"]
-Tags = ["portugues", "debian", "porugues", "wheezy", "jessie"]
+categories = ["debian", "portugues", "SL"]
+tags = ["portugues", "debian", "porugues", "wheezy", "jessie"]
 +++
 [Debian](http://www.debian.org) que chegou na versão **7.0** e de
 codinome **Wheezy**.

@@ -2,8 +2,8 @@
 title = "How to recover freenode password"
 date = "2012-08-31"
 draft = false
-Categories = ["SL", "english"]
-Tags = ["english", "freenode", "irc"]
+categories = ["SL", "english"]
+tags = ["english", "freenode", "irc"]
 +++
 ![](http://www.iconhot.com/icon/png/messaging-icons-quotplutoquot/256/irc.png)
 

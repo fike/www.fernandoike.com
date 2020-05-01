@@ -2,8 +2,8 @@
 title = "Review roteador tp link tl wr841n"
 date = "2013-09-10"
 draft = false
-Categories = ["portugues", "aleatorio", "tech"]
-Tags = ["portugues", "aleatorio", "tech", "roteador"]
+categories = ["portugues", "aleatorio", "tech"]
+tags = ["portugues", "aleatorio", "tech", "roteador"]
 +++
 Meu velho e antigo roteador wifi decidiu que estava chegando a hora de
 se aposentar. Ao procurar um substituto, perguntei nas “rede sociais” se

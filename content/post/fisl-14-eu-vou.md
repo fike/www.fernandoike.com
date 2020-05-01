@@ -2,8 +2,8 @@
 title = "FISL 14 eu vou"
 date = "2013-06-14"
 draft = false
-Categories = ["SL", "portugues", "debian", "postgresql"]
-Tags = ["SL", "fisl", "portugues", "debian", "posgresql"]
+categories = ["SL", "portugues", "debian", "postgresql"]
+tags = ["SL", "fisl", "portugues", "debian", "posgresql"]
 +++
 ![](/images/fisl14.png)
 

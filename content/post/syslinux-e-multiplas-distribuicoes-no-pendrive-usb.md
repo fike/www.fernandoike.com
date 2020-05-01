@@ -2,8 +2,8 @@
 title = "Syslinux e multiplas distribuicoes no pendrive usb"
 date = "2013-02-20"
 draft = false
-Categories = ["debian", "portugues", "SL"]
-Tags = ["debian", "portugues", "syslinux", "boot", "linux"]
+categories = ["debian", "portugues", "SL"]
+tags = ["debian", "portugues", "syslinux", "boot", "linux"]
 +++
 Depois de alguns meses do [Ulisses (thebug)
 Castro](http://www.ulissescastro.com) me atormentar para publicar, segue

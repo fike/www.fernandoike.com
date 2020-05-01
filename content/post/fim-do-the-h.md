@@ -2,8 +2,8 @@
 title = "Fim do the h"
 date = "2013-07-29"
 draft = false
-Categories = ["SL", "portugues"]
-Tags = ["portugues", "SL", "the h", "slashdot"]
+categories = ["SL", "portugues"]
+tags = ["portugues", "SL", "the h", "slashdot"]
 +++
 Semana passada o [“The H”](http://www.h-online.com/) fechou suas portas.
 No últimos anos ele foi uma boa fonte de informação do que acontece no

@@ -2,8 +2,8 @@
 title = "Cedilha com teclado americano"
 date = "2013-04-09"
 draft = false
-Categories = ["debian", "portugues", "SL"]
-Tags = ["teclado", "debian", "portugues", "gnome"]
+categories = ["debian", "portugues", "SL"]
+tags = ["teclado", "debian", "portugues", "gnome"]
 +++
 Troquei a localização do idioma do meu [Gnome](http://www.gnome.org)
 para inglês e ao reiniciar a sessão o **ç** não funcionou mais.

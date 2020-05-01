@@ -571,8 +571,8 @@ The "new" command uses an archetype to create the post file. Hugo created an emp
 $ vi themes/zafta/archetypes/post.md
 +++
 Description = ""
-Tags = []
-Categories = []
+tags = []
+categories = []
 +++
 :wq
 
@@ -601,9 +601,9 @@ total 16
 
 $ cat content/post/first.md 
 +++
-Categories = []
+categories = []
 Description = ""
-Tags = []
+tags = []
 date = "2014-09-29T21:54:53-05:00"
 title = "first"
 
@@ -612,9 +612,9 @@ my first post
 
 $ cat content/post/second.md 
 +++
-Categories = []
+categories = []
 Description = ""
-Tags = []
+tags = []
 date = "2014-09-29T21:57:09-05:00"
 title = "second"
 

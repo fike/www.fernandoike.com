@@ -2,8 +2,8 @@
 title = "Tdc 2014 e palestra sobre web performance"
 date = "2014-08-22"
 draft = false
-Categories = ["portugues", "performance"]
-Tags = ["portugues", "FEO", "web performance", "TDC"]
+categories = ["portugues", "performance"]
+tags = ["portugues", "FEO", "web performance", "TDC"]
 +++
 Apresentei no [The Developer's Conference 2014 (SP)][1] dicas para melhorar
 desempenho para o usuário. Vai desde o básico de infraestrutura à técnicas
