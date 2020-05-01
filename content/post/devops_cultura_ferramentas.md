@@ -8,6 +8,9 @@ tags = ["portugues", "devops", "agile", "sre", "toyota production system", "gm",
 +++
 **Texto em revisão, algumas coisas podem mudar**
 
+![](/images/water-drop-384649_640.jpg)
+
+
 DevOps é um termo independente da definição, soa muito bem aos ouvidos das pessoas que trabalham com Tecnologia da Informação. Ele é a junção do termo Software **Dev**elopment + **Op**eration**s**. Numa tradução livre, significa juntar áreas de Desenvolvimento de Software e Operações de TI, ou como chamamos no Brasil de Infraestrutura. Sem dúvida, você já deve ter ouvido algumas frase como essas:
 
 > *Sou Engenheiro DevOps*!
@@ -28,7 +31,7 @@ Em algumas conversas em eventos havia frustração sobre o que é DevOps e como 
 
 Não pode-se afirmar que há culpados, o entendimento é diferente para papéis diferentes numa organização, ou mesmo dentro de uma mesma equipe.  Há razão para é falta de um definição clara do que é, de como se aplica, ou uma referência clara como Manifesto Ágil para “Agile”, ou como alguns preferem Agilidade. 
 
-Mesmo com o Manifesto Ágil há um profusão de variações para colar no buzzword da “Agilidade”. Então, o que é chamado de DevOps será muito diferente entre as pessoas ou mesma pessoa mas em épocas diferentes. Um bom exemplo sou eu, basta ler alguns textos mais antigos aqui neste espaço ou rever algumas das minhas apresentações, tentei em várias tentativas diferentes definir o que é DevOps.
+Mesmo o [Manifesto Ágil](https://agilemanifesto.org/iso/ptbr/manifesto.html), há um profusão de variações para colar no buzzword da “Agilidade”. Então, o que é chamado de DevOps será muito diferente entre as pessoas ou mesma pessoa mas em épocas diferentes. Um bom exemplo sou eu, basta ler alguns textos mais antigos aqui neste espaço ou rever algumas das minhas apresentações, tentei em várias tentativas diferentes definir o que é DevOps.
 
 DevOps torna-se um dos meus buzzword favoritos porque não há uma delimitação clara do que é, quais papéis estão envolvidos, técnicas ou ferramentas. Um outro bom exemplo é ler a ementa de qualquer curso ou treinamento relacionado a ele, todos serão diferentes pela a razão já mencionada: DevOps é definido dentro do contexto de cada pessoa e organização. 
 
@@ -40,7 +43,7 @@ Nos últimos anos cresceu muito o uso do termo “Cultura DevOps” como uma con
 
 O senso comum é as equipes de desenvolvimento de software e infraestrutura trabalhando juntas em pró de um mesmo objetivo. 
 
-[Imagem de todo mundo feliz]
+![https://pixabay.com/illustrations/people-persons-man-woman-black-467438/](/images/people-467438_640.jpg)
 
 A realidade é quase sempre mais complexa do que vende-se a Cultura DevOps como a imagem acima. Quase sempre, a uma implementação DevOps ocorre ao mesmo tempo de outras “Culturas” ou métodos como Scrum, OKR, Startup Enxuta, Management 3.0, etc. Todas lutando para ter seu lugar ao sol. 
  
@@ -48,7 +51,7 @@ A realidade é quase sempre mais complexa do que vende-se a Cultura DevOps como 
 
 Ferramentas são tangíveis, ainda que isso soa um pouco estranho se considerarmos software como ferramenta é algo tangível. Neste contexto, de entrega ou implantação numa empresa são mais fáceis de identificar através de diversas evidências: manuais de instalação ou operação, registro de eventos da ferramenta implementada, etc. 
 
-[Imagem do trabalho/ferramenta nova e polida]
+![](/images/matias-sosa-WpD5_ppAns8-unsplash.jpg)
 
 Apesar de serem tangíveis, há quase sempre um sentimento de frustração na maioria dos casos de implementação das ferramentas relacionadas a DevOps. Isso porque as expectativas estavam muito altas como se elas fossem bala de prata. Ou seja, automaticamente os problemas de comunicação, processo e cultura da empresa fossem resolvidos. Como se comprar um carro novo resolvesse o problema da rua esburacada que ele tem que passar todos os dias. 
 
@@ -68,12 +71,6 @@ A dificuldade não foi somente mudar a forma de como as fábricas produziam carr
 Um outro caso de uma instituição financeira brasileira implementou Agilidade de maneira um pouco abrupta, a mudança foi de cima para baixo. Uma decisão da alta gerência mudar de forma muita rápida, em poucas semanas foi determinado mudar todo o processo de produtivo da área de tecnologia. Desenvolvedores, Qualidade, Operações de TI, demais perfis e áreas tiveram que usar o modo “Ágil” para que as novas funcionalidades, correções de bugs, etc fossem lançada em produção. Após a data da virada para o modo Ágil, foram semanas de muitas equipes batendo cabeça até conseguirem voltar manter o fluxo produtivo aos níveis de antes da mudança e posteriormente atingirem melhoria da produtividade.
 
 
-
-
-
-
-
-
 ## O que é Cultura?
 
 
@@ -89,17 +86,17 @@ E a Cultura DevOps? Não importa a definição que você use para a Cultura DevO
 
 Talvez esteja mais confuso agora do que antes de iniciar a leitura deste texto. Deve estar perguntando…
 
-É possível implementar DevOps com Kubernetes? E sem Kubernetes?
+* É possível implementar DevOps com Kubernetes? E sem Kubernetes?
 
-É posível implementar DevOps em Mainframes?
+* É posível implementar DevOps em Mainframes?
 
-É possível implementar DevOps sem um pipeline com Jenkins, Gitlab CI ou Circle CI?
+* É possível implementar DevOps sem um pipeline com Jenkins, Gitlab CI ou Circle CI?
 
-É possível implementar DevOps sem Observabilidade (Observability)?
+* É possível implementar DevOps sem Observabilidade (Observability)?
 
-É possível implementar DevOps sem usar os provedores de nuvem (IaaS), tudo em datacenters?
+* É possível implementar DevOps sem usar os provedores de nuvem (IaaS), tudo em datacenters?
 
-É possível implementar DevOps …
+* É possível implementar DevOps…
 
 A resposta para todos as perguntas é SIM. DevOps é um meio e não um fim, portanto, é um meio de melhorar os processos produtivos relacionados a Tecnologia da Informação. Há ferramentas, processos, métodos e técnicas que podem tornar a melhoria mais rápida e menos traumática, o fundamental é evolução do gradual de produtos, serviços, sistemas e pessoas. 
 
@@ -109,7 +106,7 @@ Há diversas maneiras de implementar e muitas delas podem ser muito efetivas par
 
 Algumas situações não é possível implementar o uso de containers logo de início, outras o ganho de produtividade é tão evidente que a mudança para usá-los será imediata. Isso também se aplica para Micro-serviços, artefato imutável, etc. Voltando a pergunta - Qual a maneira efetiva para implementar DevOps?
 
-[Imagem de um gargalo de garrafa] 
+![](/images/bottleneck-795953_640.jpg)
 
 Partindo do que existe hoje e evoluí-lo aos poucos, como dizem os praticantes do Kanban, é de maneira evolucionária. A primeira pergunta que talvez deva ser feita para si e para os outros é - “Quais são os gargalos?” Gargalo (Bottleneck), neste contexto é o que limita a eficiência de um sistema, considerando um sistema a interação entre pessoas, processos e softwares. Muitos de nós já lida com gargalos no dia-a-dia mas num contexto relacionado ao produto ou serviço baseado em software, alguns exemplos:
 
@@ -152,27 +149,27 @@ Muitos consideram o encontro  do Patrick Debois com Andrew Shaffer em Toronto de
 
 Esta apresentação tem praticamente tudo o que consideramos importante para se implementar DevOps atualmente: ChatOps por IRC, Observabilidade (Observability) usando introspecção e as ferramentas de monitoramento da época (2009), cooperação entre equipes focada em entregar valor e melhorar a resiliência das aplicações, etc.
 
-[Imagem dos slides desta apresentação] 
-
 Se tentarmos ver a essência de todas as palestras, apresentações, textos, vídeos e áudios sobre DevOps desde 2009, há três coisas que sempre estão permeando-as nestes diversos conteúdos:
 
-1 - Pessoas
+### 1 - Pessoas
+
 Por enquanto, até que a supremacia das máquinas e algoritmos prevaleça (Sim, Skynet, estamos esperando você), pessoas são o que fazer as organizações a se moverem. O Jidoka no TPS significa Automação com toque humano, no Manifesto Ágil também, sua primeira linha diz “Indivíduos e interações mais que processos e ferramentas”.
 
 O senso comum sobre DevOps de trabalhar verdadeiramente em conjunto Desenvolvedores e Operações (Infraestrutura), mas na verdade deve ser estendido para todas as outras áreas como segurança, qualidade, etc. 
 
-2 - Fluxo
+### 2 - Fluxo
 O fluxo também é conhecido como pipeline, o ciclo de desenvolvimento de funcionalidades e correções de bugs até entrar em produção. Ao vermos o fluxo do ponto de vista de uma organização o fluxo é um pouco, envolve todas as áreas: marketing, comercial, suporte ao usuário, tecnologia da informação, etc. Este fluxo maior é conhecido como Fluxo de Valor (Value Stream), tê-lo identificado ajuda a entender como uma organização funciona, a comunicação entre as diversas áreas e onde estão os gargalos. 
 
 Fechando o escopo para Tecnologia da Informação, a essência do fluxo é pipeline ou melhor, é Continuous Delivery (Entrega Contínua)  com outros Continuous, Deploy e Integration (Integração). A implementação destes tipos de ferramentas no ciclo de desenvolvimento de software podem diminuir significativamente o Lead Time for Commit (desde o momento que um programador desenvolve uma funcionalidade e envia para um repositório de código como Git), implementando testes de qualidade, integração, segurança e outros.
 
-3 - Resiliência
+### 3 - Resiliência
 Operações, aqui na Brasil é mais comum de chamar de Infraestrutura, é manter os serviços funcionando. Por muito tempo o senso comum era manter a disponibilidade mais alta possível, era comum os sysadmins estufarem o peito e afirmarem, por exemplo: “Tenho um servidor com 300 dias de uptime”. Monitoramento básico de servidores e serviços, mas quase nunca o comportamento das aplicações. 
 
 A Tecnologia da Informação tem se aproximado de práticas de outras áreas como aviação, práticas de Engenharia de Resiliência estão sendo adotadas nas empresas onde a TI tem um peso grande na produção de valor. O reflexo disso é mudança da arquitetura de sistemas e processos para um contexto de mais disponibilidade, resiliência e aprendizado: Exemplos disso: Microsserviços, Circuit Breaker, Blameless Postmortem, etc.
 
 Esta perspectiva é não só prever potenciais bugs, é também pessoas, processos e aplicações estarem melhor preparados para enfrentarem situações de falha de um ou mais componentes deste sistema complexo não prevista, não simuladas ou não treinadas. 
 
+{{< youtube LdOe18KhtT4 >}}
 
 
 # Qual o papel das ferramentas em DevOps?
@@ -183,7 +180,7 @@ Ferramentas são fundamentais para acelerar a melhoria contínua do fluxo e resi
 
 Um bom exemplo é numa startup que trabalhei um tempo atrás, não havia nenhum processo automatizado, nenhum processo de qualidade e qualquer outra boa prática de Engenharia de Software. Deploy durava dias, bugs críticos levavam semanas para serem corrigidos e os mesmos tipos de incidentes ocorriam com frequência. As consequẽnciass disso eram muitas pessoas da equipe estarem praticamente em burnout.
 
-Algumas restrições adotadas para o Fluxo:
+### Algumas restrições adotadas para o Fluxo:
 
 Percentual máximo de smells, legibilidade de código poderá ser aprovada num commit
 
@@ -191,46 +188,47 @@ Havia uma ferramenta para revisão automatizada (Code Climate) mas não era usad
 
 Isso ajudou muito os desenvolvedores a se tornarem melhores, elevando a qualidade das funcionalidades que eles entregavam. Consequentemente, os desenvolvedores evoluíram muito mais rápido do que no período anterior.
 
-Percentual mínimo de cobertura de testes num commit
+* Percentual mínimo de cobertura de testes num commit
 
 A mesma ferramenta verificava cada PR se havia testes de para novas funcionalidades e também tínhamos regras implícitas para cada funcionalidade que houvesse alteração também seria acrescentado teste. O objetivo era ter o mínimo de testes nas funções que avaliamos mais importantes do ponto de vista de negócio e de sistema.
 
-Tempo máximo de testes e build de um commit
+* Tempo máximo de testes e build de um commit
 
 A implementação de testes unitário e de integração diminuíram a quantidade de bugs que iam para produção. Contudo, conforme acrescentamos mais testes o tempo para o PR ser aprovado foi acrescentado e se tornando insustentável. Definimos um tempo máximo de execução para PR, separamos testes específicos para cada fase do ciclo de desenvolvimento e isso manteve um tempo razoável para manter o Lead Time for Commit num patamar que acreditávamos saudável. 
 
-Tempo máximo de deploy em produção
+* Tempo máximo de deploy em produção
 
 Desejávamos diminuir o tempo máximo de deploy de dias para poucos minutos. Nós implantamos o deploy dos artefatos de forma automatizada usando infraestrutura imutável e containers. Os deploys ocorriam praticamente sem incidentes, permitindo as pessoas não terem que fazerem horas extras para.
 
-Algumas restrições adotadas para Resiliência:
+## Algumas restrições adotadas para Resiliência:
 
-Tempo máximo de resolução de um incidente
+* Tempo máximo de resolução de um incidente
 
 Com o Continuous Delivery nos deu segurança para estabelecer um tempo máximo para resolução do incidente. Anteriormente, a resolução levava dias e algumas vezes, fazendo que os desenvolvedores trabalham dias sem parar tentando corrigir o(s) bug(s). Inicialmente, estabelecemos o limite máximo de uma hora para resolver um incidente em produção, “resolver” neste contexto é não, obrigatoriamente, aplicar uma solução definitiva. Voltávamos para uma versão anterior ou aplicava uma solução de contorno (gambiarra).
 
-Definir indicadores mínimos para SLA, SLO, SLI e Error Budget
+* Definir indicadores mínimos para SLA, SLO, SLI e Error Budget
 
 O livro do Google sobre Site Reliability Engineering é muito bom, ele mostra como é aplicar Engenharia de Software para Operações de TI. Uma das grandes contribuições são os indicadores SLA (Service-Level Agreement), SLO (Service-Level Objective) , SLI (Service-Level Indicator) e Error Budget. 
 
 Talvez o mais importante deles é o Error Budget, é um indicador no qual define a tolerância máxima de eventuais falhas. Segundo o livro - “O principal benefício de um error budget é prover um incentivo comum para equipes de desenvolvimento e SRE encontrar o balanço correto entre inovação e confiabilidade.”
 
-Falhas, incidentes e indisponibilidades
+* Falhas, incidentes e indisponibilidades
 
 Tenho um palpite para explorar num futuro próximo, se você tiver uma ideia melhor ou conseguir ter dados a respeito, entre em contato… Voltando, tenho um palpite de ter um indicador relacionado Quantidade de Falhas, Incidentes e Indisponibilidades. Este palpite, por enquanto é:
 
 Falhas > Incidentes > Indisponibilidades. 
-Métricas “DevOps”
+
+## Métricas “DevOps”
 
 O livro  “Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations” de Nicole Forsgren, Jez Humble e Gene Kim é uma reflexão do produção do DevOps State Report realizado em conjunto com a Puppet e posteriormente produzido em conjunto com o Google. O livro descreve como medir a implementação de Lean no desenvolvimento de software e DevOps, estabelecendo 4 métricas para indicar a evolução das equipes e organizações. 
 
-1 - Qual a frequência de deploy?
+**1 - Qual a frequência de deploy?**
 
-2 - Lead Time for changes
+**2 - Lead Time for changes**
 
-3 - Taxa de falhas nas mudanças
+**3 - Taxa de falhas nas mudanças**
 
-4 - Qual o tempo para restaurar um serviço (MTTR)?
+**4 - Qual o tempo para restaurar um serviço (MTTR)?**
 
 # Outros aspectos sobre DevOps
 
@@ -253,4 +251,7 @@ DevOps em 2009 ou quando estiver lendo este texto será um meio para acelerar o 
 
 Se a essência, ou melhor, os fundamentos são o mesmo ao decorrer de uma década por que usar Cultura DevOps? Como DevOps é um buzzword, não será estranho em breve surgir ramificações como Business DevOps, Food DevOps ou Battle DevOps. Apenas chame DevOps porque as ferramentas irão mudar, novas técnicas irão surgir mas no fim de um dia de trabalho o que importa é entregar valor sem ficarmos loucos de tanto trabalhar. :)
 
+Se chegou aqui, obrigado pelo seu tempo. Espero que tenho gostado! Se quiser ver os slides, eles estão [aqui](https://speakerdeck.com/fernandoike/devops-e-cultura-dot-dot-dot-por-que-so-falamos-de-ferramentas-devopsdays-vitoria).
 
+
+{{< youtube 5BgPIETVYSQ >}}
