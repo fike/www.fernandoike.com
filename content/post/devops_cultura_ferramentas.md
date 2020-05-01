@@ -8,14 +8,19 @@ tags = ["portugues", "devops", "agile", "sre", "toyota production system", "gm",
 +++
 **Texto em revisão, algumas coisas podem mudar**
 
-DevOps é um termo independente da definição, soa muito bem aos ouvidos das pessoas que trabalham com Tecnologia da Informação. Ele é a junção do termo Software Development + Operations. Numa tradução livre, significa juntar áreas de Desenvolvimento de Software e Operações de TI, ou como chamamos no Brasil de Infraestrutura. Sem dúvida, você já deve ter ouvido algumas frase como essas:
+DevOps é um termo independente da definição, soa muito bem aos ouvidos das pessoas que trabalham com Tecnologia da Informação. Ele é a junção do termo Software **Dev**elopment + **Op**eration**s**. Numa tradução livre, significa juntar áreas de Desenvolvimento de Software e Operações de TI, ou como chamamos no Brasil de Infraestrutura. Sem dúvida, você já deve ter ouvido algumas frase como essas:
 
-“Sou Engenheiro DevOps”
-“Aplicamos DevOps aqui”
-“O DevOps diz tal coisa”
-“Contratei uma consultoria DevOps para implementar ferramenta ABCDEF”
-“DevOps é cultura e não ferramenta”
-“DevOps é desenvolver aplicações Cloud Native”
+> *Sou Engenheiro DevOps*!
+
+> *Aplicamos DevOps aqui*!
+
+> *O DevOps diz tal coisa*...
+
+> *Contratei uma consultoria DevOps para implementar ferramenta ABCDEF.*
+
+> *DevOps é cultura e não ferramenta!*
+
+> *DevOps é desenvolver aplicações Cloud Native!*
 
 Provavelmente, já ouviu deve ter escutado outras frases ou variações das acimas mencionadas. Não é possível afirmar de forma contundente que estas frases estão erradas porque DevOps é um termo fluído, complexo e nem tão simples de definir. 
 
