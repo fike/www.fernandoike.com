@@ -180,8 +180,6 @@ Um bom exemplo é numa startup que trabalhei um tempo atrás, não havia nenhum 
 
 ### Algumas restrições adotadas para o Fluxo:
 
-Percentual máximo de smells, legibilidade de código poderá ser aprovada num commit
-
 Havia uma ferramenta para revisão automatizada ([Code Climate](https://codeclimate.com/)) mas não era usada, o primeiro passo foi habilitá-la para cada [Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) que era enviado para os repositórios dos projetos no [Github](github.com/). O segundo passo foi definir quais eram os percentuais de code smell para cada PR que estava subindo. No decorrer do tempo este percentual foi mudando com objetivo de melhorar a qualidade de código. 
 
 Isso ajudou muito os desenvolvedores a se tornarem melhores, elevando a qualidade das funcionalidades que eles entregavam. Consequentemente, os desenvolvedores evoluíram muito mais rápido do que no período anterior.
@@ -198,20 +196,26 @@ A implementação de testes unitário e de integração diminuíram a quantidade
 
 Desejávamos diminuir o tempo máximo de deploy de dias para poucos minutos. Nós implantamos o deploy dos artefatos de forma automatizada usando infraestrutura imutável e containers. Os deploys ocorriam praticamente sem incidentes, permitindo as pessoas não terem que fazerem horas extras para.
 
+* Legibilidade de código poderá ser aprovada num commit
+
+Esta métrica não era um dos critérios para aprovar o merge de uma nova funcionalidade, mas faz uma grande diferença quando implementada. Porque o ato de escrever um código não deve ser considerado como um diário pessoal que só a pessoa autora irá ler, é um registro de como uma pessoa desenvolveu uma funcionalidade ou corrigiu um defeito. Este registro deve ser entendível para qualquer outra pessoa, incluso o próprio autor precise modificar aquele registro num momento futuro. 
+
 ## Algumas restrições adotadas para Resiliência:
 
-* **Tempo máximo de resolução de um incidente**
+Segue algumas sugestões de métricas para adotar de forma evolutiva, identificado se a evolução da resiliência não só dos sistemas, como também das equipes e relação entre os dois numa organização.
 
-Com o Continuous Delivery nos deu segurança para estabelecer um tempo máximo para resolução do incidente. Anteriormente, a resolução levava dias e algumas vezes, fazendo que os desenvolvedores trabalham dias sem parar tentando corrigir o(s) bug(s). Inicialmente, estabelecemos o limite máximo de uma hora para resolver um incidente em produção, “resolver” neste contexto é não, obrigatoriamente, aplicar uma solução definitiva. Voltávamos para uma versão anterior ou aplicava uma solução de contorno (gambiarra).
+* Tempo máximo de resolução de um incidente
 
-* **Definir indicadores mínimos para SLA, SLO, SLI e Error Budget**
+O Continuous Delivery nos deu segurança para estabelecer um tempo máximo para resolução do incidente. Anteriormente, a resolução levava dias e algumas vezes, fazendo que os desenvolvedores trabalham dias sem parar tentando corrigir o(s) bug(s). Inicialmente, estabelecemos o limite máximo de uma hora para resolver um incidente em produção, “resolver” neste contexto é não, obrigatoriamente, aplicar uma solução definitiva. Voltávamos para uma versão anterior ou aplicava uma solução de contorno (gambiarra).
+
+* Definir indicadores mínimos para SLA, SLO, SLI e Error Budget
 
 O livro do Google sobre Site Reliability Engineering é muito bom, ele mostra como é aplicar Engenharia de Software para Operações de TI. Uma das grandes contribuições são os indicadores [SLA](https://cloud.google.com/blog/products/gcp/sre-fundamentals-slis-slas-and-slos) ([Service-Level Agreement](https://cloud.google.com/blog/products/gcp/sre-fundamentals-slis-slas-and-slos)), SLO ([Service-Level Objective](https://cloud.google.com/blog/products/gcp/sre-fundamentals-slis-slas-and-slos)) , SLI 
 [Service-Level Indicator](https://cloud.google.com/blog/products/gcp/sre-fundamentals-slis-slas-and-slos) e [Error Budget](https://landing.google.com/sre/sre-book/chapters/embracing-risk/). 
 
 Talvez o mais importante deles é o Error Budget, é um indicador no qual define a tolerância máxima de eventuais falhas. Segundo o livro - “*O principal benefício de um error budget é prover um incentivo comum para equipes de desenvolvimento e SRE encontrar o balanço correto entre inovação e confiabilidade.*”
 
-* **Falhas, incidentes e indisponibilidades**
+* Falhas, incidentes e indisponibilidades
 
 Tenho um palpite para explorar num futuro próximo, se você tiver uma ideia melhor ou conseguir ter dados a respeito, entre em contato… Voltando, tenho um palpite de ter um indicador relacionado Quantidade de Falhas, Incidentes e Indisponibilidades. Este palpite, por enquanto é:
 
@@ -229,7 +233,7 @@ O livro  “[Accelerate: The Science of Lean Software and DevOps: Building and S
 >
 > 4 - Qual o tempo para restaurar um serviço (MTTR)?
 
-## Como medir a "Cultura DevOps"
+## Como medir a "Cultura DevOps"?
 
 Uma pergunta difícil de responder, não há uma resposta direta de como medir uma implentação da "Cultura" DevOps, uma boa alteranativa é medir de forma indireta em qual dos três tipos de cultura organizacional definidos por Ron Westrun no texto "A typology of organisational cultures". Westrun criou a tipologia inicialmente para comparar o processamnto de informações em diferente organizações, atualmente tem sido usada como uma forma de medir indiretamente a implementação da Cultura DevOps e/ou se as organizações são psicologicamente seguras. 
 
