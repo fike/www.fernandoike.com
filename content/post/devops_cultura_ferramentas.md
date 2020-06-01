@@ -6,8 +6,6 @@ description = "Baseado na apresentação de mesmo título, uma reflexão sobre D
 categories = ["portugues", "devops", "agile", "sre", "toyota production system"]
 tags = ["portugues", "devops", "agile", "sre", "toyota production system", "gm", "okr", "lean"]
 +++
-**Texto em revisão, algumas coisas podem mudar**
-
 ![](/images/water-drop-384649_640.jpg)
 
 
@@ -230,6 +228,13 @@ O livro  “[Accelerate: The Science of Lean Software and DevOps: Building and S
 > 3 - Taxa de falhas nas mudanças
 >
 > 4 - Qual o tempo para restaurar um serviço (MTTR)?
+
+## Como medir a "Cultura DevOps"
+
+Uma pergunta difícil de responder, não há uma resposta direta de como medir uma implentação da "Cultura" DevOps, uma boa alteranativa é medir de forma indireta em qual dos três tipos de cultura organizacional definidos por Ron Westrun no texto "A typology of organisational cultures". Westrun criou a tipologia inicialmente para comparar o processamnto de informações em diferente organizações, atualmente tem sido usada como uma forma de medir indiretamente a implementação da Cultura DevOps e/ou se as organizações são psicologicamente seguras. 
+
+![](/images/tipologia_ron_westrun.png)
+
 
 # Outros aspectos sobre DevOps
 
