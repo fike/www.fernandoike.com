@@ -70,7 +70,8 @@ A OPAS recomenda algumas ações se você acredita que está com depressão:
 * Busque ajuda especializada. Um profissional de saúde ou médico local é um bom começo.
  
 * Lembre-se que, se receber cuidados adequados, você poderá melhorar.
- * Continue a realizar as atividades das quais você gostava quando estava bem.
+ 
+* Continue a realizar as atividades das quais você gostava quando estava bem.
  
 * Preserve as suas relações pessoais. Continue em contato com sua família e amigos.
  
