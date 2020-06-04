@@ -1,5 +1,5 @@
 +++
-title = "A Depressão e a Tecnologia da Informação"
+title = "A Depressao e a Tecnologia da Informação"
 date = 2019-01-04T19:06:46-02:00
 draft = false
 description = "Notas sobre como a Depressão afetou meu trabalho e algumas reflexões para lidar com ela"
