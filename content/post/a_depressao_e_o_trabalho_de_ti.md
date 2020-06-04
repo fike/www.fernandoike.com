@@ -36,14 +36,14 @@ O diagnóstico da Depressão não é tão simples como uma doença com sintomas 
  
 Há um tabu em falar e discutir sobre Depressão/Ansiedade nas organizações, na maioria das vezes sequer fala-se a respeito. Em muitas organizações não há políticas para identificar e ajudar os colabores a procurar tratamento, muitas vezes o assunto é tratado como descaso ou com preconceito.
  
-A minha depressão foi identificada tardiamente, ela já estava ali comigo há alguns anos mas não foi identificados pelos meus colegas, pelas áreas responsáveis por pessoas (RH), líderes diretos ou mesmo por mim. Somente depois de algum tempo tratando a depressão consegui perceber que ela estava comigo algum tempo.
+A minha depressão foi identificada tardiamente, ela já estava ali comigo há alguns anos mas não foi identificados pelos meus colegas, pelas áreas responsáveis por pessoas (RH), líderes diretos ou mesmo por mim. Somente depois de algum tempo tratando a depressão consegui perceber que ela me acompanhava alguns bons anos.
  
 ## Eu sou o problema?
  
-Na maioria absoluta das vezes as pessoas que estão com depressão ou crise de ansiedade não sabem que estão, mas sabem que tem alguma coisa que não está no lugar. No meu caso eu não conseguia ser realmente produtivo, demorava muito para conseguir executar uma atividade (levava semanas para fazer algo que faço em dias/horas atualmente). Algumas pessoas que conversei a respeito relataram que elas simplesmente ficavam paralisadas ao olhar a quantidade de atividades que tinham para fazer ou simplesmente não se sentiam capazes de executá-las, procrastinando por muito tempo pois elas tinham medo de fracassarem.
+Na maioria absoluta das vezes as pessoas que estão com depressão ou crise de ansiedade não sabem que estão, mas sabem que tem alguma coisa que não está no lugar. No meu caso eu não conseguia ser realmente produtivo, demorava muito para conseguir executar uma atividade (levava semanas para fazer algo que faço em dias/horas atualmente). Depois de ter sido diagnosticado, procurei conversar com outras pessoas que passaram por situação similar a minha, o sintoma para elas era uma paralisia ao se verem a quantidade de atividades que tinham para fazer ou simplesmente não se sentiam capazes de executá-las, procrastinando por muito porque elas tinham medo de fracassarem. 
  
 Provavelmente você terá outros exemplos e fique livre para comentar neste post ou em privado comigo se não se sentir confortável em relatar publicamente. Se você estiver se sentindo improdutivo em relação ao passado, pergunte para uma pessoa que você confia se ela está vendo que você está diferente: se está mais disperso, demorando mais tempo para fazer uma atividade ou está esquecendo de fazer partes da atividade.
- 
+
 Não espere para procurar ajuda de um profissional, entendendo como profissional um psiquiatra. Antes de ir na consulta, procure anotar as coisas que achar relevante, também pergunte para as pessoas próximas de você coisas que elas observaram em você. Não se preocupe se você esquecer de dizer alguma ou se no primeiro psiquiatra que for não gostar dele ou do que ele disse/prescreveu, procure outro para ter uma segunda opinião.
  
 ### Escritórios modernos abertos são um vetor?
@@ -94,15 +94,15 @@ Não deixe de conversar com o RH, departamento pessoal sobre como lidar com algu
  
 ### Como Organização
  
-Segundo a [American Psiquiatric Association](https://psychnews.psychiatryonline.org/doi/full/10.1176/appi.pn.2018.8a7), entre 6 e 7 por cento dos trabalhadores americanos têm depressão. Eles também citam que trabalhadores americanos  com depressão perdem 31,4 dias de trabalho e 27,8 dias de trabalho são improdutivos. Isso representa um custo estimado de 44 bilhões de dólares anualmente.
+Segundo a [American Psiquiatric Association](https://psychnews.psychiatryonline.org/doi/full/10.1176/appi.pn.2018.8a7), entre 6 e 7 por cento dos trabalhadores americanos têm depressão. Eles também citam que trabalhadores americanos  com depressão perdem **31,4 dias** de trabalho e **27,8 dias** de trabalho são improdutivos. Isso representa um custo estimado de 44 bilhões de dólares anualmente.
  
 Organizar o escritório para ter áreas onde possa estar para fazer trabalho que exige concentração é importante se existem funções diretamente relacionadas a Tecnologia da Informação. Também mostrar para toda organização que tratam isso com seriedade ajuda, como por exemplo: ter uma política para mostrar claramente que a organização se importa com a saúde mental de seus colaboradores e ter um programa para ajudar a identificar e tratar o assunto com a seriedade necessária.
  
-Com certeza, há outras alternativas,  comente neste post se souber de alguma.
+Com certeza, há outras alternativas, comente neste post se souber de alguma.
  
 ## A motivação
  
-Algum meses atrás tive um crise de depressão que culminou no afastamento do trabalho, tratamento psiquiátrico e psicoterapêutico. Foram longos meses afastado do trabalho e este texto é uma reflexão sobre como foi a relação do trabalho e a depressão. Os números oficiais da Previdência Social e as estimativas da Organização Mundial Social são bem discrepantes. Durante o tratamento da depressão conversei com muitas pessoas a respeito e a impressão que tive foi que muitas pessoas passaram por uma situação parecida com a minha mas não procuraram ajuda.
+Algum meses atrás tive um crise de depressão que culminou no afastamento do trabalho, tratamento psiquiátrico e psicoterapêutico. Foram longos meses afastado do trabalho e este texto é uma reflexão sobre como foi a relação do trabalho e a depressão. Os números oficiais da Previdência Social e as estimativas da Organização Mundial da Saúde são bem discrepantes. Durante o tratamento da depressão conversei com muitas pessoas a respeito e a impressão que tive foi que muitas pessoas passaram por uma situação parecida com a minha mas não procuraram ajuda.
  
 Quando tive a crise que me deixou incapaz de trabalhar, trabalha numa das startups mais quentes em São Paulo com um ambiente incrivelmente legal e acolhedor. A depressão pode pegar qualquer pessoa, independente se é rica, pobre, empresa unicórnio, startup bacana ou empresa com ambiente péssimo de trabalho.
  
@@ -115,3 +115,4 @@ Quando tive a crise que me deixou incapaz de trabalhar, trabalha numa das startu
 * [Depression Calculator Tallies Business Costs of Employees’ Mental Illness](https://psychnews.psychiatryonline.org/doi/full/10.1176/appi.pn.2018.8a7)
  
  
+<script async class="speakerdeck-embed" data-id="79bdf518c5ef4a1cb18d52a00a42ccf7" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
