@@ -9,7 +9,7 @@ theme = "hyde-x"
 disqusShortname = "fernandoike"
 DefaultContentLanguage = "en"
 DefaultContentLanguageInSubdir = true
-
+removePathAccents = true
 
 [author]
     name = "Fernando Ike"
