@@ -8,7 +8,7 @@ tags = ["devops", "portugues", "blameless", "postmortem", "toyota", "gitlab", "e
 +++
 ![](/images/office_report.jpg)
 
-Esta é a segunda parte sobre Blameless, a primeira parte está [aqui](https://www.fernandoike.com/2017/08/21/blameless-a-culpa-não-é-sua/). Recomendo que leia ela antes de ler este texto.
+Esta é a segunda parte sobre Blameless, a primeira parte está [aqui](https://www.fernandoike.com/2017/08/21/blameless-a-culpa-nao-e-sua/). Recomendo que leia ela antes de ler este texto.
 
 Postmortem também é conhecido por outros nomes (Retrospectiva de projeto, Revisão de melhoria de qualidade, Laudo pós-incidente, Análise revisão de projeto, etc.). No universo de TI está se tornando comum usar o termo Blameless Postmortem para o relatório depois de um incidente identificando as causas da interrupção/falha de um serviço sem apontar como culpado as pessoas, mas sim identificar no processo as falhas e corrigí-las.
 
