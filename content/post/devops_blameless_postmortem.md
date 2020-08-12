@@ -67,7 +67,7 @@ Uma abordagem parecida é a usada na Etsy e relatada (a primeira vez) por John A
 
 E por fim e complementar o **5 Whys** (Por quês).
 
-5 Whys é uma técnica interrogativa iterativa criada por [Sakichi Toy](https://www.toyota-industries.com/company//history/toyoda_sakichi/)oda para explorar a relação de causa-efeito  de um determinado problema no processo fabril na [Toyota](https://www.toyota.com). O [Asian Development Bank](https://www.adb.org/) descreve como três elementos chaves para usar 5 Whys de forma efetiva.
+5 Whys é uma técnica interrogativa iterativa criada por [Sakichi Toyoda](https://www.toyota-industries.com/company//history/toyoda_sakichi/) para explorar a relação de causa-efeito  de um determinado problema no processo fabril na [Toyota](https://www.toyota.com). O [Asian Development Bank](https://www.adb.org/) descreve como três elementos chaves para usar 5 Whys de forma efetiva.
 
 - Descrições exatas e completa dos problemas
 - Honestidade completa em responder as perguntas
