@@ -5,16 +5,14 @@
 [context.production.environment]
    HUGO_VERSION = "0.55.1"
 
-
-# [[redirects]]
-#   from = "/"
-#   to = "/pt/"
-#   status = 301
-#   force = true
-#   query = {path = ":path"}
-
 [[redirects]]
   from = "/*"
   to = "/pt/:splat"
   status = 200
+  force = true
+
+[[redirects]]
+  from = "/tags/english"
+  to = "/en/"
+  status = 301
   force = true
