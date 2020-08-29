@@ -1,4 +1,4 @@
-baseurl = "https://www.fernandoike.com/"
+
 #title = "Fike's mnemonics"
 #author = "Fernando Ike"
 # Shown in the side menu
@@ -7,9 +7,23 @@ canonifyurls = true
 paginate = 10
 theme = "hyde-x"
 disqusShortname = "fernandoike"
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "pt"
 DefaultContentLanguageInSubdir = true
 removePathAccents = true
+
+[languages]
+  [languages.pt]
+    baseurl = "https://www.fernandoike.com/pt"
+    contentDir = "content/portuguese"
+    languageName = "Portuguese"
+    weight = 10
+  [languages.en]
+    baseurl = "https://www.fernandoike.com/en"
+    contentDir = "content/english"
+    languageName = "English"
+    weight = 20
+
+
 
 [author]
     name = "Fernando Ike"
