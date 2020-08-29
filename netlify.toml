@@ -7,9 +7,9 @@
 
 
 [[redirects]]
-  from = "tags/english"
-  to = "en"
-  status = 301
+  from = "/"
+  to = "/pt/"
+  status = 200
   force = true
   query = {path = ":path"}
   conditions = {Language = ["en"]}
