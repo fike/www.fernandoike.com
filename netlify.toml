@@ -14,7 +14,7 @@
 #   query = {path = ":path"}
 
 [[redirects]]
-  from = "/"
-  to = "/pt/"
+  from = "/*"
+  to = "/pt/:splat"
   status = 200
   force = true
