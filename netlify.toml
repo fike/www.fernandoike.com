@@ -9,7 +9,6 @@
 [[redirects]]
   from = "/"
   to = "/pt/"
-  status = 200
+  status = 301
   force = true
   query = {path = ":path"}
-  conditions = {Language = ["en"]}
