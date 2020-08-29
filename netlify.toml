@@ -6,9 +6,15 @@
    HUGO_VERSION = "0.55.1"
 
 
+# [[redirects]]
+#   from = "/"
+#   to = "/pt/"
+#   status = 301
+#   force = true
+#   query = {path = ":path"}
+
 [[redirects]]
   from = "/"
   to = "/pt/"
-  status = 301
+  status = 200
   force = true
-  query = {path = ":path"}
