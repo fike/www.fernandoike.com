@@ -10,6 +10,6 @@
   from = "tags/english"
   to = "en"
   status = 301
-  force = false
-  #query = {path = ":path"}
+  force = true
+  query = {path = ":path"}
   #conditions = {Language = ["en"], Country = ["US"], Role = ["admin"]}
