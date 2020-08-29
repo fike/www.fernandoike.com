@@ -8,7 +8,7 @@
 [[redirects]]
   from = "/*"
   to = "/pt/:splat"
-  status = 200
+  status = 301
   force = true
 
 [[redirects]]
