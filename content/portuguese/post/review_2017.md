@@ -42,7 +42,7 @@ Diferente das minhas apresentações mais antigas, este ano as preparei com algu
 
 Acho que 2017 foi um ano bacana! E 2018?
 
-Nada muito certo sobre o futuro, tentar manter a regularidade do podcast, participar de alguns eventos já ficaria bem realizado. Certo é que esarei na [Campus Party](http://brasil.campus-party.org/), [Agile Trends](http://agiletrendsbr.com/) e [QCONSP](https://qconsp.com) como palestrante para as seguintes apresentações:
+Nada muito certo sobre o futuro, tentar manter a regularidade do podcast, participar de alguns eventos já ficaria bem realizado. Certo é que esarei na [Campus Party](https://brasil.campus-party.org/), [Agile Trends](https://agiletrendsbr.com/) e [QCONSP](https://qconsp.com) como palestrante para as seguintes apresentações:
 
 #### Campus Party: 
 - Síndrome do Impostor (com o [@somatorio](https://twitter.com/somatorio))

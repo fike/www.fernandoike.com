@@ -20,7 +20,7 @@ O público de uma apresentação não é somente aquele que estará assistindo v
 
 ### Como usar as cores
 
-Não sou a melhor pessoa para dizer quais são as melhores combinações de cores de uma apresentação. O [Eriksen Costa](https://twitter.com/eriksencosta) me ajudou (salvou) uma apresentação que montei usando uma paleta de cores mais harmoniosa e muitas outras coisas. Sobre a paleta, ele recomendou usar o [ColourLovers](http://www.colourlovers.com/palettes/most-views/all-time/meta), lá tem várias combinações e com certeza deve ter uma que goste.
+Não sou a melhor pessoa para dizer quais são as melhores combinações de cores de uma apresentação. O [Eriksen Costa](https://twitter.com/eriksencosta) me ajudou (salvou) uma apresentação que montei usando uma paleta de cores mais harmoniosa e muitas outras coisas. Sobre a paleta, ele recomendou usar o [ColourLovers](https://www.colourlovers.com/palettes/most-views/all-time/meta), lá tem várias combinações e com certeza deve ter uma que goste.
 
 Considere usar um fundo mais para o escuro em seus slides. Principalmente se a apresentação será gravada (em vídeo) e também para permitir que o público tire fotos (de boa qualidade) do slides. Sim, fotos! Muitas pessoas tiram foto de alguns slides específicos para compartilhar depois no trabalhou, rede social ou como lembrete para estudo posterior. A maioria das fotos são dos slides com frases que fazem a definição de conceito ou desenho de arquitetura de sistema.
 
@@ -50,7 +50,7 @@ Bons repositórios de imagens e fotos:
 
 ### Como montar a apresentação...
 
-Um bom método para usar na criação de uma apresentação é o [Storytelling](http://www.duarte.com/blog/storytelling-presentation-skills/), funcionou bem quando usei. Atualmente tenho criado as apresentações como o exemplo abaixo. Ele serve de base tanto para apresentação como um post no meu blog.
+Um bom método para usar na criação de uma apresentação é o [Storytelling](https://www.duarte.com/blog/storytelling-presentation-skills/), funcionou bem quando usei. Atualmente tenho criado as apresentações como o exemplo abaixo. Ele serve de base tanto para apresentação como um post no meu blog.
 
 ```
 Assunto

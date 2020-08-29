@@ -5,7 +5,7 @@ draft = false
 categories = ["SL", "portugues", "palestra"]
 tags = ["SL", "portugues", "latinoware"]
 +++
-![](http://2012.latinoware.org/wp-content/uploads/g64571.png)
+![](https://2012.latinoware.org/wp-content/uploads/g64571.png)
 
 Depois de algumas ensaios para ir ao Latinoware, finalmente ire
 participar. Há muito tempo atrás fui no Latinoware quando foi realizado

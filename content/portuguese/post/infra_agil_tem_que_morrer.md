@@ -11,13 +11,13 @@ title = "Infraestrutura Ágil tem que morrer"
 
 O termo Infraestrutura Ágil em português nasceu como um recorte do DevOps, a ideia da concepção era que fosse uma preparação para implantar DevOps. Naquela época havia uma resistência ao DevOps, principalmente em Operações. A crença era que isso facilitaria o processo de implantação da Cultura DevOps nas organizações. Um dos objetivos era desviar do [buzzword que DevOps](https://www.fernandoike.com/2017/01/10/devops-como-buzzword) tinha se tornado, infelizmente este desvio mostrou equivocado e tornou-se um buzzword também. O pior de um buzzword não é um conceito certo seja desvirtuado, é um conceito equivocado torna-se um buzzword porque não é possível corrigir afirmando que o conceito original estava certo.
 
-Como sou um dos [signatários](https://web.archive.org/web/20160818034746/http://infraagil.io:80/alliance/) deste equivoco conceito, cabe uma reflexão e autocrítica. No [texto](https://www.fernandoike.com/2017/03/23/site-reliability-engineer---sre/) que escrevi sobre [SRE](https://www.fernandoike.com/2017/03/23/site-reliability-engineer---sre/) já fazia essa autocrítica mas talvez não de forma tão clara. Infraestrutura Ágil como conceito nunca deveria ter existido, portanto, deve **morrer**.
+Como sou um dos [signatários](https://web.archive.org/web/20160818034746/https://infraagil.io:80/alliance/) deste equivoco conceito, cabe uma reflexão e autocrítica. No [texto](https://www.fernandoike.com/2017/03/23/site-reliability-engineer---sre/) que escrevi sobre [SRE](https://www.fernandoike.com/2017/03/23/site-reliability-engineer---sre/) já fazia essa autocrítica mas talvez não de forma tão clara. Infraestrutura Ágil como conceito nunca deveria ter existido, portanto, deve **morrer**.
 
 ## Porque Infraestrutura Ágil é um equívoco conceitual
 
-Patrick Debois e Andrew Shafer tiveram (2008) a famosa conversa sobre [Agile Infrastructure](http://www.jedi.be/presentations/agile-infrastructure-agile2008.pdf), o tema ali era como Infraestrutura/Operações poderia aplicar as práticas Agile que as equipes de desenvolvimento faziam até então. Logo em seguida (no ano seguinte) John Allspaw e Paul Hammond [contaram](https://www.slideshare.net/jallspaw/10-deploys-per-day-dev-and-ops-cooperation-at-flickr/) como no Flickr a colaboração entre Devs e Ops aumentou a produtividade, estabilidade e confiabilidade dos serviços.
+Patrick Debois e Andrew Shafer tiveram (2008) a famosa conversa sobre [Agile Infrastructure](https://www.jedi.be/presentations/agile-infrastructure-agile2008.pdf), o tema ali era como Infraestrutura/Operações poderia aplicar as práticas Agile que as equipes de desenvolvimento faziam até então. Logo em seguida (no ano seguinte) John Allspaw e Paul Hammond [contaram](https://www.slideshare.net/jallspaw/10-deploys-per-day-dev-and-ops-cooperation-at-flickr/) como no Flickr a colaboração entre Devs e Ops aumentou a produtividade, estabilidade e confiabilidade dos serviços.
 
-Em seguida no mesmo ano (2009), Patrick Debois realiza o primeiro [DevOpsDays em Ghent](https://legacy.devopsdays.org/events/2009-ghent/) e partir daí começou um processo de pensamento sistêmico ([system thinking](http://www.systemicleadershipinstitute.org/systemic-leadership/theories/basic-principles-of-systems-thinking-as-applied-to-management-and-leadership-2/)) tornando as organizações altamente produtivas. O que fizemos ao propor Infraestrutura Ágil foi regredir para antes de 2008 ou pior, porque as referências/influências do Agile foram deixadas de lado.
+Em seguida no mesmo ano (2009), Patrick Debois realiza o primeiro [DevOpsDays em Ghent](https://legacy.devopsdays.org/events/2009-ghent/) e partir daí começou um processo de pensamento sistêmico ([system thinking](https://www.systemicleadershipinstitute.org/systemic-leadership/theories/basic-principles-of-systems-thinking-as-applied-to-management-and-leadership-2/)) tornando as organizações altamente produtivas. O que fizemos ao propor Infraestrutura Ágil foi regredir para antes de 2008 ou pior, porque as referências/influências do Agile foram deixadas de lado.
 
 Este recorte da Cultura DevOps gerou um efeito colateral da aplicação da Automação (Automation) e Medições/Métricas/Monitoramento (Measurement); Cultura (Culture) e Compartilhamento (Sharing) ficaram relegados ao segundo plano. [No texto de John Willis](https://blog.chef.io/2010/07/16/what-devops-means-to-me/) sobre **CAMS** já mostrava que sem Culture e Sharing não poderia ganhar tração rumo a uma organização altamente produtiva.
 
@@ -33,7 +33,7 @@ Este recorte da Cultura DevOps gerou um efeito colateral da aplicação da Autom
 
 Ao aplicar Infraestrutura Ágil, supõe-se que há um ganho incrível no gerenciamento da infraestrutura de uma organização, isso é claramente evidenciado quando se aplica "gerencia de configuração" usando Infraestrutura como código e/ou aplicando o *Continuous Delivery*. Estas organizações estão aplicando parcialmente o CAMS, de fato não vêem melhora em algumas indicadores da cadeia produtiva de software que são muito mais do que tempo de repostas do ping ou uptime. Por exemplo: Você sabe se o MTTR diminui, há alguma métrica de aplicação como tempo resposta da aplicação? A frequência dos deploys aumentou? O lead time entre versões diminuiu? Há um algum indicador que mostre que a qualidade do software melhorou?
 
-O [State of DevOps Report de 2017](https://puppet.com/resources/whitepaper/state-of-devops-report) mostra que a diferença de vários indicadores entre organizações de alta performance e baixa diminuiu. O relatório indica que esta diminuição é porque as organizações com baixa performance melhoram o rendimento, porém foi identificado que o [MTTR](http://www.bb-elec.com/Learning-Center/All-White-Papers/Fiber/MTBF,-MTTR,-MTTF,-FIT-Explanation-of-Terms/MTBF-MTTR-MTTF-FIT-10262012-pdf.pdf) (tempo de recuperação) aumentou. A minha opinião é que nestes locais há um descompasso entre Devs e Ops, não há um ganho de produtividade real da organização, apenas de uma das equipes. A aplicação da Infraestrutura Ágil aumenta este descompasso.
+O [State of DevOps Report de 2017](https://puppet.com/resources/whitepaper/state-of-devops-report) mostra que a diferença de vários indicadores entre organizações de alta performance e baixa diminuiu. O relatório indica que esta diminuição é porque as organizações com baixa performance melhoram o rendimento, porém foi identificado que o [MTTR](https://www.bb-elec.com/Learning-Center/All-White-Papers/Fiber/MTBF,-MTTR,-MTTF,-FIT-Explanation-of-Terms/MTBF-MTTR-MTTF-FIT-10262012-pdf.pdf) (tempo de recuperação) aumentou. A minha opinião é que nestes locais há um descompasso entre Devs e Ops, não há um ganho de produtividade real da organização, apenas de uma das equipes. A aplicação da Infraestrutura Ágil aumenta este descompasso.
 
 A Infraestrutura Ágil também respondia indiretamente ao problema de comunicação, confiança dentro do silo (equipe) de Infraestutura. John Allspaw escreveu o sobre [Blameless](https://codeascraft.com/2012/05/22/blameless-postmortems/) e definiu os 7 passos da vergonha (culpa), o texto fala da relação entre gerência e equipe mas é aplicável na relação de relação de confiança entre os membros de uma equipe.
 
@@ -51,7 +51,7 @@ Portanto, ao implementar a Infraestutura Ágil, está aplicando um **Anti-Patter
 
 ### Então, como faz?
 
-Quando fizemos o recorte de DevOps focado em Operações como Infraestrutura Ágil, nós simplificamos a Cultura DevOps fortemente no CAMS e esquecemos que DevOps é o resultado, segundo [The DevOps Handbook](http://itrevolution.com/devops-handbook), "*...da aplicação dos princípios mais confiáveis da manufatura física e liderança para a cadeia de valor de TI. DevOps depende do conhecimento do Lean, Teoria das Restrições (Theory of Constraints), Toyota Production System, engenharia de resiliência, organizações dispostas a aprender, cultura de segurança, fatores humanos e muitos outros. Outros contextos valiosos DevOps se inspira incluem cultura de gerenciamento de alta confiança, servant leadership e gerenciamento de mudanças organizacionais.*".
+Quando fizemos o recorte de DevOps focado em Operações como Infraestrutura Ágil, nós simplificamos a Cultura DevOps fortemente no CAMS e esquecemos que DevOps é o resultado, segundo [The DevOps Handbook](https://itrevolution.com/devops-handbook), "*...da aplicação dos princípios mais confiáveis da manufatura física e liderança para a cadeia de valor de TI. DevOps depende do conhecimento do Lean, Teoria das Restrições (Theory of Constraints), Toyota Production System, engenharia de resiliência, organizações dispostas a aprender, cultura de segurança, fatores humanos e muitos outros. Outros contextos valiosos DevOps se inspira incluem cultura de gerenciamento de alta confiança, servant leadership e gerenciamento de mudanças organizacionais.*".
 
 A implementação da cultura DevOps passa pelo **The Three Way** (Os Três Caminhos) de Gene Kim. Ele [descreve](https://itrevolution.com/the-three-ways-principles-underpinning-devops/) no IT Revolution The Three Way como "*...os valores e filosofias que enquadram os processo, procedimentos e práticas DevOps, bem como as etapas recomendas*".
 
@@ -71,7 +71,7 @@ Claro que sim. Diferentemente de DevOps, SRE pode ser uma função de trabalho (
 
 A motivação para escrever este teto ocorreu ao assistir uma apresentação de Infraestrutura Ágil, estava na platéia e quase interrompi o palestrante para corrigi-lo. Felizmente, fui convencido não fazer isso e razão foi muito justa: A culpa não era do palestrante por falar sobre Infraestrutura Ágil, a culpa foi das pessoas que assinaram o manifesto (eu incluso). Portanto, ao verem os conceitos, técnicas, processos que fazem a Cultura DevOps não serem citadas corretamente, não critiquem nas redes sociais não indexáveis em mecanismo de buscas, converse com a pessoa e explique seu ponto de vista sem ofende-lo. Ao invés de trazer mais pessoas para a Cultura DevOps, vocês estão afastando-as, involuntariamente aplicando o *ciclo da vergonha* já citado acima.
 
-Lembrem-se do [ICE](http://radar.oreilly.com/2015/01/devops-keeps-it-cool-with-ice.html), principalmente a *Empatia* (**E**mpathy) que foi definida por Dave Zwieback como: "*A empatia é uma conversa em dois sentidos, uma maneira de resolver conflitos e de satisfazer as necessidades das pessoas*".
+Lembrem-se do [ICE](https://radar.oreilly.com/2015/01/devops-keeps-it-cool-with-ice.html), principalmente a *Empatia* (**E**mpathy) que foi definida por Dave Zwieback como: "*A empatia é uma conversa em dois sentidos, uma maneira de resolver conflitos e de satisfazer as necessidades das pessoas*".
 
 **Referências**:
 
@@ -83,9 +83,9 @@ Lembrem-se do [ICE](http://radar.oreilly.com/2015/01/devops-keeps-it-cool-with-i
 
 - State of DevOps Report: https://puppet.com/resources/whitepaper/state-of-devops-report
 
-- The DevOps Handbook: http://itrevolution.com/devops-handbook
+- The DevOps Handbook: https://itrevolution.com/devops-handbook
 
-- Toyota Production System:  http://www.toyota-global.com/company/vision_philosophy/toyota_production_system/
+- Toyota Production System:  https://www.toyota-global.com/company/vision_philosophy/toyota_production_system/
 
 - Lean: https://www.lean.org/WhatsLean/
 
@@ -95,7 +95,7 @@ Lembrem-se do [ICE](http://radar.oreilly.com/2015/01/devops-keeps-it-cool-with-i
 
 - The Three Way:  https://itrevolution.com/the-three-ways-principles-underpinning-devops/
 
-- ICE: http://radar.oreilly.com/2015/01/devops-keeps-it-cool-with-ice.html
+- ICE: https://radar.oreilly.com/2015/01/devops-keeps-it-cool-with-ice.html
 
 - SRE Book: https://landing.google.com/sre/book/
 

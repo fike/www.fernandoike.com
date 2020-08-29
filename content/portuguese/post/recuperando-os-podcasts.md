@@ -19,7 +19,7 @@ Padilha](https://twitter.com/padilhando)). O legal era realizar os
 episódios literalmente na varanda do Emerson.
 
 Os episódios do GDHCast que participei podem ser ouvidos
-[aqui](http://gdhcast.fernandoike.com/).
+[aqui](https://gdhcast.fernandoike.com/).
 
 ## foi experimentação fantástica realizada por
 [@Emerson Luis](https://twitter.com/emerluis), [César
@@ -33,11 +33,11 @@ Padilha](https://twitter.com/padilhando)). O legal era realizar os
 episódios literalmente na varanda do Emerson.
 
 Ah claro, era uma delícia pesquisar músicas com licenças em [Creative
-Commons](http://creativecommons.org.br/). ;)
+Commons](https://creativecommons.org.br/). ;)
 
 Infelizmente, não consegui recurperar as entrevistas dos ministros mas
 os registros anteriores estão todos
 [aqui](https://twitter.com/Carlos_Morimoto).
 
 Fonte da imagem:
-[Wikipedia](http://en.wikipedia.org/wiki/File:Dolina-Pano-3.jpg)
+[Wikipedia](https://en.wikipedia.org/wiki/File:Dolina-Pano-3.jpg)

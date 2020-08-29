@@ -9,10 +9,10 @@ Criar pacotes deb (do jeito certo) é trabalhoso. Depois que pega o jeito
 é bem mais fácil mas ainda sim trabalhoso, principalmente quando é
 necessário fazer algum teste. Uma das formas de automatizar isso é usar
 o
-[pbuilder](http://www.netfort.gr.jp/~dancer/software/pbuilder-doc/pbuilder-doc.html).
+[pbuilder](https://www.netfort.gr.jp/~dancer/software/pbuilder-doc/pbuilder-doc.html).
 Ele permite gerar pacotes usando uma ambientes de jaula (chroot) e gerar
-pacotes para diferentes versões do [Debian](http://www.debian.org),
-([Ubuntu](http://www.ubuntu.com)) e outros. Por exemplo, criando alguns
+pacotes para diferentes versões do [Debian](https://www.debian.org),
+([Ubuntu](https://www.ubuntu.com)) e outros. Por exemplo, criando alguns
 ambientes chroot com versões diferentes de Linux (GNU/Linux) e
 arquitetura de hardware.
 
@@ -38,7 +38,7 @@ antes de criar. No exemplo abaixo é o Ubuntu Raring Ringtail (13.04).
 $sudo apt-key adv --recv-keys --keyserver keyserver.ubuntu.com 3B4FE6ACC0B21F32
 
 $sudo pbuilder create --basetgz /var/cache/pbuilder/base-raring-amd64.tgz \
-      --distribution raring --mirror http://ftp.ubuntu.com/ubuntu \
+      --distribution raring --mirror https://ftp.ubuntu.com/ubuntu \
       --debootstrapopts --keyring=/etc/apt/trusted.gpg
 ```
 
@@ -86,7 +86,7 @@ $sudo pdebuild --auto-debsign --debsign-k XXXXXXXX --  \
 # Ubuntu Raring
 $sudo pdebuild --auto-debsign --debsign-k XXXXXXXX --  \
       --basetgz /var/cache/pbuilder/base-raring-amd64.tgz \
-      --distribution raring  --mirror http://ftp.ubuntu.com/ubuntu \
+      --distribution raring  --mirror https://ftp.ubuntu.com/ubuntu \
       foobar*.dsc
 ```
 

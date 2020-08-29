@@ -8,7 +8,7 @@ tags = ["portugues", "postgresql", "SL"]
 ![]( /images/breaking_glass.jpg)
 
 Algum tempo atrás o servidor (olifante) do PostgreSQL Brasil foi
-[invadido](http://listas.postgresql.org.br/pipermail/pgbr-dev/2014-March/006032.html)
+[invadido](https://listas.postgresql.org.br/pipermail/pgbr-dev/2014-March/006032.html)
 e foi colocado algumas páginas em russo. Também foi instalado um web
 shell que o invasor pode acessar praticamente qualquer parte do
 servidor.

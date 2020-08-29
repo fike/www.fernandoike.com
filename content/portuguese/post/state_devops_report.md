@@ -38,7 +38,7 @@ Já mencionei algumas vezes no podcast que o [Eriksen Costa](https://twitter.com
 
 #### Entrega mais rápidas não refletem em código melhor
 
-Gostei do termo "*[Bad code faster](http://electric-cloud.com/blog/2017/06/top-5-takeaways-2017-state-devops-report/)*" que a [Electric Cloud](http://electric-cloud.com/) usou para destacar a que as organizações de baixa performance estão fazendo deploy mais frequentes mas não necessariamente melhor que antes. O estudo mostra que o tempo de recuperação (MTTR) para voltar um sistema aumentou ao comparar com 2016. Eles (Puppet e Dora) desconfiam que as organizações de baixa performance investiram em aumentar a velocidade, mas não na qualidade do processo. A Electric Cloud aponta para a dificuldade para iniciar uma cultura de teste (Unitários, integração...). Qual a razão para você?
+Gostei do termo "*[Bad code faster](https://electric-cloud.com/blog/2017/06/top-5-takeaways-2017-state-devops-report/)*" que a [Electric Cloud](https://electric-cloud.com/) usou para destacar a que as organizações de baixa performance estão fazendo deploy mais frequentes mas não necessariamente melhor que antes. O estudo mostra que o tempo de recuperação (MTTR) para voltar um sistema aumentou ao comparar com 2016. Eles (Puppet e Dora) desconfiam que as organizações de baixa performance investiram em aumentar a velocidade, mas não na qualidade do processo. A Electric Cloud aponta para a dificuldade para iniciar uma cultura de teste (Unitários, integração...). Qual a razão para você?
 
 #### Automação é o nirvana mas há dor no caminho
 
@@ -79,4 +79,4 @@ Ao seguir essas práticas as organizações de alta performance têm pouco esfor
 - State of DevOps Report 2017: https://puppet.com/resources/whitepaper/state-of-devops-report
 - State of DevOps Report 2016: https://puppet.com/resources/whitepaper/2016-state-of-devops-report
 - State of DevOps Report 2015: https://puppet.com/resources/whitepaper/2015-state-devops-report
-- Top 5 Takeaways from the 2017 State of DevOps Report: http://electric-cloud.com/blog/2017/06/top-5-takeaways-2017-state-devops-report/
+- Top 5 Takeaways from the 2017 State of DevOps Report: https://electric-cloud.com/blog/2017/06/top-5-takeaways-2017-state-devops-report/

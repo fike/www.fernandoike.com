@@ -83,8 +83,8 @@ $vagrant box add 'debtest' '/home/fike/d/veewee/debtest.box'
 ```
 
 [veewee]:  https://github.com/jedi4ever/veewee
-[vagrant]: http://www.vagrantup.com/
-[kvm]: http://www.linux-kvm.org
+[vagrant]: https://www.vagrantup.com/
+[kvm]: https://www.linux-kvm.org
 [ruby]: https://www.ruby-lang.org/
-[nokogiri]: http://nokogiri.org/
-[debian]: http://www.debian.org/
+[nokogiri]: https://nokogiri.org/
+[debian]: https://www.debian.org/

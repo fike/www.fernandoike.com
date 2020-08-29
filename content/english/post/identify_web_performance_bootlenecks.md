@@ -29,8 +29,8 @@ The high value of TTFB can occur when your monitoring test is far away from your
 | [EUA][1]    | 0,121s |
 | [Brasil][2] | 0,325s |
 
-[1]: http://www.webpagetest.org/result/151110_WJ_XE2/
-[2]: http://www.webpagetest.org/result/151110_MS_X5F/
+[1]: https://www.webpagetest.org/result/151110_WJ_XE2/
+[2]: https://www.webpagetest.org/result/151110_MS_X5F/
 
 This's a real problem for brazilian user sites hosted in USA provides. The network latency at least 100 milliseconds, some companies prefer to clone a part of their servers architecture in Brazil to decrease the latency. So, considering latency, a good value to TTFB for Brazilian sites hosted in USA is 300 milliseconds, if the sites and users are the same region or country, the good value is +- 130 milliseconds.
 
@@ -48,7 +48,7 @@ It's common sense that's good idea to provide cryptography for users sites, but 
 *TLS/SSL das listas do PostgreSQL Brasil*
 ![SSL PostgreSQL Brasil](/images/gargalo_ssl_pgbr.png)
 
-I did comparative test SSL handshake of [Github homepage](http://www.webpagetest.org/result/151110_RA_Z9A/1/details/) and [mail list homepage of PostgreSQL Brasil](http://www.webpagetest.org/result/151110_G0_Z1S/1/details/). It's really impressive as a good infrastructure and tweak TLS configuration can provide a good performance. Obliviously, Github was better than PostgreSQL Brasil (my fault), at last they have a lot of money. :)
+I did comparative test SSL handshake of [Github homepage](https://www.webpagetest.org/result/151110_RA_Z9A/1/details/) and [mail list homepage of PostgreSQL Brasil](https://www.webpagetest.org/result/151110_G0_Z1S/1/details/). It's really impressive as a good infrastructure and tweak TLS configuration can provide a good performance. Obliviously, Github was better than PostgreSQL Brasil (my fault), at last they have a lot of money. :)
 
 
 ### DNS
@@ -69,7 +69,7 @@ Even though that root case is the site infrastructure, somethings are just Ident
 
 ### Compressão (gzip)
 
-Any web server HTTP response is text/plain type, they have to be compression by gzip (RFC 2616). If you want further about this subject, read my post "[CDN ranking and gzip compression (only portuguese)](http://www.fernandoike.com/2014/12/23/configuracao-de-compressao-gzip-para-sites-e-ranking-de-cdn/)". But, if you don't time to learn portuguse or wait me write in English, below a brief note.
+Any web server HTTP response is text/plain type, they have to be compression by gzip (RFC 2616). If you want further about this subject, read my post "[CDN ranking and gzip compression (only portuguese)](https://www.fernandoike.com/2014/12/23/configuracao-de-compressao-gzip-para-sites-e-ranking-de-cdn/)". But, if you don't time to learn portuguse or wait me write in English, below a brief note.
 
 If **Content-Type** HTTP header contains any value below, consider enable compression in your web server.1
 
@@ -93,7 +93,7 @@ If **Content-Type** HTTP header contains any value below, consider enable compre
 - **image/vnd.microsoft.icon**
 - **text/x-js**
 
-The my site previously had a [good result for compression](http://www.webpagetest.org/result/151110_MS_X5F/1/performance_optimization/#compress_text) in the Webpagetest.
+The my site previously had a [good result for compression](https://www.webpagetest.org/result/151110_MS_X5F/1/performance_optimization/#compress_text) in the Webpagetest.
 
 ![Gargalos gzip - nota](/images/gargalos_gzip1.png)
 
@@ -103,7 +103,7 @@ The my site previously had a [good result for compression](http://www.webpagetes
 
 Cache-Control is a of most important HTTP header because it says to web browsers what they can do local cache or not. The most web develop frameworks provides a good management under Cache-Contol, they add the HTTP header automatically for images, javascripts, css and webfonts.  
 
-I didn't my TLS homework [this test](http://www.webpagetest.org/result/151110_MS_X5F/1/performance_optimization/#cache_static_content), because my blog had a lot of third-party content (Linkedin and Slideshare). Unfortunately, they don't use Cache-Control correctly, and this does the Repeat View isn't good to. The Repeat View could have 40% less HTTP requests.
+I didn't my TLS homework [this test](https://www.webpagetest.org/result/151110_MS_X5F/1/performance_optimization/#cache_static_content), because my blog had a lot of third-party content (Linkedin and Slideshare). Unfortunately, they don't use Cache-Control correctly, and this does the Repeat View isn't good to. The Repeat View could have 40% less HTTP requests.
 
 #### Repeat View
 

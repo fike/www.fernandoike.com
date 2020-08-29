@@ -19,6 +19,6 @@ Ah, já estava esquecendo. A organização do evento estava excelente,
 coffee-break também. Parabéns para o pessoal que organizou o PGDAY 
 Campinas! :)
 
-[postgresql]: http://www.postgresql.org
-[pgday]: http://pgdaycampinas.com.br/
-[docker]: http://www.docker.io/
+[postgresql]: https://www.postgresql.org
+[pgday]: https://pgdaycampinas.com.br/
+[docker]: https://www.docker.io/

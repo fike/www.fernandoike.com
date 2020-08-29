@@ -7,10 +7,10 @@ tags = ["portugues", "f1"]
 +++
 ![](/images/Mark-Webber-Sebastian-Vet-008.jpg "[The Guardian]")
 
-Hoje teve a corrida de [Fórmula 1](http://www.formula1.com) na Malásia
+Hoje teve a corrida de [Fórmula 1](https://www.formula1.com) na Malásia
 com final empolgante com a disputa da primeira posição entre
-[Vettel](http://www.sebastianvettel.de) e
-[Webber](http://www.markwebber.com). Webber era o líder da prova até
+[Vettel](https://www.sebastianvettel.de) e
+[Webber](https://www.markwebber.com). Webber era o líder da prova até
 então mas após uma ordem da equipe, ele diminui o ritmo. Porém o Vettel
 que estava estava em segundo e também recebeu a mesma ordem mas não
 obedeceu e numa disputa com Webber conseguiu ultrapassar Webber numa
@@ -18,7 +18,7 @@ disputa belíssima.
 
 Após a corrida, o debate sobre esta ultrapassagem foi grande você pode
 conferir nos principais sites e blogs que cobrem a Fórmula 1. Recomendo
-a cobertura do [Grande Prêmio](http://www.grandepremio.com.br).
+a cobertura do [Grande Prêmio](https://www.grandepremio.com.br).
 
 Na maioria das categorias de automobilismo, os pilotos de uma equipe
 trabalham como coopetidores pois existe um certo grade cooperação para
@@ -42,7 +42,7 @@ ultrapassá-lo. Para o espectador a disputa foi muito legal mas para
 equipe foi muito perigoso pois poderia perder os primeiros lugares da
 corrida. Mas provavelmente o Vettel já está pensando que pode bater os
 recordes do
-[Schumacher](http://www.michael-schumacher.de/sites/index.html).
+[Schumacher](https://www.michael-schumacher.de/sites/index.html).
 
 Quem está certo nisso é difícil dizer pois o interesse na F1 é
 principalmente dinheiro mas que o final da corrida foi bacana, ah se

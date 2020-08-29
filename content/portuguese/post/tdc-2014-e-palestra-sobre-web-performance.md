@@ -17,4 +17,4 @@ saudades de ir em eventos de tecnologia. Quase estava esqucendo, tenho que agrad
 a organização pela oportunidade e se o vídeo da palestra
 for publicado em algum lugar, posto aqui depois.
 
-[1]: http://www.thedevelopersconference.com.br/
+[1]: https://www.thedevelopersconference.com.br/

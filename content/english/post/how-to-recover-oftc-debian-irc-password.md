@@ -7,10 +7,10 @@ tags = ["english", "irc", "oftc", "freenode"]
 +++
 Ok, it’s terrible!
 
-I also didn’t remember my  [OFTC](http://www.oftc.net/)
-[IRC](http://en.wikipedia.org/wiki/Internet_Relay_Chat) password. OFTC
+I also didn’t remember my  [OFTC](https://www.oftc.net/)
+[IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) password. OFTC
 works the same way as Freenode, but it currently hosts
-[Debian](http://www.debian.org) IRC channels.
+[Debian](https://www.debian.org) IRC channels.
 
 Well, I needed to recover my password, so what did I have to do?
 

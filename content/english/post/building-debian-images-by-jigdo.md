@@ -23,10 +23,10 @@ Well, let's go to practice.
 The jigdo file (.jigdo) is simple list with all packages and hash of a instalation image. You need it to start the downloads. In this case, I used jigdo file to build first Squeeze DVD.
 
 ```
-$jigdo-lite http://cdimage.debian.org/cdimage/archive/6.0.10/amd64/jigdo-dvd/debian-6.0.10-amd64-DVD-1.jigdo
+$jigdo-lite https://cdimage.debian.org/cdimage/archive/6.0.10/amd64/jigdo-dvd/debian-6.0.10-amd64-DVD-1.jigdo
 ```
 
-Before to begin download, jidgo need some arguments. Fill arguments of your preference but remember that the argument more important is the mirror. If you have doubt what's mirror is more fast, you can use [netselect-apt][1] to discovery. For my test, I'm used Unicamp mirror ([http://debian.las.ic.unicamp.br/debian][unicampmirror]).
+Before to begin download, jidgo need some arguments. Fill arguments of your preference but remember that the argument more important is the mirror. If you have doubt what's mirror is more fast, you can use [netselect-apt][1] to discovery. For my test, I'm used Unicamp mirror ([https://debian.las.ic.unicamp.br/debian][unicampmirror]).
 
 #### My jigdo-lite conf file.
 
@@ -35,7 +35,7 @@ Before to begin download, jidgo need some arguments. Fill arguments of your pref
 $cat ~/.jigdo-lite
 -------
 jigdo=''
-debianMirror='http://debian.las.ic.unicamp.br/debian/'
+debianMirror='https://debian.las.ic.unicamp.br/debian/'
 nonusMirror=''
 tmpDir='.'
 jigdoOpts='--cache jigdo-file-cache.db'
@@ -49,7 +49,7 @@ Nice, huh?
 Take a coffee and forget to download Debian images using others programs (**curl**, **wget**, etc.). :)
 
 [squeeze]: https://www.debian.org/releases/squeeze/
-[debian]: http://www.debian.org/
+[debian]: https://www.debian.org/
 [jigdo]: https://www.debian.org/CD/jigdo-cd/
-[unicampmirror]: http://debian.las.ic.unicamp.br/debian
+[unicampmirror]: https://debian.las.ic.unicamp.br/debian
 [1]: https://packages.debian.org/search?keywords=netselect-apt

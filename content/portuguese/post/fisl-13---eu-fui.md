@@ -5,15 +5,15 @@ draft = false
 categories = ["SL", "portugues", "debian", "postgresql"]
 tags = ["portugues", "SL", "fisl", "postgresql", "debian"]
 +++
-   ![](http://softwarelivre.org/articles/0043/6010/banner4.jpg)
+   ![](https://softwarelivre.org/articles/0043/6010/banner4.jpg)
 
     Já perdi a conta de quantas vezes participei do
-[FISL](http://www.fisl.org.br). Todas  de alguma forma foram
+[FISL](https://www.fisl.org.br). Todas  de alguma forma foram
 proveitosas, mesmo quando tive que passar a maior parte do tempo
 trabalhando ou indo por um dia no evento.
 
 Todos os anos voltamos a ”**Festa da Padroeira**” (como diria o
-[Cezinha](http://cesar.zyakannazio.eti.br/)), este ano tinha espaço para
+[Cezinha](https://cesar.zyakannazio.eti.br/)), este ano tinha espaço para
 andar sem trombar! Sem contar que estava frio. Não, não estava frio,
 não… Estava frio para **c\$r\$lhX**! 
 
@@ -26,8 +26,8 @@ fazer alguma coisa em Software Livre/Código Aberto.
     Esse no de 2012 fui apenas como espectador, assisti algumas
 palestras e revi muitos amigos. Senti falta de muitos amigos que não
 foram ou que não pude encontrar por lá, mas principalmente senti falta
-dos grupos de usuários ([PostgreSQL](http://www.postgresql.org.br) e
-[Debian](http://www.debianbrasil.org)) que de alguma forma ajudei nesses
+dos grupos de usuários ([PostgreSQL](https://www.postgresql.org.br) e
+[Debian](https://www.debianbrasil.org)) que de alguma forma ajudei nesses
 últimos anos.
 
     Ir ao FISL é sempre bom, sempre voltamos com milhões de ideias na

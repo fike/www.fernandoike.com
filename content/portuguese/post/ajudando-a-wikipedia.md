@@ -8,7 +8,7 @@ tags = ["portugues","wikipedia"]
 ![](/images/Wikipedia-logo.png)
 
 Eu sou um usuário da
-[**Wikipedia**](http://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal)
+[**Wikipedia**](https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal)
 e provavelmente você que está lendo também este texto **é**, **já foi**
 ou **será** também. ;)
 
@@ -16,7 +16,7 @@ ou **será** também. ;)
 
 Tem alguns dias que tem aparece um pequeno texto no topo da página deles
 solicitando uma contribuição. Eu doei algumas dilmas e você também pode,
-eles aceitam a doação por [Paypal](http://www.paypal.com) ou cartão de
+eles aceitam a doação por [Paypal](https://www.paypal.com) ou cartão de
 crédito.
 
 A Wikipedia é daqueles projetos fantásticos que merecem um pouco de
@@ -24,11 +24,11 @@ atenção. Ela já não é mais aquela novidade de alguns atrás mas ela
 continua firme com muitos voluntários escrevendo artigos, revisando ou
 apenas lendo se imenso conteúdo. Ela influenciou em muito o que nos
 últimos anos a tal da [Sociedade da
-Informação](http://pt.wikipedia.org/wiki/Sociedade_da_informa%C3%A7%C3%A3o),
+Informação](https://pt.wikipedia.org/wiki/Sociedade_da_informa%C3%A7%C3%A3o),
 também poderia enumerar vários efeitos que a Wikipedia produziu mas o,
 talvez, mais marcante foi influenciar as empresas tenha uma base
 compartilhada de conhecimento baseado em
-[Wiki](http://pt.wikipedia.org/wiki/WikiWikiWeb). Provavelmente isso
+[Wiki](https://pt.wikipedia.org/wiki/WikiWikiWeb). Provavelmente isso
 aconteceria com ou sem a influência dela mas que ela ajudou acelerar,
 sem dúvida que sim! :D
 
@@ -77,4 +77,4 @@ I appreciate your trust in us, and I promise you we'll use your money well.
 Thanks,
 </pre>
 
-Obs.: Se você se interessou em saber um pouco mais, recomendo ler [A Cauda Longa](http://www.livrariacultura.com.br/scripts/resenha/resenha.asp?nitem=1571513&sid=96816310715330398412039239) e/ou [Free - O futuro dos preços](http://www.livrariacultura.com.br/scripts/resenha/resenha.asp?nitem=2855974&sid=96816310715330398412039239)
+Obs.: Se você se interessou em saber um pouco mais, recomendo ler [A Cauda Longa](https://www.livrariacultura.com.br/scripts/resenha/resenha.asp?nitem=1571513&sid=96816310715330398412039239) e/ou [Free - O futuro dos preços](https://www.livrariacultura.com.br/scripts/resenha/resenha.asp?nitem=2855974&sid=96816310715330398412039239)

@@ -7,9 +7,9 @@ tags = ["devops", "dba", "data scientist", "release", "automacao"]
 title = "DevOps: O novo papel do DBA"
 
 +++
-Antes de mais nada, obrigado Fabrízio e a [Timbira](http://www.timbira.com.br/) pela oportunidade de participar do evento como co-palestrante!
+Antes de mais nada, obrigado Fabrízio e a [Timbira](https://www.timbira.com.br/) pela oportunidade de participar do evento como co-palestrante!
 
-[Fabrízio Mello](https://twitter.com/fabriziomello) e eu apresentamos no [DBA Brasil 2.0](http://www.dbabr.com.br/dbabrasil2) como a cultura **DevOps** está mudando o papel do DBA, os slides da apresentação estão no [Slideshare](https://www.slideshare.net/fabriziomello/dba-brasil-20-como-o-papel-e-atividades-de-dba-ficam-no-contexto-da-cultura-devops) e este texto é uma minha reflexão da palestra. Antes de discorrer sobre como a cultura DevOps está modificando o papel do DBA nas organizações, deixa tentar fazer uma definição das atividades clássicas do DBA.
+[Fabrízio Mello](https://twitter.com/fabriziomello) e eu apresentamos no [DBA Brasil 2.0](https://www.dbabr.com.br/dbabrasil2) como a cultura **DevOps** está mudando o papel do DBA, os slides da apresentação estão no [Slideshare](https://www.slideshare.net/fabriziomello/dba-brasil-20-como-o-papel-e-atividades-de-dba-ficam-no-contexto-da-cultura-devops) e este texto é uma minha reflexão da palestra. Antes de discorrer sobre como a cultura DevOps está modificando o papel do DBA nas organizações, deixa tentar fazer uma definição das atividades clássicas do DBA.
 
 ## O DBA 1.0
 
@@ -42,7 +42,7 @@ Foram necessários mais alguns meses para conseguir rodar a folha de pagamento n
 
 ## O impacto de muitos deploys por dia
 
-Houve um aumento significativo de deploys com a adoção do [Agile](http://agilemanifesto.org/), [Lean](http://www.lean.org.br/o-que-e-lean.aspx) e DevOps nas empresas. Os deploys que aconteciam algumas vezes no ano mudou para muitos deploys por dia, num evento do [Meetup Docker São Paulo](meetup.com/Docker-Sao-Paulo/) foi relatado por uma empresa que eles realizam até **90 deploys por dia**. Uma das consequências do aumento de releases dos sistemas é que o DBA precisa estar mais próximo da equipe de desenvolvimento para ajudar na arquitetura e atualização dos sistemas. Uma segunda consequência é acompanhar o monitoramento mais de perto para identificar problemas de desempenho dos bancos dados. Uma terceira consequência é o aumento massivo dos dados a serem gerenciados, forçando algumas empresas a criar uma nova estrutura no organograma da TI para atender a demanda de gerenciar a quantidade massiva de informações geradas pela empresa. Esta nova vertical não tem um nome muito bem definido, em alguns lugares ela será batizada como Data Scientist, em outras como Big Data.
+Houve um aumento significativo de deploys com a adoção do [Agile](https://agilemanifesto.org/), [Lean](https://www.lean.org.br/o-que-e-lean.aspx) e DevOps nas empresas. Os deploys que aconteciam algumas vezes no ano mudou para muitos deploys por dia, num evento do [Meetup Docker São Paulo](meetup.com/Docker-Sao-Paulo/) foi relatado por uma empresa que eles realizam até **90 deploys por dia**. Uma das consequências do aumento de releases dos sistemas é que o DBA precisa estar mais próximo da equipe de desenvolvimento para ajudar na arquitetura e atualização dos sistemas. Uma segunda consequência é acompanhar o monitoramento mais de perto para identificar problemas de desempenho dos bancos dados. Uma terceira consequência é o aumento massivo dos dados a serem gerenciados, forçando algumas empresas a criar uma nova estrutura no organograma da TI para atender a demanda de gerenciar a quantidade massiva de informações geradas pela empresa. Esta nova vertical não tem um nome muito bem definido, em alguns lugares ela será batizada como Data Scientist, em outras como Big Data.
 
 ### O DBA 2.0
 
@@ -63,11 +63,11 @@ Os novos conhecimentos vão desde aprender novas **Linguagens de Programação**
 
 Há muitos textos sobre Continuous Delivery, estratégias e métodos de deploy. Mas não há muita coisa sobre Deployment e banco de dados. O Fabrízio contou na apresentação no DBA Brasil 2.0 um caso de migração de 4 bilhões de registros, ao perceberam que não iriam conseguir migrar num único deploy, eles criaram um script para ir migrando em pequenos lotes para fazer a migração em alguns dias e ao fim virar a chave da aplicação para usar o banco de dados já com os dados migrados.
 
-Essa abordagem não sem encaixa em nenhuma das estratégias mais comuns, por isso a importância do DBA se envolver com a equipe de desenvolvimento para trabalharem em conjunto. Neste cenário torna-se necessário o DBA conhecer métodos de Deployment relacionados aos bancos de dados como: Scripts SQL, DACPAC, ferramentas de automação de banco ([Datical](http://www.datical.com/), [DBMaestro](http://www.dbmaestro.com/), [Redgate](http://www.red-gate.com/), etc.). Também é importante conhecer as estratégias: [Canary Release,](https://martinfowler.com/bliki/CanaryRelease.html) Rolling Release, [Blue/Green](https://www.martinfowler.com/bliki/BlueGreenDeployment.html), etc.
+Essa abordagem não sem encaixa em nenhuma das estratégias mais comuns, por isso a importância do DBA se envolver com a equipe de desenvolvimento para trabalharem em conjunto. Neste cenário torna-se necessário o DBA conhecer métodos de Deployment relacionados aos bancos de dados como: Scripts SQL, DACPAC, ferramentas de automação de banco ([Datical](https://www.datical.com/), [DBMaestro](https://www.dbmaestro.com/), [Redgate](https://www.red-gate.com/), etc.). Também é importante conhecer as estratégias: [Canary Release,](https://martinfowler.com/bliki/CanaryRelease.html) Rolling Release, [Blue/Green](https://www.martinfowler.com/bliki/BlueGreenDeployment.html), etc.
 
-Ressaltando que não existe bala de prata, uma única solução, método ou estratégia de Deployment resolverá todos os problemas, cada aplicação ou problema poderá ter uma melhor solução de forma específica. Não esquecendo também que as boas práticas em administração de banco de dados continuam fortemente recomendas, acrescentando algumas coisas novas como **versionamento dos metadados**, [teste unitário](http://pgtap.org/) e **automação de banco da dados**.
+Ressaltando que não existe bala de prata, uma única solução, método ou estratégia de Deployment resolverá todos os problemas, cada aplicação ou problema poderá ter uma melhor solução de forma específica. Não esquecendo também que as boas práticas em administração de banco de dados continuam fortemente recomendas, acrescentando algumas coisas novas como **versionamento dos metadados**, [teste unitário](https://pgtap.org/) e **automação de banco da dados**.
 
-Outras coisa interessantes para um DBA conhecer são: [Feature Toggle](https://martinfowler.com/bliki/FeatureToggle.html), [Continuous Delivery](http://www.grupoa.com.br/livros/engenharia-de-software-e-metodos-ageis/entrega-continua/9788582601037) (obviamente), [Brownfield/GreenField](http://www.donnfelker.com/software-development-greeenfield-vs-brownfield/) e [System Thinking](http://watersfoundation.org/systems-thinking/definitions/) ([1st Way to DevOps](http://itrevolution.com/devops-culture-part-1/)).
+Outras coisa interessantes para um DBA conhecer são: [Feature Toggle](https://martinfowler.com/bliki/FeatureToggle.html), [Continuous Delivery](https://www.grupoa.com.br/livros/engenharia-de-software-e-metodos-ageis/entrega-continua/9788582601037) (obviamente), [Brownfield/GreenField](https://www.donnfelker.com/software-development-greeenfield-vs-brownfield/) e [System Thinking](https://watersfoundation.org/systems-thinking/definitions/) ([1st Way to DevOps](https://itrevolution.com/devops-culture-part-1/)).
 
 **Referências**:
 
@@ -75,5 +75,5 @@ Outras coisa interessantes para um DBA conhecer são: [Feature Toggle](https://m
 - [CD for DBs: Database Deployment Strategies](https://www.youtube.com/watch?v=hLQAQlwY6-k&feature=youtu.be)
 - [DBA Role Shift in a DevOps World](https://www.youtube.com/watch?v=R4XJK_kTKIM)
 - [Automating the Database: A Win-Win for DBAs and DevOps](https://www.infoq.com/articles/dba-devops-source-control)
-- CAMS - http://itrevolution.com/devops-culture-part-1/
+- CAMS - https://itrevolution.com/devops-culture-part-1/
 [10+ Deploys Per Day](https://www.youtube.com/watch?v=LdOe18KhtT4)

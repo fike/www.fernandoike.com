@@ -8,10 +8,10 @@ tags = ["debian", "SL", "portugues", "internet banking", "java"]
 Praticamente todos os grandes banco comerciais neste último ano
 começaram usar uma solução que impossibilita usar o internet banking
 deles num [Linux](https://www.kernel.org/)
-([Debian](http://www.debian.org)) com
-[OpenJDK](http://openjdk.java.net/).
+([Debian](https://www.debian.org)) com
+[OpenJDK](https://openjdk.java.net/).
 
-Exceto o internet banking do [Banco do Brasil](http://www.bb.com.br)
+Exceto o internet banking do [Banco do Brasil](https://www.bb.com.br)
 (funciona perfeitamente) os outros que conheço é necessário fazer alguma
 solução de contorno (gambiarra) para usar adequadamente.
 

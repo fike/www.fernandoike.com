@@ -25,4 +25,4 @@ Well, let’s go:
 $rsync -CravzpP --progress  ozzy_sane.img user@domain.dom:~
 ```
 
-The magic option is ”**P**”. It is an abbreviation[](http://www.fernandoike.com/wp-content/uploads/2012/10/i-robot.jpg) to**Preserve**.  If there are still some remaining doubts, *read the manual*. ;)
+The magic option is ”**P**”. It is an abbreviation[](https://www.fernandoike.com/wp-content/uploads/2012/10/i-robot.jpg) to**Preserve**.  If there are still some remaining doubts, *read the manual*. ;)

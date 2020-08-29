@@ -13,7 +13,7 @@ title = "ApocalipTIC Podcast - Nuvens Desastradas"
 de fracasso, falha no mundo de TI e o que foi ou deveria ser feito para não
 acontecer novamente. Tivemos alguns probleminhas na gravação mas é audível.
 
-Neste primeiro episódio comentamos um pouco sobre os ataques DDoS ao [Dyn](http://dyn.com/) e [OVH](https://www.ovh.pt/), as causas e como sobreviver ao novo normal na internet.
+Neste primeiro episódio comentamos um pouco sobre os ataques DDoS ao [Dyn](https://dyn.com/) e [OVH](https://www.ovh.pt/), as causas e como sobreviver ao novo normal na internet.
 
 Se terá um segundo episódio? Talvez! Comente aí, no [SoundCloud](https://soundcloud.com/apocaliptic-podcast/nuvens-desastradas) ou no Twitter.
 

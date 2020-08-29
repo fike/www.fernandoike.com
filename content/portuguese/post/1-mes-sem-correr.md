@@ -34,7 +34,7 @@ Tédio? Não! Definitivamente não correr não é tedioso! É chato mesmo!
 Principalmente ao ver a galera treinando na rua de manhãzinha e meu
 exercício aeróbico mais intenso é virar o pescoço acompanhado-as.
 
-Meus planos de correr a [São Silvestr](http://www.saosilvestre.com.br/)e
+Meus planos de correr a [São Silvestr](https://www.saosilvestre.com.br/)e
 foram para ralo. Vai ficar para **2013-2014** !
 
 Obs. Isso se o fim do mundo não vir agora. ;)

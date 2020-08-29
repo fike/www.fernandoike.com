@@ -40,7 +40,7 @@ linux acima da versão 3.8. Provavelmente terá que usar o repositório
 Backports para isso, então terá que acrescentar no arquivo sources.list.
 
 ```
-root@kamino:~ echo "http://http.debian.net/debian/ wheezy-backports main non-free contrib" >> /etc/apt/sources.list.d/backports.list
+root@kamino:~ echo "https://http.debian.net/debian/ wheezy-backports main non-free contrib" >> /etc/apt/sources.list.d/backports.list
 
 root@kamino:~ aptitude update
 
@@ -115,16 +115,16 @@ Docker é uma das coisas mais legais que pude me envolver um pouco mais nos
 últimos tempos mas é importante lembrar que ele não é (e nem pode ser
 considerado) a nova bala de prata.
 
-[1]: http://www.docker.com
+[1]: https://www.docker.com
 [2]: https://www.openstack.org
-[3]: http://golang.org/
+[3]: https://golang.org/
 [4]: https://linuxcontainers.org/
-[5]: http://www.debian.org
-[6]: http://www.debian.org/releases/sid/
-[7]: http://www.debian.org/releases/jessie/
-[8]: http://www.debian.org/releases/wheezy/
-[9]: http://debian-administration.org/article/696/A_brief_introduction_to_using_docker
-[10]: http://joeyh.name/blog/entry/docker_run_debian/
+[5]: https://www.debian.org
+[6]: https://www.debian.org/releases/sid/
+[7]: https://www.debian.org/releases/jessie/
+[8]: https://www.debian.org/releases/wheezy/
+[9]: https://debian-administration.org/article/696/A_brief_introduction_to_using_docker
+[10]: https://joeyh.name/blog/entry/docker_run_debian/
 [11]: https://wiki.debian.org/pt_BR/Debootstrap
-[12]: http://blog.docker.com/2013/08/containers-docker-how-secure-are-they/
+[12]: https://blog.docker.com/2013/08/containers-docker-how-secure-are-they/
 [13]: https://docs.docker.com/articles/security/

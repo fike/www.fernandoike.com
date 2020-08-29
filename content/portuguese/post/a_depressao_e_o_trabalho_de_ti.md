@@ -56,7 +56,7 @@ Alguns lugares que trabalhei adotaram uma política interessante, as reuniões s
  
 Não estou dizendo que os escritórios abertos causam depressão, mas há que ter uma equilíbrio entre o silêncio, concentração para realizar as atividades e um ambiente descontraído/”interativo” e aberto.
  
-Provável que meus argumentos não foram suficiente, certo? Vale a leitura de dois textos a respeito: [A new study should be the final nail for open-plan offices](https://theconversation.com/a-new-study-should-be-the-final-nail-for-open-plan-offices-99756) e [Why open offices are bad for us](http://www.bbc.com/capital/story/20170105-open-offices-are-damaging-our-memories).
+Provável que meus argumentos não foram suficiente, certo? Vale a leitura de dois textos a respeito: [A new study should be the final nail for open-plan offices](https://theconversation.com/a-new-study-should-be-the-final-nail-for-open-plan-offices-99756) e [Why open offices are bad for us](https://www.bbc.com/capital/story/20170105-open-offices-are-damaging-our-memories).
  
 ## Como ajudar?
  
@@ -112,7 +112,7 @@ Quando tive a crise que me deixou incapaz de trabalhar, trabalha numa das startu
 * [Depressão: o que você precisa saber ](https://www.paho.org/bra/index.php?option=com_content&view=article&id=5372:depressao-o-que-voce-precisa-saber&Itemid=822)
 * [https://epocanegocios.globo.com/Carreira/noticia/2017/02/mais-de-75-mil-pessoas-foram-afastadas-do-trabalho-por-depressao-em-2016.html](https://epocanegocios.globo.com/Carreira/noticia/2017/02/mais-de-75-mil-pessoas-foram-afastadas-do-trabalho-por-depressao-em-2016.html)
 * [A new study should be the final nail for open-plan offices](https://theconversation.com/a-new-study-should-be-the-final-nail-for-open-plan-offices-99756)
-* [Why open offices are bad for us](http://www.bbc.com/capital/story/20170105-open-offices-are-damaging-our-memories)
+* [Why open offices are bad for us](https://www.bbc.com/capital/story/20170105-open-offices-are-damaging-our-memories)
 * [Depression Calculator Tallies Business Costs of Employees’ Mental Illness](https://psychnews.psychiatryonline.org/doi/full/10.1176/appi.pn.2018.8a7)
  
  

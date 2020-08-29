@@ -18,6 +18,6 @@ Provavelmente é a última vez que apresente essa palestra sobre Web Performance
 
 Se estiver de bobeira por aqui em São Paulo, passe por lá.
 
-[devcamp]: http://www.devcamp.com.br/devcamp-2015/
-[docker]: http://www.docker.com/
-[germinadora]: http://www.germinadora.com/
+[devcamp]: https://www.devcamp.com.br/devcamp-2015/
+[docker]: https://www.docker.com/
+[germinadora]: https://www.germinadora.com/

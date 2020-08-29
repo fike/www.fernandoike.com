@@ -9,7 +9,7 @@ title: 10 Anos do PGBR - Listas
 ---
 ![Logo_PGBR](/images/logo_pgbr.png)
 
-O Telles [lembrou](http://savepoint.blog.br/10-anos-de-pgbr/) dos 10 (17) anos do [PostgreSQL Brasil](https://www.postgresql.org.br/), meus dois centavos são sobre os números das lista de discussão do PostgreSQL Brasil. Desde 2006, as listas de discussão estão hospedados em servidores dedicado.
+O Telles [lembrou](https://savepoint.blog.br/10-anos-de-pgbr/) dos 10 (17) anos do [PostgreSQL Brasil](https://www.postgresql.org.br/), meus dois centavos são sobre os números das lista de discussão do PostgreSQL Brasil. Desde 2006, as listas de discussão estão hospedados em servidores dedicado.
 
 Um levantamento rápido dos emails das listas até 2015 deu os seguintes números:
 

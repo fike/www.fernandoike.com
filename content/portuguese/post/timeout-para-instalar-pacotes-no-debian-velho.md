@@ -8,8 +8,8 @@ tags = ["portugues", "SL", "debian", "lenny"]
 ![](/images/debian-lenny.jpg)
 
 Lembra de um outro
-[post](http://www.fernandoike.com/2012/12/27/instalando-um-debian-velho-lenny/)
-sobre a instalação do [Debian](http://www.debian.org) de um versão
+[post](https://www.fernandoike.com/2012/12/27/instalando-um-debian-velho-lenny/)
+sobre a instalação do [Debian](https://www.debian.org) de um versão
 antiga?
 
 Então, continuando a saga…

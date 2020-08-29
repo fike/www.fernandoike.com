@@ -6,10 +6,10 @@ categories = ["debian", "SL", "web performance"]
 tags = ["portugues", "CDN", "SL", "web performance", "debian"]
 +++
 Lembra do post
-[anterior](http://www.fernandoike.com/2013/06/01/debian-e-sua-cdn-experimental/)
+[anterior](https://www.fernandoike.com/2013/06/01/debian-e-sua-cdn-experimental/)
 sobre a(s)
 [CDN(s)](https://en.wikipedia.org/wiki/Content_delivery_network) do
-[Debian](http://www.debian.org/)? Se não lembra ou não leu, vale ler
+[Debian](https://www.debian.org/)? Se não lembra ou não leu, vale ler
 antes desse aqui. ;)
 
 O anterior comentava um pouco do funcionamento da implantação do CDN
@@ -22,7 +22,7 @@ baixar os pacotes Debian.
 Um teste simples realizado no Brasil.
 
 ```
-    fike@klatoon:~$ curl -I http://http.debian.net/debian/
+    fike@klatoon:~$ curl -I https://http.debian.net/debian/
     HTTP/1.1 302 Moved Temporarily
     Date: Thu, 18 Jul 2013 01:25:40 GMT
     Server: Apache/2.2.16 (Debian)
@@ -39,7 +39,7 @@ Um teste simples realizado no Brasil.
     X-Distance: 0
     X-Match-Type: country
     Link: ; rel=duplicate; pri=1; depth=0, ; rel=duplicate; pri=1; depth=0
-    Location: http://debian.c3sl.ufpr.br/debian/
+    Location: https://debian.c3sl.ufpr.br/debian/
     Content-Type: text/plain
 ```
 
@@ -52,7 +52,7 @@ URL que responderá a requisição.
 
 Abaixo o mesmo teste mas realizado nos EUA.
 
-    fike@midstorm:~$ curl -I http://http.debian.net/debian/
+    fike@midstorm:~$ curl -I https://http.debian.net/debian/
     HTTP/1.1 302 Moved Temporarily
     Date: Thu, 18 Jul 2013 01:26:07 GMT
     Server: Apache/2.2.16 (Debian)
@@ -68,7 +68,7 @@ Abaixo o mesmo teste mas realizado nos EUA.
     X-Closest-Distance: 13.434
     X-Distance: 13.434
     X-Match-Type: country
-    Location: http://debian.gtisc.gatech.edu/debian/
+    Location: https://debian.gtisc.gatech.edu/debian/
     Content-Type: text/plain
 
 Interessante que no teste dos EUA tem um pouco mais de informações que
@@ -77,14 +77,14 @@ para a requisição.
 
 Se quiser conhecer um pouco mais pode entrar na [página do
 projeto](https://github.com/rgeissert/http-redirector/) no
-[Github](http://github.com). Ele bem simples e o [Raphael
-Geissert](http://rgeissert.blogspot.com.br/) ficará feliz com
+[Github](https://github.com). Ele bem simples e o [Raphael
+Geissert](https://rgeissert.blogspot.com.br/) ficará feliz com
 informações de bugs, patches, etc. ;)
 
 Ah! Já estava esquecendo, se quiser testá-lo, basta adicionar uma linha
 no */etc/apt/sources.list*. No meu caso estou usando para o
-[Sid/Unstable](http://www.debian.org/releases/sid/).
+[Sid/Unstable](https://www.debian.org/releases/sid/).
 
 ```
-deb [arch=amd64,i386] http://http.debian.net/debian/ unstable main contrib non-free
+deb [arch=amd64,i386] https://http.debian.net/debian/ unstable main contrib non-free
 ```

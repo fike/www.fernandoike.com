@@ -17,7 +17,7 @@ when I need to display evidence for my customers, I prefer to use httpie.
 A simple example using only HTTP headers.
 
 ```
-fike@klatoon:~/d$ curl -I http://fernandoike.com
+fike@klatoon:~/d$ curl -I https://fernandoike.com
 HTTP/1.1 200 OK
 Date: Tue, 22 Jul 2014 14:40:56 GMT
 Server: Apache/2.2.22
@@ -33,7 +33,7 @@ fike@klatoon:~/d$
 
 
 ```
-fike@klatoon:~/d$ http --headers http://fernandoike.com
+fike@klatoon:~/d$ http --headers https://fernandoike.com
 HTTP/1.1 200 OK
 Accept-Ranges: bytes
 Content-Encoding: gzip
@@ -60,7 +60,7 @@ For the curl to haave the same behavior as httpie and use GET HTTP method, it mu
 use more options:
 
 ```
-fike@klatoon:~/d$ curl -s -D - http://fernandoike.com -o /dev/null
+fike@klatoon:~/d$ curl -s -D - https://fernandoike.com -o /dev/null
 
 HTTP/1.1 200 OK
 Date: Tue, 22 Jul 2014 15:10:24 GMT
@@ -79,7 +79,7 @@ For add HTTP headers using curl, you have to use "-H" option. For example, to ad
 HTTP header to disable keep-alive connection.
 
 ```
-fike@klatoon:~/d$ curl -H "Connection: close" -s -D - http://fernandoike.com -o /dev/null
+fike@klatoon:~/d$ curl -H "Connection: close" -s -D - https://fernandoike.com -o /dev/null
 
 HTTP/1.1 200 OK
 Date: Tue, 22 Jul 2014 15:17:43 GMT
@@ -98,7 +98,7 @@ fike@klatoon:~/d$
 And with httpie it's simpler...
 
 ```
-fike@klatoon:~/d$ http --headers http://www.fernandoike.com "Connection: close"
+fike@klatoon:~/d$ http --headers https://www.fernandoike.com "Connection: close"
 
 HTTP/1.1 200 OK
 Accept-Ranges: bytes
@@ -119,7 +119,7 @@ Another example:  adding HTTP headers if want identify if a URI is cacheable in 
 CDN. This case was tested on a site that uses Akamai.
 
 ```
-fike@klatoon:~/d$ curl -H "Pragma: akamai-x-cache-on" -s -D - http://www.bestbuy.com -o /dev/null
+fike@klatoon:~/d$ curl -H "Pragma: akamai-x-cache-on" -s -D - https://www.bestbuy.com -o /dev/null
 
 HTTP/1.1 200 OK
 Server: Apache
@@ -139,7 +139,7 @@ fike@klatoon:~/d$
 The same test with httpie.
 
 ```
-fike@klatoon:~/d$ http --headers http://www.bestbuy.com "Pragma: akamai-x-cache-on"
+fike@klatoon:~/d$ http --headers https://www.bestbuy.com "Pragma: akamai-x-cache-on"
 
 HTTP/1.1 200 OK
 Cache-Control: max-age=0, no-cache, no-store
@@ -167,6 +167,6 @@ P.S. Install httpie is simple a Debian like. Debian has official package.
 #aptitude install httpie
 ```
 
-[httpie]: http://httpie.org
-[curl]: http://curl.haxx.se/
-[stack]: http://stackoverflow.com/questions/8811741/whats-the-best-way-to-troubleshoot-akamai-headers-these-days
+[httpie]: https://httpie.org
+[curl]: https://curl.haxx.se/
+[stack]: https://stackoverflow.com/questions/8811741/whats-the-best-way-to-troubleshoot-akamai-headers-these-days

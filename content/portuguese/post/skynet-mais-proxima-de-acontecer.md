@@ -6,11 +6,11 @@ categories = ["portugues", "aleatorio"]
 tags = ["portugues", "skynet", "exterminador do futuro"]
 +++
 A cada avanço técnológico, fica mais próximo a ativação da
-[Skynet](http://pt.wikipedia.org/wiki/Skynet). Já deve ter visto
+[Skynet](https://pt.wikipedia.org/wiki/Skynet). Já deve ter visto
 funcionando algumas máquinas com a capacidade de tomar algumas decisões
 sem a intervenção humana. Os drones são um bom exemplo:
 
-![](http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Group_photo_of_aerial_demonstrators_at_the_2005_Naval_Unmanned_Aerial_Vehicle_Air_Demo.jpg/640px-Group_photo_of_aerial_demonstrators_at_the_2005_Naval_Unmanned_Aerial_Vehicle_Air_Demo.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Group_photo_of_aerial_demonstrators_at_the_2005_Naval_Unmanned_Aerial_Vehicle_Air_Demo.jpg/640px-Group_photo_of_aerial_demonstrators_at_the_2005_Naval_Unmanned_Aerial_Vehicle_Air_Demo.jpg)
 
 Ah… O que são drones mesmo???
 
@@ -22,29 +22,29 @@ florestais devastadas ou mesmo vigiar um país inimigo.
 
 Então, para quem não é um aficcionado por ficção científica, a Skynet é
 uma rede de Inteligência Artificial que controla o mundo no filme
-[*Exterminador do Futuro*](http://pt.wikipedia.org/wiki/The_Terminator)
+[*Exterminador do Futuro*](https://pt.wikipedia.org/wiki/The_Terminator)
 nos 1980. Provavelmente você conhece o filme por causa do **T-800**.
 
-![](http://images.wikia.com/terminator/images/f/f0/Wikia-Visualization-Main.png)
+![](https://images.wikia.com/terminator/images/f/f0/Wikia-Visualization-Main.png)
 
 Essa semana estava navegando de um hyperlink para outro qualquer, sem
 grandes pretensões e assisto alguns vídeos do[Boston
-Dynamics](http://www.bostondynamics.com/)  com robôs “simulando”
+Dynamics](https://www.bostondynamics.com/)  com robôs “simulando”
 movimentos de locomoção similares ao de alguns animais. Separei dois que
 impressionaram bem: O primeiro simulando um cão ou um cavalo e o segundo
 simulando o andar de um humano.
 
 Só para deixar os que curtem teorias conspiratórias com a pulga atrás da
 orelha. O patrocinador dessas máquinas é o
-[Darpa](http://www.darpa.mil/), o mesmo que criou a Skynet no
+[Darpa](https://www.darpa.mil/), o mesmo que criou a Skynet no
 Exterminador do Futuro. :P
 
-[httpv://www.youtube.com/watch?v=SSbZrQp-HOk](http://www.youtube.com/watch?v=SSbZrQp-HOk)
+[httpv://www.youtube.com/watch?v=SSbZrQp-HOk](https://www.youtube.com/watch?v=SSbZrQp-HOk)
 
-[httpv://www.youtube.com/watch?feature=endscreen&NR=1&v=mclbVTIYG8E](http://www.youtube.com/watch?feature=endscreen&NR=1&v=mclbVTIYG8E)
+[httpv://www.youtube.com/watch?feature=endscreen&NR=1&v=mclbVTIYG8E](https://www.youtube.com/watch?feature=endscreen&NR=1&v=mclbVTIYG8E)
 
 Obs.: Para não ficar somente em robôs militares, um video com
 apresentação com um enxame de
-[quadrotor](http://en.wikipedia.org/wiki/Quadrotor).
+[quadrotor](https://en.wikipedia.org/wiki/Quadrotor).
 
-[httpv://www.youtube.com/watch?v=cseTX\_rW3uM](http://www.youtube.com/watch?v=cseTX_rW3uM)
+[httpv://www.youtube.com/watch?v=cseTX\_rW3uM](https://www.youtube.com/watch?v=cseTX_rW3uM)

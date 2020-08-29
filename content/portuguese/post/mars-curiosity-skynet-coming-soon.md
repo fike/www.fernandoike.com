@@ -5,11 +5,11 @@ draft = false
 categories = ["portugues", "aleatorio"]
 tags = ["portugues", "marte", "jpl", "curiosity"]
 +++
-![](http://mars.jpl.nasa.gov/msl/images/PIA15682_ScarecrowDunes1-br2.jpg)
+![](https://mars.jpl.nasa.gov/msl/images/PIA15682_ScarecrowDunes1-br2.jpg)
 
 Essa semana a humanidade o máquina mais complexa e autônoma construída
 até então. A [Mars
-Curiosity](http://www.nasa.gov/mission_pages/msl/index.html) é do
+Curiosity](https://www.nasa.gov/mission_pages/msl/index.html) é do
 tamanho e peso (900Kg) de um carro e pousou em Marte com sucesso.
 
 Confesso que o modo que usaram para que o Curiosity (aliás, belo nome!)
@@ -25,7 +25,7 @@ pousasse suavimente na superfície. Caso acontece um vento inesperado,
 teria que fazer a correção, sendo que após o pouso da Curiosity fiquei
 me perguntando onde será que o guindaste pousou? :)
 
-![](http://mars.jpl.nasa.gov/msl/images/PIA14839-br2.jpg)
+![](https://mars.jpl.nasa.gov/msl/images/PIA14839-br2.jpg)
 
 Até o momento e de conhecimento público, Mars Curiosity é o robô mais
 autônomo já construído. Mais um passo para Skynet. :P

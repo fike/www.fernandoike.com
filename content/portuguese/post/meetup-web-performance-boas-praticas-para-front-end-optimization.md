@@ -14,10 +14,10 @@ Quando pergunto o que faço atualmente, eu brinco e digo que trabalho com
 Como parte do conhecimento com o meu trabalho atual, escrevi uma
 apresentação que fala um pouco sobre Web Perfomance. Ela está disponível
 no Slideshare e pode vê acessando
-[aqui](http://www.slideshare.net/fernandoike/um-milhao-de-usurios-simultneos-16296913).
+[aqui](https://www.slideshare.net/fernandoike/um-milhao-de-usurios-simultneos-16296913).
 
-O [Alex Soares](http://www.linkedin.com/in/alexhbs) já estava
-organizando um [Meetup](http://www.meetup.com/Web-Performance-SP) sobre
+O [Alex Soares](https://www.linkedin.com/in/alexhbs) já estava
+organizando um [Meetup](https://www.meetup.com/Web-Performance-SP) sobre
 Web Performance e já estava preparando a primeira reunião do Meetup para
 bater um papo e passar um pouco de sua experiência sobre o tema.
 
@@ -25,5 +25,5 @@ Web Performance é muito diversificado, então para este primeiro meetup a
 proposta é abordar um pouco sobre **cache** e o novo buzzword **F**ron
 **E**nd **O**ptimization (FEO).
 
-Na [página do Meetup](http://www.meetup.com/Web-Performance-SP) tem mais
+Na [página do Meetup](https://www.meetup.com/Web-Performance-SP) tem mais
 detalhes sobre a apresentação e local.

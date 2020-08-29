@@ -5,11 +5,11 @@ draft = false
 categories = ["portugues", "web performance", "FEO", "CDN", "SL"]
 tags = ["portugues", "FEO", "CDN", "webpagetest", "http archive"]
 +++
-Estava lendo um [texto](http://www.fastly.com/blog/new-gzip-settings-and-deciding-what-to-compress/) do Steve Souders sobre a alteração da configuração padrão gzip na Fastly. Fastly é uma CDN concorrente da Akamai e tem clientes como Twitter, Shopify, The Guardian, Rakuten, etc.
+Estava lendo um [texto](https://www.fastly.com/blog/new-gzip-settings-and-deciding-what-to-compress/) do Steve Souders sobre a alteração da configuração padrão gzip na Fastly. Fastly é uma CDN concorrente da Akamai e tem clientes como Twitter, Shopify, The Guardian, Rakuten, etc.
 
-Ele cita como chegaram no template padrão da configuração deles usando os dados do [HTTP Archive](http://httparchive.org/), este é um projeto que consolida testes executados usando a versão pública do [Webpagetest](http://www.webpagetest.org/). Os testes são executados em mais ou menos 18 mil URLs e tem [relatórios](http://httparchive.org/trends.php) variados, por exemplo: número médio de requisições HTTP por página, crescimento do HTML nas páginas, etc.
+Ele cita como chegaram no template padrão da configuração deles usando os dados do [HTTP Archive](https://httparchive.org/), este é um projeto que consolida testes executados usando a versão pública do [Webpagetest](https://www.webpagetest.org/). Os testes são executados em mais ou menos 18 mil URLs e tem [relatórios](https://httparchive.org/trends.php) variados, por exemplo: número médio de requisições HTTP por página, crescimento do HTML nas páginas, etc.
 
-Tanto do Steve Souders quanto no site HTTP Archive fazem referência ao [Bigqueries](http://httparchive.org/) com diversas consultas realizadas na base dados do HTTP Archive. Um [texto postado](http://bigqueri.es/t/top-base-page-cdns-for-top-urls/58) no Bigqueries chamou-me a atenção, era sobre o Ranking de CDNs considerandos as páginas mais populares.
+Tanto do Steve Souders quanto no site HTTP Archive fazem referência ao [Bigqueries](https://httparchive.org/) com diversas consultas realizadas na base dados do HTTP Archive. Um [texto postado](https://bigqueri.es/t/top-base-page-cdns-for-top-urls/58) no Bigqueries chamou-me a atenção, era sobre o Ranking de CDNs considerandos as páginas mais populares.
 
 ![]( /images/image_0.png)
 
@@ -141,22 +141,22 @@ Nas novas configurações na Akamai estou acrescentando os Content-Type e os arq
 
 ![]( /images/image_6.png)
 
-Os resultados e comentários sobre ranking das CDNs estão no [texto](http://bigqueri.es/t/whats-the-popularity-of-different-cdns/477/2) que [publiquei](http://bigqueri.es/t/whats-the-popularity-of-different-cdns/477/2) publicado no Bigqueries.
+Os resultados e comentários sobre ranking das CDNs estão no [texto](https://bigqueri.es/t/whats-the-popularity-of-different-cdns/477/2) que [publiquei](https://bigqueri.es/t/whats-the-popularity-of-different-cdns/477/2) publicado no Bigqueries.
 
 Obs.: As expressões regulares no BigQuery são baseadas no **RE2**, recomendo fortemente ler a [documentação dele](https://code.google.com/p/re2/wiki/Syntax).
 
 
 ## Links
 
-[http://httparchive.org/](http://httparchive.org/)
+[https://httparchive.org/](https://httparchive.org/)
 
-[http://httparchive.org/trends.php](http://httparchive.org/trends.php)
+[https://httparchive.org/trends.php](https://httparchive.org/trends.php)
 
-[http://en.wikipedia.org/wiki/Content_delivery_network](http://en.wikipedia.org/wiki/Content_delivery_network)
+[https://en.wikipedia.org/wiki/Content_delivery_network](https://en.wikipedia.org/wiki/Content_delivery_network)
 
-[http://www.fastly.com/blog/new-gzip-settings-and-deciding-what-to-compress/](http://www.fastly.com/blog/new-gzip-settings-and-deciding-what-to-compress/)
+[https://www.fastly.com/blog/new-gzip-settings-and-deciding-what-to-compress/](https://www.fastly.com/blog/new-gzip-settings-and-deciding-what-to-compress/)
 
-[http://bigqueri.es/t/whats-the-popularity-of-different-cdns/477](http://bigqueri.es/t/whats-the-popularity-of-different-cdns/477)
+[https://bigqueri.es/t/whats-the-popularity-of-different-cdns/477](https://bigqueri.es/t/whats-the-popularity-of-different-cdns/477)
 
 [https://cloud.google.com/bigquery/query-reference](https://cloud.google.com/bigquery/query-reference)
 

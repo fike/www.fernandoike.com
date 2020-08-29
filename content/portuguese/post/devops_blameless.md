@@ -8,7 +8,7 @@ tags = ["devops", "blameless", "agile", "lean", "portugues", "google", "chaos"]
 +++
 Você já trabalhou ou trabalha numa organização que pune o erro de alguma forma? Punir o erro não necessariamente é demitir alguém, a punição pode ocorrer de diversas formas: um olhar velado de reprovação, rádio peão, piadas/gozações da situação, etc. A aviação civil tem bons exemplos de identificar analisar as causas de um acidente aéreo, na maioria dos casos tenta-se identificar a(s) causa(s) de um acidente área olhando o todo, não apenas o último erro que "causou" o acidente.
 
-Um caso interessante (e muito triste) para analisar é o do acidente (2007) do avião da TAM no aeroporto de Congonhas em São Paulo. Um avião vindo de Porto Alegre não conseguiu parar ao pousar e colidiu num prédio do outro lado do aeroporto. Um dos órgãos governamentais [apontou](http://sao-paulo.estadao.com.br/noticias/geral,pf-culpa-somente-pilotos-no-acidente-da-tam-em-2007,458242) como causa do acidente os pilotos, mas ao olhar tudo como um processo/sistema complexo verá que foram um conjunto de coisas contribuíram para o acidente e muitas [medidas](http://www.bbc.com/portuguese/brasil-40539541) foram tomadas para evitar que acontecesse um acidente como aquele. O [relatório](http://www2.anac.gov.br/arquivos/RF3054.pdf) do [Cenipa](http://www2.fab.mil.br/cenipa/) não aponta qual a causa mas faz uma série de recomendações que se olhar conjunto, elas podem ter formado uma [tempestade perfeita](https://www.grammarphobia.com/blog/2008/05/the-imperfect-storm.html).
+Um caso interessante (e muito triste) para analisar é o do acidente (2007) do avião da TAM no aeroporto de Congonhas em São Paulo. Um avião vindo de Porto Alegre não conseguiu parar ao pousar e colidiu num prédio do outro lado do aeroporto. Um dos órgãos governamentais [apontou](https://sao-paulo.estadao.com.br/noticias/geral,pf-culpa-somente-pilotos-no-acidente-da-tam-em-2007,458242) como causa do acidente os pilotos, mas ao olhar tudo como um processo/sistema complexo verá que foram um conjunto de coisas contribuíram para o acidente e muitas [medidas](https://www.bbc.com/portuguese/brasil-40539541) foram tomadas para evitar que acontecesse um acidente como aquele. O [relatório](https://www2.anac.gov.br/arquivos/RF3054.pdf) do [Cenipa](https://www2.fab.mil.br/cenipa/) não aponta qual a causa mas faz uma série de recomendações que se olhar conjunto, elas podem ter formado uma [tempestade perfeita](https://www.grammarphobia.com/blog/2008/05/the-imperfect-storm.html).
 
 Ainda é muito comum no mundo da Tecnologia da Informação procurar/encontrar/culpados (humanos) por uma falha de um sistema e em caos nem tão extremos, a demissão dos mesmos. Quando isso acontece ou quando achamos que isso irá acontecer, a reação instintiva da nossa é tentar se proteger do perigo (da demissão) e tratamos de fazer as nossas atividades com cautela ou com o conservadorismo excessivo. Mesmo que a missão da organização esteja descrita como audaz, descontraída, etc. A cultura da organização terá o medo como base para as atividades e as pessoas tentarão se exporem menos possível como mecanismo de defesa. John Allspaw chama situação como "[Ciclo de Culpa](https://codeascraft.com/2012/05/22/blameless-postmortems/)" num post sobre como a cultura Blameless é aplicada na Etsy:
 
@@ -21,7 +21,7 @@ Ainda é muito comum no mundo da Tecnologia da Informação procurar/encontrar/c
 6. *Erros tornam-se mais prováveis, condição latente para eles não serem identificadas devido ao passo* **#5**.
 7. *Repete a partir do passo* **#1**
 
-Uma técnica muito comum em lugares que "aplicam" é o apontar o culpado com o dedo, principalmente em reuniões logo após um incidente, esta técnica é muito comum em ambientes em que as pessoas sente que estão trabalhando o tempo todo com a guilhotina apontada para o pescoço. [Sidney Dekker](http://sidneydekker.com/) chama isso de "A teoria da maçã podre" no livro "[The Field Guide to Understanding Human Error](https://www.amazon.com/Field-Guide-Understanding-Human-Error/dp/0754648265)":
+Uma técnica muito comum em lugares que "aplicam" é o apontar o culpado com o dedo, principalmente em reuniões logo após um incidente, esta técnica é muito comum em ambientes em que as pessoas sente que estão trabalhando o tempo todo com a guilhotina apontada para o pescoço. [Sidney Dekker](https://sidneydekker.com/) chama isso de "A teoria da maçã podre" no livro "[The Field Guide to Understanding Human Error](https://www.amazon.com/Field-Guide-Understanding-Human-Error/dp/0754648265)":
 
 > Reprimir as maçãs podres pode parecer uma solução rápida e gratificante, mas é como fazer xixi nas calças. Você sente aliviado, talvez mesmo até agradável e aquecido por algum tempo, mas depois fica frio e desconfortável. E você parece um idiota.
 
@@ -61,15 +61,15 @@ O livro [Behind Human Error](https://www.amazon.com.br/Behind-Human-Error-David-
 >- Dizer o que as pessoas deveriam ter feito não explica porque fazia sentido fazer o que faziam
 >- Somente procurando constantemente suas vulnerabilidades as organizações podem melhorar a segurança
 
-Aplicar uma nova cultura é um desafio maior que implantar uma tecnologia ou metodologia. É necessário repetir continuamente (como um  [Kata](https://en.wikipedia.org/wiki/Toyota_Kata)) que as pessoas não serão punidas ao errarem. Blameless é o pilar para implantar outras coisas que são relevantes em organizações de alta performance como: **Postmortem**, [Wheel of Misfortune](https://landing.google.com/sre/book/chapters/accelerating-sre-on-call.html#xref_training_disaster-rpg), [Game Day](https://www.slideshare.net/jesserobbins/ameday-creating-resiliency-through-destruction) e [Chaos Engineering](http://principlesofchaos.org/).   
+Aplicar uma nova cultura é um desafio maior que implantar uma tecnologia ou metodologia. É necessário repetir continuamente (como um  [Kata](https://en.wikipedia.org/wiki/Toyota_Kata)) que as pessoas não serão punidas ao errarem. Blameless é o pilar para implantar outras coisas que são relevantes em organizações de alta performance como: **Postmortem**, [Wheel of Misfortune](https://landing.google.com/sre/book/chapters/accelerating-sre-on-call.html#xref_training_disaster-rpg), [Game Day](https://www.slideshare.net/jesserobbins/ameday-creating-resiliency-through-destruction) e [Chaos Engineering](https://principlesofchaos.org/).   
 
 **Referência**:
 
-- Relatório CENIPA -  http://www2.anac.gov.br/arquivos/RF3054.pdf
+- Relatório CENIPA -  https://www2.anac.gov.br/arquivos/RF3054.pdf
 
-- Voo JJ 3054: as lições da maior tragédia da aviação brasileira- http://www.bbc.com/portuguese/brasil-40539541
+- Voo JJ 3054: as lições da maior tragédia da aviação brasileira- https://www.bbc.com/portuguese/brasil-40539541
 
-- Acidente da TAM resultou em mudanças para aumentar segurança em Congonhas - http://agenciabrasil.ebc.com.br/geral/noticia/2017-07/acidente-da-tam-resultou-em-mudancas-para-aumentar-seguranca-em-congonhas
+- Acidente da TAM resultou em mudanças para aumentar segurança em Congonhas - https://agenciabrasil.ebc.com.br/geral/noticia/2017-07/acidente-da-tam-resultou-em-mudancas-para-aumentar-seguranca-em-congonhas
 
 - Was it technical failure or human error? - https://www.youtube.com/watch?v=Ygx2AI2RtkI
 
@@ -77,13 +77,13 @@ Aplicar uma nova cultura é um desafio maior que implantar uma tecnologia ou met
 
 - Complex Systems - https://en.wikipedia.org/wiki/Complex_systems
 
-- ICE (DevOps) - http://radar.oreilly.com/2015/01/devops-keeps-it-cool-with-ice.html
+- ICE (DevOps) - https://radar.oreilly.com/2015/01/devops-keeps-it-cool-with-ice.html
 
 - Wheel of Misfortune - https://landing.google.com/sre/book/chapters/accelerating-sre-on-call.html#xref_training_disaster-rpg)
 
 - Game Day- https://www.slideshare.net/jesserobbins/ameday-creating-resiliency-through-destruction
 
-- Chaos Engineering - http://principlesofchaos.org/
+- Chaos Engineering - https://principlesofchaos.org/
 
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/4YtfFPiWV9Ggvy" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/fernandoike/blameless-a-culpa-nao-e-sua" title="Blameless: A culpa não é sua" target="_blank">Blameless: A culpa nao é sua</a> </strong> from <strong><a href="https://www.slideshare.net/fernandoike" target="_blank">Fernando Ike</a></strong> </div>

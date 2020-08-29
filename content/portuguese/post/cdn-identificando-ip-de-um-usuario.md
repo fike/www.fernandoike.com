@@ -6,7 +6,7 @@ categories = ["web performance", "portugues", "SL"]
 tags = ["portugues", "CDN", "web performance", "SL", "nginx", "apache"]
 +++
 Quando um site usa uma
-[CDN](http://pt.wikipedia.org/wiki/Content_Delivery_Network) para fazer
+[CDN](https://pt.wikipedia.org/wiki/Content_Delivery_Network) para fazer
 cache e/ou aceleração as vantagens são bem conhecidas, mas algumas vezes
 é necessário ajustar uma ou outra coisa para tudo continue funcionando.
 Um exemplo é o servidor web do site deixa de receber requisições
@@ -19,8 +19,8 @@ Para resolver esse problema, uitas CDNs enviam um cabeçalho HTTP extra
 de suas requisições para o servidor web do site, esse cabeçalho é o
 True-Client-IP.
 
-Abaixo dois exemplos ([Apache](http://http.apache.org) e
-[nginx](http://www.nginx.org)) de configuração do Log para registrar o
+Abaixo dois exemplos ([Apache](https://http.apache.org) e
+[nginx](https://www.nginx.org)) de configuração do Log para registrar o
 True-Client-IP.
 
 #### Apache

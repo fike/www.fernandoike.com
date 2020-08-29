@@ -83,7 +83,7 @@ Practical Postmortems at Etsy: https://www.infoq.com/articles/postmortems-etsy
 
 How to Conduct a Blameless Security Post-Mortem: https://www.pagerduty.com/blog/blameless-post-mortems-strategies-for-success/
 
-5 Whys – how we conduct blameless post-mortems after something goes wrong: http://code.hootsuite.com/blameless-post-mortems/
+5 Whys – how we conduct blameless post-mortems after something goes wrong: https://code.hootsuite.com/blameless-post-mortems/
 
 Blameless postmortems – strategies for success: https://www.pagerduty.com/blog/blameless-post-mortems-strategies-for-success/
 

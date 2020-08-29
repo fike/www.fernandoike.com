@@ -17,6 +17,6 @@ podemos dizer que está com mais cores. :)
 
 ![](/images/g+_fullscreen.png)
 
-Postando pelo [Gmail](http://www.gmail.com).
+Postando pelo [Gmail](https://www.gmail.com).
 
 ![](/images/g+_gmail.png)

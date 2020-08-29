@@ -5,8 +5,8 @@ draft = false
 categories = ["debian", "SL", "portugues"]
 tags = ["portugues", "debian", "SL", "debmirror", "lenny"]
 +++
-Lembra que eu tive que[instalar uma versão antiga](http://www.fernandoike.com/2012/12/27/instalando-um-debian-velho-lenny/) do
-Debian e tive [um probleminha para instalar pacotes](http://www.fernandoike.com/2012/12/28/timeout-para-instalar-pacotes-no-debian-velho/) dele?
+Lembra que eu tive que[instalar uma versão antiga](https://www.fernandoike.com/2012/12/27/instalando-um-debian-velho-lenny/) do
+Debian e tive [um probleminha para instalar pacotes](https://www.fernandoike.com/2012/12/28/timeout-para-instalar-pacotes-no-debian-velho/) dele?
 
 Pois é, a saga continua…
 

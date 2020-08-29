@@ -15,7 +15,7 @@ Essa aqui abaixo é uma delas. :)
 
 Claro que um certificado com esse não é que define se alguém é ou poderá
 ser um bom
-[ScrumMaster](http://blog.eof.com.br/2008/03/06/qual-e-o-papel-do-scrum-master/).
-Venho aplicando [Scrum](http://pt.wikipedia.org/wiki/Scrum) em alguns
+[ScrumMaster](https://blog.eof.com.br/2008/03/06/qual-e-o-papel-do-scrum-master/).
+Venho aplicando [Scrum](https://pt.wikipedia.org/wiki/Scrum) em alguns
 projetos já algum tempo, mas agora posso dizer que “oficialmente” sou um
 ScrumMaster.

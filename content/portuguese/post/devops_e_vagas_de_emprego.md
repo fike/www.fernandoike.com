@@ -29,7 +29,7 @@ Descrever uma oportunidade de trabalho "DevOps" não parece ser tão simples qua
 ### Por que toda essa confusão?
 
 Tentei responder porque DevOps tem múltiplos significados e entendimentos no texto "[DevOps como buzzword](https://www.fernandoike.com.br/2017/01/10/devops-como-buzzword/)". Em parte, isso acontece porque é mais fácil vender "DevOps" como ferramentas do que uma cultura, também dependendo do papel (função) da pessoa pode ter um significado mais próximo do universo que ela pertence. Talvez a melhor resposta seja do  
-[Aymen El AmriFollow](http://eon01.com/), ele fez um [checklist](https://hackernoon.com/the-must-know-checklist-for-devops-system-reliability-engineers-f74c1cbf259d#.5lfuvr8ko) (em inglês) com 31 habilidades que **DevOps** e/ou **SRE** devem ter. Na introdução ele faz uma síntese de como alguns papéis na área de TI entende o que é DevOps:
+[Aymen El AmriFollow](https://eon01.com/), ele fez um [checklist](https://hackernoon.com/the-must-know-checklist-for-devops-system-reliability-engineers-f74c1cbf259d#.5lfuvr8ko) (em inglês) com 31 habilidades que **DevOps** e/ou **SRE** devem ter. Na introdução ele faz uma síntese de como alguns papéis na área de TI entende o que é DevOps:
 
 > Para evangelistas, Devops é uma cultura e uma transformação. Para alguns engenheiros, DevOps é um conjunto de técnicas e ferramentas. Para gerentes, DevOps é provavelmente metodologia. Para outras pessoas é só um buzzword e para recrutadores é uma função na organização (emprego).
 
@@ -63,7 +63,7 @@ Abaixo a imagem da tabela periódica das ferramentas DevOps. Dê uma olhada e di
 
 ### Descrições de vagas
 
-O [Guto Carvalho](https://twitter.com/gutocarvalho) montou um excelente template de descrição de vaga no texto "[Vagas DevOps fazem sentido? Entenda!](http://gutocarvalho.net/blog/2016/06/03/vagas-devops-fazem-sentido-entenda/)". Outro bom [template](https://gist.github.com/dgmorales/7f649a17d54b2584a98e727447f2023f) é do [Diego Morales](https://twitter.com/dgmorales). Se precisar de um ponto de partida para fazer a descrição de vaga, use o template do Guto ou do Diego, se tiver dúvida se está no caminho certo, pergunte para conhecidos ou nas comunidades.
+O [Guto Carvalho](https://twitter.com/gutocarvalho) montou um excelente template de descrição de vaga no texto "[Vagas DevOps fazem sentido? Entenda!](https://gutocarvalho.net/blog/2016/06/03/vagas-devops-fazem-sentido-entenda/)". Outro bom [template](https://gist.github.com/dgmorales/7f649a17d54b2584a98e727447f2023f) é do [Diego Morales](https://twitter.com/dgmorales). Se precisar de um ponto de partida para fazer a descrição de vaga, use o template do Guto ou do Diego, se tiver dúvida se está no caminho certo, pergunte para conhecidos ou nas comunidades.
 
 Uma das vezes que trabalhei como Gerente de TI, precisava contratar pessoas para equipe, o desafio era grande e queríamos mudar tudo que existia (virtualização estava engatinhando...), poderíamos ter focado somente nos critérios técnicos mas optamos por outras coisas como capacidade de aprender coisas novas rapidamente e reconhecer erros. Numa parte da entrevistas eu citava um erro que cometi num trabalho anterior e qual foi a consequência, depois perguntava para o entrevistado se ele já tinha cometido um erro e o que ele aprendeu. Alguns não conseguiram responder e outros foram francos ao assumirem o fracasso e dizer o que aprenderam. Na época já procurávamos implantar a cultura Blameless mas não entendíamos isso de forma sistemática como hoje.
 
@@ -71,7 +71,7 @@ Numa outra empresa que trabalhei, os meu colegas de trabalho adoravam massacrar 
 
 ### Ambiente de trabalho
 
-Provavelmente se você for visitar a sede do Netflix verá máquinas de café, snacks, mesas de sinuca, etc. Contudo, para eles, um bom ambiente de trabalho é ter pessoas talentosas na equipe. Abaixo a tradução livre da [apresentação](http://www.slideshare.net/reed2001/culture-1798664/20-Great_Workplace_isStunning_ColleaguesGreat_workplace) sobre a cultura deles.
+Provavelmente se você for visitar a sede do Netflix verá máquinas de café, snacks, mesas de sinuca, etc. Contudo, para eles, um bom ambiente de trabalho é ter pessoas talentosas na equipe. Abaixo a tradução livre da [apresentação](https://www.slideshare.net/reed2001/culture-1798664/20-Great_Workplace_isStunning_ColleaguesGreat_workplace) sobre a cultura deles.
 
 - "**Um ótimo local de trabalho** é ter **Colegas Talentosos**"
 - "Um ótimo local de trabalho não é café expresso, benefícios impressionantes, almoço de sushi, festas bacanas ou um escritório legal"

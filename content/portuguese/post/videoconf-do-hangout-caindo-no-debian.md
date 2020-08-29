@@ -6,15 +6,15 @@ categories = ["portugues", "SL", "debian"]
 tags = ["portugues", "hangout", "debian", "videoconferencia"]
 +++
 Ultimamente tenho participado de muitas reuniões por videoconferência
-usando o [Skype](http://skype.com) ou
-[Hangout](http://www.google.com/+/learnmore/hangouts/?hl=pt-BR). O
+usando o [Skype](https://skype.com) ou
+[Hangout](https://www.google.com/+/learnmore/hangouts/?hl=pt-BR). O
 Hangout especificamente não estava funcionando direito no meu
-[Debian](http://www.debian.org)
-[Sid](http://www.debian.org/releases/sid/), ao iniciar a
+[Debian](https://www.debian.org)
+[Sid](https://www.debian.org/releases/sid/), ao iniciar a
 videoconferência, ela caía automaticamente.
 
 Procurando um pouco encontrei no [fórum de
-produto](http://productforums.google.com/forum/#!topic/hangouts/vYsaeEnXJXs)
+produto](https://productforums.google.com/forum/#!topic/hangouts/vYsaeEnXJXs)
 do Hangout pessoas com problema similar e que resolveram removendo o
 pacote **libudev0**.
 

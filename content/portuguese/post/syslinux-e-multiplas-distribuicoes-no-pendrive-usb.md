@@ -6,7 +6,7 @@ categories = ["debian", "portugues", "SL"]
 tags = ["debian", "portugues", "syslinux", "boot", "linux"]
 +++
 Depois de alguns meses do [Ulisses (thebug)
-Castro](http://www.ulissescastro.com) me atormentar para publicar, segue
+Castro](https://www.ulissescastro.com) me atormentar para publicar, segue
 um documento rápido para quem trabalha com muitas instalações de linux
 em ambiente corporativo.
 
@@ -25,15 +25,15 @@ flashdrive) que tivesse esses instaladores.
 
 No vasto oceano de informações (internet) tem um excelente documento
 escrito por [David
-Heller](http://spirulina.wikispaces.com/file/view/Installing+Linux+from+a+USB+flashdrive.v20.pdf)
-sobre instalação de [Red Hat](http://www.redhat.com) em USB flashdrive.
+Heller](https://spirulina.wikispaces.com/file/view/Installing+Linux+from+a+USB+flashdrive.v20.pdf)
+sobre instalação de [Red Hat](https://www.redhat.com) em USB flashdrive.
 Porém é possível usar esse documento para qualquer outra distribuição, e
 o programa chave para conseguir realizar a tarefa é o famoso
-[Syslinux](http://www.syslinux.org).
+[Syslinux](https://www.syslinux.org).
 
 No caso desta nota, foi preparado para duas distribuições:
-[Debian](http://www.debian.org) e Red Hat (provavelmente funcionará no
-[CentOS](http://www.centos.org) e [Fedora](http://fedoraproject.org/))
+[Debian](https://www.debian.org) e Red Hat (provavelmente funcionará no
+[CentOS](https://www.centos.org) e [Fedora](https://fedoraproject.org/))
 com seus respectivos instaladores. Presumindo que já tenha instalado o
 syslinux via pacote iremos e tenha um pendrive disponível para uso .
 Faça backup de seus dados, sem garantias de integridade de seus dados.
@@ -69,7 +69,7 @@ partição do mesmo.
     usado a versão do **Lenny** AMD64bits, também foi testado com o
     **Lenny** i386, **Etch** AMD64 e I386.
 
-    #wget http://ftp.debian.org/debian/dists/lenny/main/installer-amd64/current/images/hd-media/boot.img.gz
+    #wget https://ftp.debian.org/debian/dists/lenny/main/installer-amd64/current/images/hd-media/boot.img.gz
 
 7 - Descompactar a imagem do instalador Debian.
 
@@ -167,7 +167,7 @@ este tipo de instalação, teste aí e avise .
     mkdir /mnt/pendrive/debian64
     mkdir /mnt/pendrive/rh64
 
-    wget http://ftp.debian.org/debian/dists/lenny/main/installer-amd64/current/images/hd-media/boot.img.gz
+    wget https://ftp.debian.org/debian/dists/lenny/main/installer-amd64/current/images/hd-media/boot.img.gz
 
     gunzip boot.img.gz
     losetup /dev/loop0 boot.img

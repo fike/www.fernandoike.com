@@ -5,11 +5,11 @@ draft = false
 categories = ["portugues", "aleatorio"]
 tags = ["eletric city", "yahoo", "portugues", "SL"]
 +++
-![](http://www.tubefilter.com/wp-content/uploads/2012/07/electric-city-600x369.jpg)
+![](https://www.tubefilter.com/wp-content/uploads/2012/07/electric-city-600x369.jpg)
 
-[Eletric City](http://br.tv.yahoo.com/electric-city/) é um seriado web
+[Eletric City](https://br.tv.yahoo.com/electric-city/) é um seriado web
 (este tipo de seriado também conhecido como web seriado) escrito e
-produzido pelo [Yahoo](http://www.yahoo.com.br). Ele é uma série animada
+produzido pelo [Yahoo](https://www.yahoo.com.br). Ele é uma série animada
 numa cidade fictícia com o nome do título. Episódios são curtinhos, em
 média de 5 minutos e tem uma boa dinâmica
 

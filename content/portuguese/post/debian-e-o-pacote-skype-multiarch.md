@@ -6,15 +6,15 @@ categories = ["debian", "portugues", "skype", "SL"]
 tags = ["portugues", "debian", "multiarch", "skype"]
 +++
 Estive que reinstalar meu computador e por causa do trabalho tive que
-instalar o [Skype](http://www.skype.com). Já tem muito tempo que o
+instalar o [Skype](https://www.skype.com). Já tem muito tempo que o
 computador de uso cotidiano roda um Sistema Operacional [64
-bits(AMD64/x86-64)](http://en.wikipedia.org/wiki/X86-64), e dessa vez
+bits(AMD64/x86-64)](https://en.wikipedia.org/wiki/X86-64), e dessa vez
 não foi diferente. Uma única coisa que mudou um pouquinho da última
 instalada é o pacote multi arquitetura do Skype.
 
 Aliás, isso é uma das grandes novidades (Leia a [Nota de
-Lançamento](http://www.debian.org/releases/wheezy/releasenotes)) do
-Debian para a próxima versão estável do [Debian](http://www.debian.org)
+Lançamento](https://www.debian.org/releases/wheezy/releasenotes)) do
+Debian para a próxima versão estável do [Debian](https://www.debian.org)
 que deve sair nos próximos dias (espero!).
 
 Bom, não é tão complicada porque uma versão instalada do Debian possui
@@ -49,7 +49,7 @@ pouquinho o repositório de pacotes. Normalmente o **sources.list** é
 parecido como este abaixo:
 
 ```
-deb [arch=amd64,i386] http://ftp.br.debian.org/debian/ sid main non-free contrib
+deb [arch=amd64,i386] https://ftp.br.debian.org/debian/ sid main non-free contrib
 ```
 
 Para ter acesso ao repositório da arquitetura adicionada é necessário
@@ -57,7 +57,7 @@ deixar explícito no sources.list.
 
 ```
 editor /etc/apt/source.list
-deb [arch=amd64,i386] http://ftp.br.debian.org/debian/ sid main non-free contrib
+deb [arch=amd64,i386] https://ftp.br.debian.org/debian/ sid main non-free contrib
 ```
 
 Acrescentado o novo repositório, é necessário atualizar o aptitude.

@@ -5,7 +5,7 @@ draft = false
 categories = ["web performance", "debian", "SL", "portugues"]
 tags = ["portugues", "debian", "web performance", "FEO", "SL", "pagespeed"]
 +++
-[Front End Optimization(FEO)](http://www.yottaa.com/why-yottaa/technology/front-end-optimization/)
+[Front End Optimization(FEO)](https://www.yottaa.com/why-yottaa/technology/front-end-optimization/)
 é um dos buzzwords mais comentados nos últimos tempos. São vários
 métodos/técnicas que permite ao navegador carregar mais rapidamente as
 páginas HTML.
@@ -18,7 +18,7 @@ etc.
 Muitos avaliam que investir em FEO é um desperdício porque o mundo (em
 sua maioria) está indo em direção aos aplicativos nativos das
 plataformas móveis (mobile) ao invés de concentrar todos os esforços em
-aplicações base [HTML(5)](http://pt.wikipedia.org/wiki/HTML5). Fato ou
+aplicações base [HTML(5)](https://pt.wikipedia.org/wiki/HTML5). Fato ou
 não as duas formas coexistirão mas isso fica para um próximo texto.
 Voltando ao assunto título deste texto:
 [Pagespeed](https://developers.google.com/speed/pagespeed/)
@@ -27,13 +27,13 @@ Ele é um serviço de otimização de sites alterando as páginas de um site
 para obter a melhor performance possível usando coisas como: *CSS
 sprites*, *otimização de imagens*, *defer de javascript*, *minify*, etc.
 Se você não quiser usar o serviço e usá-lo diretamente no seu servidor
-web pode pois o código do módulo é Código Aberto ([Apache License](http://www.apache.org/licenses/LICENSE-2.0)). A restrição é que
-é que o módulo está disponível para [Nginx](http://nginx.org/) e
-[Apache](http://http.apache.org/).
+web pode pois o código do módulo é Código Aberto ([Apache License](https://www.apache.org/licenses/LICENSE-2.0)). A restrição é que
+é que o módulo está disponível para [Nginx](https://nginx.org/) e
+[Apache](https://http.apache.org/).
 
 Os testes foram realizados usando Apache e [Debian
-Wheezy](http://www.debian.org/releases/wheezy/) e meu blog com
-[Octopress](http://www.octopress.org/). Na página do módulo tem os
+Wheezy](https://www.debian.org/releases/wheezy/) e meu blog com
+[Octopress](https://www.octopress.org/). Na página do módulo tem os
 detalhes da instalação, basicamente é baixar o pacote .deb e instalá-lo.
 
     #wget -c https://dl-ssl.google.com/dl/linux/direct/mod-pagespeed-stable_current_amd64.deb
@@ -59,7 +59,7 @@ depois ativado com **a2enmod**.
 
 A documentação é bem detalhada e recomendo a leitura. Se quiser ver como
 um filtro é aplicado, pode ver no
-[Modpagespeed](http://www.modpagespeed.com/). Os detalhes de cada uma
+[Modpagespeed](https://www.modpagespeed.com/). Os detalhes de cada uma
 pode acessar
 [aqui](https://developers.google.com/speed/pagespeed/module/filters).
 
@@ -82,12 +82,12 @@ pode acessar
             ModPagespeedEnableFilters lazyload_images
             ModPagespeedEnableFilters recompress_images
             ModPagespeedEnableFilters move_css_above_scripts
-            ModPagespeedDomain http://www.fernandoike.com
+            ModPagespeedDomain https://www.fernandoike.com
 
     [...]
 
 Feito as configurações, vamos aos resultados. Eles foram feito com o\
- [Webpagetest (WPT)](http://www.webpagetest.org/) e todos baseados no
+ [Webpagetest (WPT)](https://www.webpagetest.org/) e todos baseados no
 Firefox e uma conexão de *5 Mbit/s*.
 
 Teste feito em Virgínia nos EUA sem PageSpeed.

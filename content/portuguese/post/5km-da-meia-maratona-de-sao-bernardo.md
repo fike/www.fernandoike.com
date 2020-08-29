@@ -5,7 +5,7 @@ draft = false
 categories = ["portugues", "corrida de rua"]
 tags = ["portugues", "corrida de rua"]
 +++
-![](http://www.corpore.com.br/imagens/submenuscorridas/faixadecorativa_98_faixadecorativa-sbc2012.jpg)
+![](https://www.corpore.com.br/imagens/submenuscorridas/faixadecorativa_98_faixadecorativa-sbc2012.jpg)
 
 Atualmente tenho treinado para correr 10km, meia maratona é objetivo
 para o ano que vem. Mas como vai ter corrida na cidade que moro, decidi

@@ -41,14 +41,14 @@ Depois de alguns e bons anos o que mudou? Muita coisa, tanto que a [Microsoft
 participou][microsoft] das festas de lançamento da Jessie.
 
 
-[debian]: http://www.debian.org/
-[mcgovern]: http://blog.halon.org.uk/
-[nussbaum]: http://www.lucas-nussbaum.net/
+[debian]: https://www.debian.org/
+[mcgovern]: https://blog.halon.org.uk/
+[nussbaum]: https://www.lucas-nussbaum.net/
 [jessie]: https://twitter.com/hashtag/releasingjessie
-[microsoft]: http://openness.microsoft.com/blog/2015/04/21/microsoft-debian-8-linuxfest/
+[microsoft]: https://openness.microsoft.com/blog/2015/04/21/microsoft-debian-8-linuxfest/
 [mysql]: https://www.mysql.com/
 [mariadb]: https://mariadb.org/
 [samba]: https://www.samba.org/
-[postgres]: http://www.postgresql.org
+[postgres]: https://www.postgresql.org
 [debian]: https://www.debian.org/News/2015/20150426
 [debiannews]: https://www.debian.org/News/2015/20150426

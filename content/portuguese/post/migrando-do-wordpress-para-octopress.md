@@ -6,16 +6,16 @@ categories = ["portugues", "octopress", "web performance", "SL"]
 tags = ["portugues", "octopress"]
 +++
 Continuando a comentar um pouco mais sobre a mudança do blog que
-anteriormente era [Wordpress](http://www.wordpress.org) e agora é
-[Octopress](http://www.octopress.org). Vou mostrar alguns dados
+anteriormente era [Wordpress](https://www.wordpress.org) e agora é
+[Octopress](https://www.octopress.org). Vou mostrar alguns dados
 interessantes numa comparação simples e sem critério científico.
 
-Para fazer o teste, usei o [Webpagetest](http://www.webpagetest.org/)
+Para fazer o teste, usei o [Webpagetest](https://www.webpagetest.org/)
 que tem muitas cidades no mundo para fazer o teste de performance na
 perspectiva do internauta. Ele é muito interessante para testar em
 diferentes países, mas para este teste usei apenas a instância do Brasil
 dele que está em [São
-Paulo](http://pt.wikipedia.org/wiki/S%C3%A3o_Paulo_(cidade)).
+Paulo](https://pt.wikipedia.org/wiki/S%C3%A3o_Paulo_(cidade)).
 
 ### Wordpress
 
@@ -26,8 +26,8 @@ região sudeste do Brasil até que o tempo para um internauta ver o site
 não está mal. Está ali na casa dos **6 segundos** para um total de **37
 requisições** e considerando que o servidor não tem nenhum tipo de
 ajuste de performance em qualquer parte
-([kernel](http://www.kernel.org), [apache](http://httpd.apache.org),
-[MySQL](http://www.mysql.org), etc.).
+([kernel](https://www.kernel.org), [apache](https://httpd.apache.org),
+[MySQL](https://www.mysql.org), etc.).
 
 A única nota sofrível é o FBT (First Byte Time), isso é porque não fiz
 nenhum ajuste de performance (tuning) no **Apache**, **PHP** ou

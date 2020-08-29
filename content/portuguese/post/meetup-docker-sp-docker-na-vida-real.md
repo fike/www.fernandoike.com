@@ -16,4 +16,4 @@ A do TDC está logo mais abaixo:
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/40419981" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"><div style="margin-bottom:5px">
 
-[meetup]: http://www.meetup.com/Docker-Sao-Paulo/events/218601856/
+[meetup]: https://www.meetup.com/Docker-Sao-Paulo/events/218601856/

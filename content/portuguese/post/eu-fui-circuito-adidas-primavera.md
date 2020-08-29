@@ -5,10 +5,10 @@ draft = false
 categories = ["corrida de rua", "portugues"]
 tags = ["corrida de rua", "portugues", "circuito adidas"]
 +++
-![](http://circuitodasestacoes.com.br/wp-content/themes/estacoes/imagens/logo_estacoes_incentivado_sp_nextel_primavera.png)
+![](https://circuitodasestacoes.com.br/wp-content/themes/estacoes/imagens/logo_estacoes_incentivado_sp_nextel_primavera.png)
 
 Quinze dias antes da etapa [Primavera do Circuito
-Adidas](http://circuitodasestacoes.com.br/sao-paulo/sp-primavera/)
+Adidas](https://circuitodasestacoes.com.br/sao-paulo/sp-primavera/)
 peguei uma conjuntivite forte e detonou todo o planejamento para os 10km
 da prova.
 

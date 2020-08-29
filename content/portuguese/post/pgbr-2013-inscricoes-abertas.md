@@ -8,8 +8,8 @@ tags = ["SL", "portugues", "postgresql", "timbira"]
 ![](/images/divulgue_inscricoes_1.jpg)
 
 Está aberto as inscrições para participar da [PGBR
-2013](http://pgbr.postgresql.org.br/2013), um dos maiores eventos
-[PostgreSQL](http://www.postgresql.org) do mundo. São mais de 30
+2013](https://pgbr.postgresql.org.br/2013), um dos maiores eventos
+[PostgreSQL](https://www.postgresql.org) do mundo. São mais de 30
 palestras de alto nível técnico.
 
 Infelizmente esse ano não poderei estar participando por força maior mas
@@ -20,4 +20,4 @@ tempos.
 Ah! Já estava esquecendo, não deixe de ver a grade de palestranes e
 palestras. Verá que está imperdível! Vou dizer mais, provavelmente em
 2014 a conferência será novamente lá em [Porto
-Velho](http://pt.wikipedia.org/wiki/Porto_Velho)! :)
+Velho](https://pt.wikipedia.org/wiki/Porto_Velho)! :)

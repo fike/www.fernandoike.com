@@ -8,7 +8,7 @@ tags = ["mentoria", "devops", "portugues", "sindrome do impostor"]
 +++
 ![](/images/rail_dog.jpg)
 
-Há excelente textos na internet sobre Síndrome do Impostor, duas boas referências são os textos do [Somatório](http://somatorio.org/pt-br/post/sindrome_do_super_humano_invertido/) e do [Jonathan Maia](https://www.eunati.com.br/2018/01/sou-um-impostor-estou-alucinando.html). Alguns meses atrás o Somatório pediu uma ajuda para a palestra - “Síndrome do Impostor: Você não está sozinho”, ele a propôs para Campus Party 2018 em São Paulo.
+Há excelente textos na internet sobre Síndrome do Impostor, duas boas referências são os textos do [Somatório](https://somatorio.org/pt-br/post/sindrome_do_super_humano_invertido/) e do [Jonathan Maia](https://www.eunati.com.br/2018/01/sou-um-impostor-estou-alucinando.html). Alguns meses atrás o Somatório pediu uma ajuda para a palestra - “Síndrome do Impostor: Você não está sozinho”, ele a propôs para Campus Party 2018 em São Paulo.
 
 Este texto não tem a intenção de ser uma receita prática e infalível de como ajudar alguém que sofre com a síndrome de impostor, ela é baseada em algumas experiências lidando com pessoas que estiveram com a Síndrome do Impostor.
 

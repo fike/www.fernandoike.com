@@ -10,7 +10,7 @@ description = "Slides das apresentações no DevOpsDays Brasília"
 
 +++
 
-As últimas semanas foram bem corridas, participação como palestrante do [DevOpsDays Brasília ](http://brasilia.devopsdays.com.br/)e ajudando na organização do [Meetup Docker São Paulo](https://www.meetup.com/Docker-Sao-Paulo/) na participação do [Docker Global Mentor Week](https://blog.docker.com/2016/10/docker-global-mentor-week-2016/).
+As últimas semanas foram bem corridas, participação como palestrante do [DevOpsDays Brasília ](https://brasilia.devopsdays.com.br/)e ajudando na organização do [Meetup Docker São Paulo](https://www.meetup.com/Docker-Sao-Paulo/) na participação do [Docker Global Mentor Week](https://blog.docker.com/2016/10/docker-global-mentor-week-2016/).
 
 O DevOpsDays Brasília foi um evento muito bacana, muitas palestras interessantes e o público ávido por descobrir coisas novas e compartilhar conhecimento. Parabéns aos organizadores, voluntários e apoiadores do DevOpsDays Brasília, foi um evento massa!
 

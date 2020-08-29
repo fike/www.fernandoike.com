@@ -5,10 +5,10 @@ draft = false
 categories = ["portugues", "corrida de rua"]
 tags = ["portugues", "corrida de rua"]
 +++
-![](http://www.maratonaderevezamento.com.br/saopaulo/imagens/SP_01.jpg)
+![](https://www.maratonaderevezamento.com.br/saopaulo/imagens/SP_01.jpg)
 
 Fui convidado para participar de uma equipe [20ª Maratona de revezamento
-Pão de Açucar](http://www.maratonaderevezamento.com.br/saopaulo/). Serei
+Pão de Açucar](https://www.maratonaderevezamento.com.br/saopaulo/). Serei
 o primeiro a correr e com a responsabilidade de fazer o trecho mais
 longo.
 
@@ -20,9 +20,9 @@ uma temperatura ambiente relativamente boa, se comparar com o último
 correrdor que fará seu trecho por volta das 11 da manhã.
 
 Quem quiser dar uma olhada no
-[mapa](http://www.maratonaderevezamento.com.br/saopaulo/mapa_percurso.html) e
+[mapa](https://www.maratonaderevezamento.com.br/saopaulo/mapa_percurso.html) e
 conferir o circuito, pode clicar
-[aqui](http://www.maratonaderevezamento.com.br/saopaulo/mapa_percurso.html).
+[aqui](https://www.maratonaderevezamento.com.br/saopaulo/mapa_percurso.html).
 :)
 
 Obs.: Curti meu trecho porque sai do Ibirapuera. :D

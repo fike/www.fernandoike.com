@@ -8,14 +8,14 @@ tags = ["portugues", "SL", "debian", "openssl"]
 O título é péssimo mas por falta de inspiração fica esse por enquanto.
 
 Estava precisando testar de uma maneira mais simples alguns servidores
-web com [SSL](http://en.wikipedia.org/wiki/SSL). Anteriormente estava
+web com [SSL](https://en.wikipedia.org/wiki/SSL). Anteriormente estava
 testando manualmente os servidores com o **openssl** até descobrir o
 [**sslscan**](https://www.titania-security.com/labs/sslscan).
 
 O sslscan testa automaticamente as versões de protocolo (**SSLv2**,
 **SSLv3**, **TLS 1.0**, etc.), como também testa o tipo de chave
 criptográfica (cipher) suportado. Ele é muito mais simples do que criar
-um script usando [openssl](http://www.openssl.org/):
+um script usando [openssl](https://www.openssl.org/):
 
 ```
 echo -n | openssl s_client -ssl3 -connect www.site.com:443
@@ -68,7 +68,7 @@ $ sslscan www.site.com
      |___/___/_|___/\___\__,_|_| |_|
     Version 1.8.2
 
-    http://www.titania.co.uk
+    https://www.titania.co.uk
 
      Copyright Ian Ventura-Whiting 2009
     Testing SSL server www.site.com on port 443
@@ -329,7 +329,7 @@ $ sslscan --no-failed www.site.com
 
 
     Version 1.8.2
-     http://www.titania.co.uk
+     https://www.titania.co.uk
      Copyright Ian Ventura-Whiting 2009
 
 
@@ -372,7 +372,7 @@ $ sslscan --no-failed www.site.com
 
 Também pode usar o [COMODO Site Analyzer](https://sslanalyzer.comodoca.com) para testar mas o servidor obrigatoriamente precisar estar disponível na internet.
 
-Obs. Ah… Se você usa [Debian](http://www.debian.org) é bem simples de
+Obs. Ah… Se você usa [Debian](https://www.debian.org) é bem simples de
 instalar:
 
 ```

@@ -57,11 +57,11 @@ pós-agilidade*"
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/40440168" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px">
 
-[alantdc]: http://alanbraz.wordpress.com/2014/08/07/tdc2014/
-[tdc]: http://www.thedevelopersconference.com.br/
-[umilhao]: http://www.slideshare.net/fernandoike/seu-site-est-preparado-para-suportar-um-milho-de-usurios-simultneos
-[visualthinking]: http://derekbruff.org/?page_id=1857
+[alantdc]: https://alanbraz.wordpress.com/2014/08/07/tdc2014/
+[tdc]: https://www.thedevelopersconference.com.br/
+[umilhao]: https://www.slideshare.net/fernandoike/seu-site-est-preparado-para-suportar-um-milho-de-usurios-simultneos
+[visualthinking]: https://derekbruff.org/?page_id=1857
 [diogolucas]: https://twitter.com/diogoclucas
 [guilhermelacerda]: https://twitter.com/guilhermeslac
-[likeaboss]: http://www.slideshare.net/fabriziomello/software-delivery-like-a-boss
-[vagrantdocker]: http://www.slideshare.net/DiogoLucas/presentation-40444357
+[likeaboss]: https://www.slideshare.net/fabriziomello/software-delivery-like-a-boss
+[vagrantdocker]: https://www.slideshare.net/DiogoLucas/presentation-40444357

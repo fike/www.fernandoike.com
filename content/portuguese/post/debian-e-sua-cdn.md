@@ -8,24 +8,24 @@ tags = ["portugues", "debian", "cdn", "web performance", "SL"]
 Esse post nasceu de uma
 [discussão](https://www.facebook.com/eribertomota/posts/10200459836833517?comment_id=5113409&offset=0&total_comments=20&notif_t=share_reply)
 no Facebook sobre um dos projetos de
-[CDN](http://wiki.debian.org/DebianGeoMirror) em teste no Debian. Um
-deles é a [cdn.debian.net](http://cdn.debian.net/) e o outro é o
-[http.debian.net](http://http.debian.net/).
+[CDN](https://wiki.debian.org/DebianGeoMirror) em teste no Debian. Um
+deles é a [cdn.debian.net](https://cdn.debian.net/) e o outro é o
+[http.debian.net](https://http.debian.net/).
 
 Testar ambos projetos não precisa de muito trabalho basta acrescentar ou
 alterar o sources.list:
 
-    deb http://http.debian.net/debian stable main
+    deb https://http.debian.net/debian stable main
 
 Ou:
 
-    deb http://cdn.debian.net/debian stable main
+    deb https://cdn.debian.net/debian stable main
 
 O funcionamento dos dois é levemente diferente, o cdn.debian.net é
-baseado em [geoDNS](http://www.caraytech.com/geodns/) e o
+baseado em [geoDNS](https://www.caraytech.com/geodns/) e o
 http.debian.net tem uma proposta um pouco mais sofisticada. O teste
 abaixo é para o cdn.debian.net mas se quiser testar o http.debian.net
-pode testar o [demo](http://http.debian.net/demo.html).
+pode testar o [demo](https://http.debian.net/demo.html).
 
 No Brasil, o servidor da cdn.debian.net mapeado é o **200.19.252.56** e
 pode verficar usando o **dig**.
@@ -54,7 +54,7 @@ deb.cdn.araki.net.    6   IN  A   200.19.252.56
 
 Descoberto o IP do servidor é testar se responde corretamente:
 
-    $curl -I -H "Host:cdn.debian.net" http://200.19.252.56/debian/
+    $curl -I -H "Host:cdn.debian.net" https://200.19.252.56/debian/
     HTTP/1.1 200 OK
     Date: Sat, 01 Jun 2013 02:59:00 GMT
     Server: Apache/2.2.11 (Ubuntu) PHP/5.2.6-3ubuntu4.5 with Suhosin-Patch
@@ -83,7 +83,7 @@ servidor DNS em outro continente como é o DNS público do Google.
 
 
 
-    fike@klatoon:~$ curl -H "Host:cdn.debian.net" http://128.30.2.36/debian/pool
+    fike@klatoon:~$ curl -H "Host:cdn.debian.net" https://128.30.2.36/debian/pool
 
 
     301 Moved Permanently

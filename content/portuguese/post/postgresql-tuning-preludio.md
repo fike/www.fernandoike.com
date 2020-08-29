@@ -13,7 +13,7 @@ desempenho do banco de dados e você estar tão focado em melhorar o banco
 de dados que não considera-os como a causa raiz.
 
 Bom, então a idéia aqui é ser uma etapa prévia antes de mexer nas
-configurações do [PostgreSQL](http://www.postgresql.org/), portanto
+configurações do [PostgreSQL](https://www.postgresql.org/), portanto
 considere como um ponto de partida. Cada aplicação e arquitetura terá
 uma configuração específica do PostgreSQL para que tenho o melhor
 desempenho possível.
@@ -49,17 +49,17 @@ do Storage para as bases ou operações críticas e com conexões de fibras
 dedicadas para o servidor PostgreSQL.
 
 O Telles escreveu um [bom
-texto](http://savepoint.blog.br/postgresql-discos-cia/) sobre discos,
+texto](https://savepoint.blog.br/postgresql-discos-cia/) sobre discos,
 recomendada a leitura.
 
 Considere sempre usar “canais” dedicados de comunicação entre o servidor
 do banco de dados e o armazenamento. Exemplo: Caso esteja usando um
 sistema de arquivo de rede
-([NAS](http://pt.wikipedia.org/wiki/Network-Attached_Storage)) para o
+([NAS](https://pt.wikipedia.org/wiki/Network-Attached_Storage)) para o
 banco de dados, considere segregar em uma rede dedicada à eles para que
 não haja concorrência de tráfego de rede com outros serviços e/ou
 aplicações. Caso esteja usando comunicação via Fiber Channel
-([SAN](http://pt.wikipedia.org/wiki/Rede_de_%C3%A1rea_de_armazenamento)),
+([SAN](https://pt.wikipedia.org/wiki/Rede_de_%C3%A1rea_de_armazenamento)),
 tente deixar as conexões físicas dedicadas entre o servidor de banco de
 dados, switch fiber channel e o storage.
 
@@ -70,7 +70,7 @@ aqui…
 ### Habilitar ou não o HyperThreading
 
 Para o PostgreSQL não faz diferença se o
-[HyperThreading](http://pt.wikipedia.org/wiki/Hyper-threading)
+[HyperThreading](https://pt.wikipedia.org/wiki/Hyper-threading)
 habilitado ou não, ele usará o número máximo de processadores que o
 Sistema Operacional disponibilizar.
 
@@ -79,7 +79,7 @@ Sistema Operacional disponibilizar.
 É simples, use Unix/Linux e que seja 64 bits. Entendo que exista
 questões de usar um Sistema Operacional “homologado” para o servidor ou
 Storage mas se quer o máximo de performance seria melhor usar
-[CentOS](http://www.centos.org/) ou [Debian[7](http://www.debian.org/)
+[CentOS](https://www.centos.org/) ou [Debian[7](https://www.debian.org/)
 ou mesmo um [ArchLinux](https://www.archlinux.org/).
 
 Antes do tuning do banco de dados, tuning do Sistema Operacional.
@@ -100,19 +100,19 @@ para 10GB:
 
 *Observação do Euler*: À partir da versão 9.3 do PostgreSQL, [não será
 mais
-necessário](http://wiki.postgresql.org/wiki/What's_new_in_PostgreSQL_9.3#Switch_to_Posix_shared_memory_and_mmap.28.29)
+necessário](https://wiki.postgresql.org/wiki/What's_new_in_PostgreSQL_9.3#Switch_to_Posix_shared_memory_and_mmap.28.29)
 configurar a memória compartilhada para o PostgreSQL.
 
 #### Usando Swap somente em último caso
 
 O Kernel Linux por padrão usa a memória
-[Swap](http://pt.wikipedia.org/wiki/Mem%C3%B3ria_virtual) (“extensão” da
+[Swap](https://pt.wikipedia.org/wiki/Mem%C3%B3ria_virtual) (“extensão” da
 memória RAM na HD, é muito) antes mesmo de esgotar o espaço livre da
 memória RAM. Para utilizar a Swap somente em último caso:
 
     #sysctl -w vm.swappiness=0
 
-Também pode fazer uma [outraabordagem](http://www.postgresql.org/docs/9.2/static/kernel-resources.html)
+Também pode fazer uma [outraabordagem](https://www.postgresql.org/docs/9.2/static/kernel-resources.html)
     do uso do Swap alterando o **vm.overcommit**.
 
     sysctl -w vm.overcommit_memory=2
@@ -142,8 +142,8 @@ Supondo que o servidor tem placas de rede de 10GBits/s.
 ### Scheduler I/O
 
 O Kernel Linux tem vários tipos de scheduler, por padrão atualmente é o
-[CFQ](http://en.wikipedia.org/wiki/CFQ) mas para operações intensivas de
-I/O o [Deadline](http://en.wikipedia.org/wiki/Deadline_scheduler) tem um
+[CFQ](https://en.wikipedia.org/wiki/CFQ) mas para operações intensivas de
+I/O o [Deadline](https://en.wikipedia.org/wiki/Deadline_scheduler) tem um
 resultado melhor.
 
 *Observação*: Euler, o Grande pai mestre de PostgreSQL no Brasil
@@ -175,10 +175,10 @@ Edite o */etc/security/limits.conf* e acrescente as linhas abaixo:
 
 Lembre-se de salvar, fechar o arquivo e reinicar para que as alterações
 tenham efeito. Para saber mais, vale ler a
-[documentação](http://docs.basho.com/riak/latest/ops/tuning/open-files-limit/)
+[documentação](https://docs.basho.com/riak/latest/ops/tuning/open-files-limit/)
 do Riak sobre isso.
 
-*Observação do [Euler](http://eulerto.blogspot.com.br/)*: O valor 65536
+*Observação do [Euler](https://eulerto.blogspot.com.br/)*: O valor 65536
 pode ser um pouco exagerado, exceto em bases muio grandes.
 
 ### Sistema de Arquivo
@@ -186,9 +186,9 @@ pode ser um pouco exagerado, exceto em bases muio grandes.
 Esse é um difícil dizer qual é a melhor opção, eu não conheço benchmarks
 recentes mas o benchmark que fiz algum tempo atrás apontou que para
 bases de dados pequenas e de pouco usuários simultâneos é melhor usar
-[Ext4](http://pt.wikipedia.org/wiki/Ext4). No cenário de base de dados
+[Ext4](https://pt.wikipedia.org/wiki/Ext4). No cenário de base de dados
 grandes e muitos usuários simultâneos o
-[XFS](http://pt.wikipedia.org/wiki/XFS) tem uma performance melhor.
+[XFS](https://pt.wikipedia.org/wiki/XFS) tem uma performance melhor.
 
 Também é imporante fazer outros ajustes como modificar a montagem dos
 discos para desconsiderar o timestamp da criação/edição de arquivos e
@@ -210,18 +210,18 @@ Porsche num Fusca. Tuning é uma tarefa contínua enquanto a aplicação
 existir. Existe bons textos sobre o tema, recomendo a leitura de alguns:
 
 -   [Red book Linux Performance and Tuning
-    Guidelines](http://www.redbooks.ibm.com/abstracts/redp4285.html)
+    Guidelines](https://www.redbooks.ibm.com/abstracts/redp4285.html)
 
 Livro antigo mas com informações preciosas.
 
 -   [Linux Performance Tuning - Riak -
-    Basho](http://docs.basho.com/riak/latest/cookbooks/Linux-Performance-Tuning/)
+    Basho](https://docs.basho.com/riak/latest/cookbooks/Linux-Performance-Tuning/)
 
 Bem didádico, as dicas estão aplicadas para o Riak mas vale como
 referência.
 
 -   [Linux Performance Guide -
-    Neo4J](http://docs.neo4j.org/chunked/stable/linux-performance-guide.html)
+    Neo4J](https://docs.neo4j.org/chunked/stable/linux-performance-guide.html)
 
 Também bem didático mas aplicado para o Neo4J.
 

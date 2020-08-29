@@ -11,7 +11,7 @@ Nota rápida sobre Git e branch remoto. Estava precisando apagar um
 branch que trabalhei algum (muito) tempo atrás do repositório remoto e
 não estava lembrando como fazer: Bate-cabeça aqui, bate-cabeça ali e eis
 que fui consultar o [manual do
-Git](http://git-scm.com/book/en/Git-Branching-Remote-Branches).
+Git](https://git-scm.com/book/en/Git-Branching-Remote-Branches).
 
     #git push origin :branch
 

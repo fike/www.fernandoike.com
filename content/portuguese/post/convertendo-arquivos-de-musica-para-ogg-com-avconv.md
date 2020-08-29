@@ -7,10 +7,10 @@ tags = ["portugues", "avconv", "debian", "ffmpeg"]
 +++
 Eu estava recuperando os arquivos do **Navaranda Podcast** para deixar
 disponível na internet. A versão original estava no formato
-[WAV](http://pt.wikipedia.org/wiki/WAV) e minha intenção era converter
-todos para o formato [OGG](http://www.vorbis.com/). Para fazer isso,
-usei o [avconv](http://libav.org/avconv.html) (um fork do
-[ffmpeg](http://www.ffmpeg.org/)) e diminiu o bitrate para **6kbits/s**.
+[WAV](https://pt.wikipedia.org/wiki/WAV) e minha intenção era converter
+todos para o formato [OGG](https://www.vorbis.com/). Para fazer isso,
+usei o [avconv](https://libav.org/avconv.html) (um fork do
+[ffmpeg](https://www.ffmpeg.org/)) e diminiu o bitrate para **6kbits/s**.
 
 Primeiramente instalando o *avconv*.
 

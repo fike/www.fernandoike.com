@@ -34,6 +34,6 @@ A apresentação sobre Management 3.0 é sobre como foi descobrir que usamos (eq
 
    O vídeo da apresentação pode ser acessado por [aqui][mg30fisl].
 
-[1milhaofisl1]: http://hemingway.softwarelivre.org/fisl16/high/41e/sala_41e-high-201507091900.ogv
-[1milhaofisl2]: http://hemingway.softwarelivre.org/fisl16/high/41e/sala_41e-high-201507091902.ogv
-[MG30FISL]: http://hemingway.softwarelivre.org/fisl16/high/41e/sala_41e-high-201507101201.ogv
+[1milhaofisl1]: https://hemingway.softwarelivre.org/fisl16/high/41e/sala_41e-high-201507091900.ogv
+[1milhaofisl2]: https://hemingway.softwarelivre.org/fisl16/high/41e/sala_41e-high-201507091902.ogv
+[MG30FISL]: https://hemingway.softwarelivre.org/fisl16/high/41e/sala_41e-high-201507101201.ogv

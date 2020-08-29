@@ -19,4 +19,4 @@ conferência entre três telefones. Eles mostram uma atualização do
 sistema de bilhetagem (acho que é isso…) sem precisar parar a aplicação
 ou a máquina virtual ou reiniciar o servidor, etc..
 
-[http://www.youtube.com/watch?v=uKfKtXYLG78](http://www.youtube.com/watch?v=uKfKtXYLG78)
+[https://www.youtube.com/watch?v=uKfKtXYLG78](https://www.youtube.com/watch?v=uKfKtXYLG78)

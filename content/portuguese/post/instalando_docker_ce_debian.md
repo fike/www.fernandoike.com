@@ -76,7 +76,7 @@ Fazer o Systemd reconhecer a alteração
 Adicionar o repositório Backports e atualizar a lista de pacotes.
 ```
 #add-apt-repository \
-        "deb http://ftp.debian.org/debian jessie-backports main"
+        "deb https://ftp.debian.org/debian jessie-backports main"
 
 #apt-get update
 ```

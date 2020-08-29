@@ -17,7 +17,7 @@ Para observar o comportamento da aplicação se funciona num cenário de auto-sc
 * [Docker Compose](https://docs.docker.com/compose/)
 * [Traefik](https://traefik.io/)
 * [Redis](https://redis.io/)
-* [Flask](http://flask.pocoo.org/)
+* [Flask](https://flask.pocoo.org/)
 
 
 ## Docker 101
@@ -71,7 +71,7 @@ Há duas formas de seguir este tutorial: instalando no computador ou via Play-wi
 
         $ docker run -d -p 4000:80 hello
 
-    O site estará disponível via `http://localhost:4000`, se você executou o comando em seu computador, ou em um pequeno link no **play-with-docker** com o número 4000.
+    O site estará disponível via `https://localhost:4000`, se você executou o comando em seu computador, ou em um pequeno link no **play-with-docker** com o número 4000.
 
     ***
 
@@ -100,7 +100,7 @@ O Hello World do app deste workshop usa o [Redis](https://redis.io/) para contar
         Executando o app
         $ docker run -d --name hello --network workshop -p 4000:80 hello
 
-10. Como no passo 5, abra no browser a URL http://localhost:4000/ ou clique no **4000** se estiver usando o Play-With-Docker. Faça o reload algumas vezes, contador irá funcionar desta vez. 
+10. Como no passo 5, abra no browser a URL https://localhost:4000/ ou clique no **4000** se estiver usando o Play-With-Docker. Faça o reload algumas vezes, contador irá funcionar desta vez. 
 
 11. Compartilhando volumes (_stateful cases_). O Docker possibilita compartilhar volumes entre containers de forma bastante simples:
 
@@ -151,7 +151,7 @@ O Docker Compose facilita a comunicação de entre containers para fazer testes 
         Listar o containers em execução
         $ docker-compose ps
 
-Você pode abrir novamente o browser `http://localhost:4000/` ou clicar no **4000** se estiver usando o **play-with-docker**. Note que o contador reniciou.
+Você pode abrir novamente o browser `https://localhost:4000/` ou clicar no **4000** se estiver usando o **play-with-docker**. Note que o contador reniciou.
 
 3. Finalize os containers em execução:
 
@@ -162,7 +162,7 @@ A "inteligência" para reconhecer as novas instâncias do app hello-world é o T
 ## Auto-Scaling
 
 
-1.  Subindo o app e Redis via Docker Compose. Após a execução do Docker Compose, o app estará disponível da mesma fora mencionado (`http://localhost:4000`). Abra o browser novamente e recarregue algumas vezes, observe que o hostname não varia.
+1.  Subindo o app e Redis via Docker Compose. Após a execução do Docker Compose, o app estará disponível da mesma fora mencionado (`https://localhost:4000`). Abra o browser novamente e recarregue algumas vezes, observe que o hostname não varia.
 
         Gerando as imagens
         $ docker-compose -f docker-compose-scale.yml build
@@ -174,7 +174,7 @@ A "inteligência" para reconhecer as novas instâncias do app hello-world é o T
     
         $ docker-compose -f docker-compose-scale.yml up -d --scale hello=5
 
-Abra o browser novamente em `http://localhost:4000/` e recarregue a página algumas vezes. O hostname deverá ser diferente toda vez que abrir a página, isso porque a cada requisição o Traefik está enviando a requisição para um container.
+Abra o browser novamente em `https://localhost:4000/` e recarregue a página algumas vezes. O hostname deverá ser diferente toda vez que abrir a página, isso porque a cada requisição o Traefik está enviando a requisição para um container.
 
 ## Extra: Mais Comandos
 

@@ -42,8 +42,8 @@ Obs.2: O original dessa [imagem][imagem] é do blog do Docker.
 [compose]: https://docs.docker.com/compose/
 [machine]: https://docs.docker.com/compose/
 [registry]: https://docs.docker.com/registry/
-[fig]: http://www.fig.sh/
+[fig]: https://www.fig.sh/
 [bugdebian]: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=781554
 [blogdocker]: https://blog.docker.com/2015/04/docker-release-1-6/
-[backports]: http://backports.debian.org/
-[imagem]: http://blog.docker.com/media/2015/04/docker-1.6.png
+[backports]: https://backports.debian.org/
+[imagem]: https://blog.docker.com/media/2015/04/docker-1.6.png

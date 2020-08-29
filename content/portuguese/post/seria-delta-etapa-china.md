@@ -6,8 +6,8 @@ categories = ["corrida de rua", "portugues"]
 tags = ["portugues", "corrida de rua", "serie delta"]
 +++
 Neste domingo às 7:30 da matina fui correr 5Km na [Série
-Delta](http://seriedelta.com.br/sao-paulo/sp-china) ao redor do [Museu
-do Ipiranga](http://pt.wikipedia.org/wiki/Museu_do_Ipiranga). Essa foi a
+Delta](https://seriedelta.com.br/sao-paulo/sp-china) ao redor do [Museu
+do Ipiranga](https://pt.wikipedia.org/wiki/Museu_do_Ipiranga). Essa foi a
 segunda corrida com relevo variado, a primeira foi a Ecorun em Brasília
 e essa foi “tensa”, sofri um pouco nas subidas mas consegui completar
 razoavelmente bem.

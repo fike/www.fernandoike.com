@@ -5,10 +5,10 @@ draft = false
 categories = ["devops", "portugues", "agile", "SL"]
 tags = ["devops", "portugues", "agile", "sysadmin"]
 +++
-O [Guto](http://gutocarvalho.net/)
-[publicou](http://gutocarvalho.net/octopress/2013/03/16/o-que-e-um-devops-afinal/)
+O [Guto](https://gutocarvalho.net/)
+[publicou](https://gutocarvalho.net/octopress/2013/03/16/o-que-e-um-devops-afinal/)
 um excelente texto sobre a origem e concepcão do termo
-[DevOps](http://dev2ops.org/2010/02/what-is-devops/). Daqui alguns
+[DevOps](https://dev2ops.org/2010/02/what-is-devops/). Daqui alguns
 tempo, provavelmente, alguém inventará alguma certificação para DevOps
 ou formatará o conceito num esquema bem chato.
 
@@ -26,8 +26,8 @@ Sysadmin
 --------
 
 Um bom Sysadmin deve conhecer (texto levemente modificado do
-[original](http://core.eti.br/2010/03/07/para-ser-um-sysadmin/) do
-[coredump](http://core.eti.br)):
+[original](https://core.eti.br/2010/03/07/para-ser-um-sysadmin/) do
+[coredump](https://core.eti.br)):
 
 1.  Sistemas Operacionais e Organização de Computadores (não adianta
     tentar ser um sysadmin sem ter um amplo conhecimento de como o SO e
@@ -41,13 +41,13 @@ Um bom Sysadmin deve conhecer (texto levemente modificado do
     de verdade).
 
 4.  Conceito das linguagens utilizadas no ambiente que vai se
-    administrar ([java](http://www.java.com),
-    [ruby](http://www.ruby-lang.org), [python](http://www.python.org),
+    administrar ([java](https://www.java.com),
+    [ruby](https://www.ruby-lang.org), [python](https://www.python.org),
     etc…)
 
 5.  Banco de Dados em geral,
-    [NoSQL](http://martinfowler.com/nosql.html),
-    [SQL](http://en.wikipedia.org/wiki/SQL), etc. (como eles funcionam,
+    [NoSQL](https://martinfowler.com/nosql.html),
+    [SQL](https://en.wikipedia.org/wiki/SQL), etc. (como eles funcionam,
     transações, locking, particionamento, tuning).
 
 6.  Conceito de virtualização.
@@ -71,8 +71,8 @@ Infraestrutura Ágil
 -------------------
 
 Hã? Infraestrutura Ágil? É como Desenvolvimento Ágil
-([Scrum](http://www.scrum.org/),
-[XP](http://www.extremeprogramming.org/), etc.)? Em parte sim, DevOps
+([Scrum](https://www.scrum.org/),
+[XP](https://www.extremeprogramming.org/), etc.)? Em parte sim, DevOps
 depende de uma mudança cultural na área de infraestrutura Ela está
 habituada aos Tickets, Requisições de Mudança, Gerência de Problemas e
 outras processos já consolidados.
@@ -83,7 +83,7 @@ razões (tema para outro texto) e tem muitas formas de realizar. O maior
 desafio é como fazer a transição cultural sem que causar o caos.
 
 Inicialmente, usar Kanban já bom início mas use o
-[Kanban](http://www.kanbanblog.com/explained/) como substituto de um
+[Kanban](https://www.kanbanblog.com/explained/) como substituto de um
 sistema de ticket ou incidente. Ele é bom quando usado para gerenciar
 partes de projetos ou gerência de problema.
 
@@ -97,8 +97,8 @@ Algumas coisas tecnologias que fazem parte do cotidiano.
 
 1.  Orquestração
 
-[Chef](http://www.opscode.com/chef/), [Puppet](https://puppetlabs.com/),
-[CfEngine](http://cfengine.com/), [Juju](https://juju.ubuntu.com/),
+[Chef](https://www.opscode.com/chef/), [Puppet](https://puppetlabs.com/),
+[CfEngine](https://cfengine.com/), [Juju](https://juju.ubuntu.com/),
 [Comodit](https://github.com/comodit) e tantos outros são soluções
 usadas para gerenciar infraestrutura, deploy, implementar uma
 arquitetura escalável, etc. Se não conhece nada na área, comece com
@@ -114,8 +114,8 @@ sobrevivência.
 
 1.  Time de robôs
 
-[Larry Wall](http://www.wall.org/~larry/), criador da linguagem
-[Perl](http://www.perl.org/) disse uma vez num livro que tinha preguiça
+[Larry Wall](https://www.wall.org/~larry/), criador da linguagem
+[Perl](https://www.perl.org/) disse uma vez num livro que tinha preguiça
 de repetir as coisas e esse foi um dos principais motivos dele criar a
 linguagem. De certa forma isso se aplica também para um Sysadmin/DevOps
 pois é parte importante da automação da infraestrutura.

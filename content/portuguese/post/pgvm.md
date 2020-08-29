@@ -6,22 +6,22 @@ categories = ["portugues", "SL", "postgresql", "pgvm"]
 tags = ["portugues", "SL", "postgresql", "pgvm"]
 +++
 O [PGVM](https://github.com/guedes/pgvm) é um projeto muito
-interessante, inspirado no [RVM](http://www.rvm.io) (Ruby Version
+interessante, inspirado no [RVM](https://www.rvm.io) (Ruby Version
 Manager), ele permite gerenciar múltiplas e diferentes versões do
-[PostgreSQL](http://www.postgresql.org) num mesmo computador.
+[PostgreSQL](https://www.postgresql.org) num mesmo computador.
 
-Caso você esteja usando o PGVM e [Debian](http://www.debian.org) poderá
+Caso você esteja usando o PGVM e [Debian](https://www.debian.org) poderá
 ter problema para compilar algumas versões do PostgreSQL porque estas
 versões tem um pequeno bug ao executar o ”***./configure***”. Ele não
 atribuem alguns parâmetros para variável do **LDFLAGS**. Se estiver
 curioso para ler mais sobre, recomendo ler a discussão na lista dos
 desenvolvedores do
-PostgreSQL([pgdg-hackers](http://archives.postgresql.org/pgsql-hackers/2012-12/msg01058.php)).
+PostgreSQL([pgdg-hackers](https://archives.postgresql.org/pgsql-hackers/2012-12/msg01058.php)).
 Exemplo do erro:
 
 ```
 $pgvm install 9.2.2
-downloading 'http://ftp.postgresql.org/pub/source/v9.2.2/postgresql-9.2.2.tar.gz', please be patient... done.
+downloading 'https://ftp.postgresql.org/pub/source/v9.2.2/postgresql-9.2.2.tar.gz', please be patient... done.
 checking 'postgresql-9.2.2.tar.gz' integrity... done.
 extracting postgresql-9.2.2.tar.gz ... done.
 configuring PostgreSQL Version: 9.2.2 ... done.

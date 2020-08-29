@@ -27,8 +27,8 @@ Web Performance é um tema vasto e muito variado, se tiver referências, correç
 | [EUA][1]    | 0,121s |
 | [Brasil][2] | 0,325s |
 
-[1]: http://www.webpagetest.org/result/151110_WJ_XE2/)
-[2]: http://www.webpagetest.org/result/151110_MS_X5F/
+[1]: https://www.webpagetest.org/result/151110_WJ_XE2/)
+[2]: https://www.webpagetest.org/result/151110_MS_X5F/
 
   Isso acontece porque o servidor do meu site está no EUA, um número aceitável para um site que está nos EUA e os usuários no Brasil é em torno de 300 milissegundos.
 
@@ -47,7 +47,7 @@ Web Performance é um tema vasto e muito variado, se tiver referências, correç
 *TLS/SSL das listas do PostgreSQL Brasil*
 ![SSL PostgreSQL Brasil](/images/gargalo_ssl_pgbr.png)
 
-  Incrível como no [teste com o Github](http://www.webpagetest.org/result/151110_RA_Z9A/1/details/) é rápido para fazer o handkshake SSL, contudo o mesmo [teste no site das listas de discussão do PostgreSQL Brasil](http://www.webpagetest.org/result/151110_G0_Z1S/1/details/) tem um desempenho sofrível (culpa minha!).
+  Incrível como no [teste com o Github](https://www.webpagetest.org/result/151110_RA_Z9A/1/details/) é rápido para fazer o handkshake SSL, contudo o mesmo [teste no site das listas de discussão do PostgreSQL Brasil](https://www.webpagetest.org/result/151110_G0_Z1S/1/details/) tem um desempenho sofrível (culpa minha!).
 
 ### DNS
   Parece incrível, contudo tem muito site que tem servidores DNS sofríveis em desempenho. Se a resolução DNS não for rápida (abaixo de 50 milissegundos), ele pode ser a causa do TTFB alto.
@@ -64,7 +64,7 @@ Web Performance é um tema vasto e muito variado, se tiver referências, correç
 
 Compressão (gzip)
 
-  Qualquer resposta do servidor do site que for do tipo text/plain deve ser comprimida por gzip (RFC 2616). Eu escrevi um [texto](http://www.fernandoike.com/2014/12/23/configuracao-de-compressao-gzip-para-sites-e-ranking-de-cdn/) sobre isso no meu blog, recomendo lê-lo.
+  Qualquer resposta do servidor do site que for do tipo text/plain deve ser comprimida por gzip (RFC 2616). Eu escrevi um [texto](https://www.fernandoike.com/2014/12/23/configuracao-de-compressao-gzip-para-sites-e-ranking-de-cdn/) sobre isso no meu blog, recomendo lê-lo.
 
 
 
@@ -90,7 +90,7 @@ Compressão (gzip)
 - **image/vnd.microsoft.icon**
 - **text/x-js**
 
-  O meu site (no momento) está com um [bom desempenho para compressão](http://www.webpagetest.org/result/151110_MS_X5F/1/performance_optimization/#compress_text) no Webpagetest.
+  O meu site (no momento) está com um [bom desempenho para compressão](https://www.webpagetest.org/result/151110_MS_X5F/1/performance_optimization/#compress_text) no Webpagetest.
 
 ![Gargalos gzip - nota](/images/gargalos_gzip1.png)
 
@@ -100,7 +100,7 @@ Compressão (gzip)
 
   O cabeçalho **Cache-Control** diz para o navegador web o que ele pode ou não cachear. O bom uso dele faz com que o site tenha um consumo menor de banda de rede. É muito comum usá-lo para fazer cache de imagens, javascripts, css e fontes no navegador web.
 
-  O meu site não faz o bom uso dele [no teste](http://www.webpagetest.org/result/151110_MS_X5F/1/performance_optimization/#cache_static_content) que fiz no Webpagetest. Ao abrir o link abaixo você verá que a pontuação é baixa porque meu site usa conteúdo de terceiros (Linkedin e Slideshare), eles infelizmente não usam o Cache-Control.
+  O meu site não faz o bom uso dele [no teste](https://www.webpagetest.org/result/151110_MS_X5F/1/performance_optimization/#cache_static_content) que fiz no Webpagetest. Ao abrir o link abaixo você verá que a pontuação é baixa porque meu site usa conteúdo de terceiros (Linkedin e Slideshare), eles infelizmente não usam o Cache-Control.
 
 
   Ainda usando meu site como exemplo, se o Cache-Control fosse bem usado, a quantidade de requisições (request) HTTP no Repeat View seria bem menor. O Repeat View no meu blog tem 2/3 e ao menos deveria ser em abaixo de 40%.

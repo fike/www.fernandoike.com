@@ -15,5 +15,5 @@ Fiz o meu trajeto um pouco atrasado (45 minutos e uns tantos segundos…) ao inv
 
 De qualquer forma foi  uma corrida legal, um clima bastante legal e galera bem empolgada. Agora é encarar os 10Km neste próximo fim de semana na [Corrida das Estações Adidas - Primavera!][corridaadidas] ;)
 
-[maratona]: http://www.maratonapaodeacucar.com.br/saopaulo/default_noticias_interna.asp?cod_area=6&idNoticia=6657
-[corridaadidas]: http://circuitodasestacoes.com.br/sao-paulo/sp-primavera/
+[maratona]: https://www.maratonapaodeacucar.com.br/saopaulo/default_noticias_interna.asp?cod_area=6&idNoticia=6657
+[corridaadidas]: https://circuitodasestacoes.com.br/sao-paulo/sp-primavera/

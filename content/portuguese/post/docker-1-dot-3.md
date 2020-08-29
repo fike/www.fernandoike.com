@@ -112,6 +112,6 @@ fike@kamino:~$ docker exec -it $CONTAINERID /bin/bash
 
 [docker13]: https://blog.docker.com/2014/10/docker-1-3-signed-images-process-injection-security-options-mac-shared-directories/
 [danuncio]: https://blog.docker.com/2014/09/docker-hub-official-repos-announcing-language-stacks/
-[docker]: http://www.docker.com
-[nsenter]: http://jpetazzo.github.io/2014/03/23/lxc-attach-nsinit-nsenter-docker-0-9/
-[fluent]: http://www.fluentd.org/
+[docker]: https://www.docker.com
+[nsenter]: https://jpetazzo.github.io/2014/03/23/lxc-attach-nsinit-nsenter-docker-0-9/
+[fluent]: https://www.fluentd.org/

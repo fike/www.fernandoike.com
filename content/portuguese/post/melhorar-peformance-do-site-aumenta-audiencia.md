@@ -6,7 +6,7 @@ categories = ["web performane", "portugues", "debian"]
 tags = ["portugues", "octopress", "wordpress", "debian", "web performance", "feo"]
 +++
 Há +- um mês eu comecei a fazer otimizações no servidor e no
-[Octopress](http://www.octopress.org) (O
+[Octopress](https://www.octopress.org) (O
 [CMS](https://en.wikipedia.org/wiki/Content_management_system) do meu
 blog) como parte dos estudos de *Web Performance*. No mês de Junho de
 2013 era **352** vistantes, **535** page views (páginas vistas) e o
@@ -32,7 +32,7 @@ Como as principais otimizações no blog foram realizadas no final de
 Julho, é provável que a audiência aumente um pouco mais no mês de
 Agosto. Se fosse um portal de notícia ou comércio eletrônico o alvo das
 otimizações, provavelmente aumentaria audiência ou a conversão de vendas
-segundo o [estudo do Walmart](http://minus.com/msM8y8nyh#1e) dos EUA.
+segundo o [estudo do Walmart](https://minus.com/msM8y8nyh#1e) dos EUA.
 
 Essas mudanças ficam mais visíveis com o gráfico comparativo do Google
 Analtyics.
@@ -42,10 +42,10 @@ Analtyics.
 Os textos blog relacionados à Web Performance:
 
 -   [Fazendo Seu Site Voar Com
-    Pagespeed](http://www.fernandoike.com/2013/07/30/melhorando-o-seu-site-com-pagespeed/)
+    Pagespeed](https://www.fernandoike.com/2013/07/30/melhorando-o-seu-site-com-pagespeed/)
 -   [Slides da apresentação sobre Web Performance no Campus
-    Party](http://www.slideshare.net/fernandoike/um-milhao-de-usurios-simultneos-16296913)
+    Party](https://www.slideshare.net/fernandoike/um-milhao-de-usurios-simultneos-16296913)
 -   [Video no Eventials sobre Web
-    Performance](http://www.fernandoike.com/2013/07/01/webinar-como-suportar-um-milhao-de-usuarios-simultaneos/)
+    Performance](https://www.fernandoike.com/2013/07/01/webinar-como-suportar-um-milhao-de-usuarios-simultaneos/)
 -   [Wordpress Para Octopress: Comparação De
-    Performance](http://www.fernandoike.com/2013/02/17/migrando-do-wordpress-para-octopress/)
+    Performance](https://www.fernandoike.com/2013/02/17/migrando-do-wordpress-para-octopress/)

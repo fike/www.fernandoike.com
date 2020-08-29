@@ -15,4 +15,4 @@ pensamentos. Pelo pouco que vi da Campus Party, essa bagunça faz parte.
 Quem sabe se na próxima já estaja mais acostumado com a “bagunça”.  ;)
 
 .Para quem quiser ver a apresentação, está no
-[slideshare](http://www.slideshare.net/fernandoike/um-milhao-de-usurios-simultneos-16296913).
+[slideshare](https://www.slideshare.net/fernandoike/um-milhao-de-usurios-simultneos-16296913).

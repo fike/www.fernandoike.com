@@ -12,4 +12,4 @@ DevOps is word to use for many ways, this is happen because it 's a fashion buzz
 
 <p center><iframe src="//www.slideshare.net/slideshow/embed_code/key/4ywg0ZF6SK4vjK" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/fernandoike/dev-ops-anti-patterns" title="DevOps Anti-Patterns" target="_blank">DevOps Anti-Patterns</a> </strong> from <strong><a href="//www.slideshare.net/fernandoike" target="_blank">Fernando Ike</a></strong> </div></p>
 
-Thanks organization of **Agile Infrastructure** track and [TDC](http://www.thedevelopersconference.com.br/) for allow a excellent opportunity to talk about that.
+Thanks organization of **Agile Infrastructure** track and [TDC](https://www.thedevelopersconference.com.br/) for allow a excellent opportunity to talk about that.

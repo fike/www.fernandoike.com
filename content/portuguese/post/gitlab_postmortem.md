@@ -17,7 +17,7 @@ A causa raiz foi executar o "***rm -rf***" no servidor de banco de dados ([Postg
 
 A recuperação do backup foi demasiadamente lenta (18 horas), isso porque a recuperação via backups feitos pelo pg_dump (9.2) foram realizado na versão diferente do banco em produção (9.6). A outra forma de tentarem recuperar foi usando os snapshot do LVM e também dos discos do Azure, a demora ocorreu porque os discos no serviço padrão são lentos como a maioria dos IaaS. A não ser que seja contratado discos mais rápidos (e caros) ou adote baremetal.
 
-Antes de você tirar conclusões a partir daqui, recomendo que leia o relatório do Gitlab, eles detalham tudo que aconteceu e o que estão fazendo para melhorar. No relatório, eles usam o **5 Whys** (**5 porquês**) para identificar porque ocorreu a indisponibilidade do servidor de banco de dados e porque demorou para recuperar o serviço. [5 Whys](http://www.toyota-global.com/company/toyota_traditions/quality/mar_apr_2006.html) é uma técnica interrogativa [iterativa](https://pt.m.wiktionary.org/wiki/iterativo) para identificar a causa raiz de um defeito, é parte do [Toyota Production System](http://www.toyota-global.com/company/vision_philosophy/toyota_production_system/). Abaixo uma tradução livre de uma das análises usando 5 Whys.
+Antes de você tirar conclusões a partir daqui, recomendo que leia o relatório do Gitlab, eles detalham tudo que aconteceu e o que estão fazendo para melhorar. No relatório, eles usam o **5 Whys** (**5 porquês**) para identificar porque ocorreu a indisponibilidade do servidor de banco de dados e porque demorou para recuperar o serviço. [5 Whys](https://www.toyota-global.com/company/toyota_traditions/quality/mar_apr_2006.html) é uma técnica interrogativa [iterativa](https://pt.m.wiktionary.org/wiki/iterativo) para identificar a causa raiz de um defeito, é parte do [Toyota Production System](https://www.toyota-global.com/company/vision_philosophy/toyota_production_system/). Abaixo uma tradução livre de uma das análises usando 5 Whys.
 
 1 - **Por que o Gitlab.com ficou fora do ar?**
 
@@ -61,8 +61,8 @@ https://about.gitlab.com/2017/02/10/postmortem-of-database-outage-of-january-31/
 
 **Resilience Engineering**: **Learning to Embrace Failure**: https://queue.acm.org/detail.cfm?id=2371297
 
- **5 Whys**: http://www.toyota-global.com/company/toyota_traditions/quality/mar_apr_2006.html
+ **5 Whys**: https://www.toyota-global.com/company/toyota_traditions/quality/mar_apr_2006.html
 
 **Google Compute Engine Incident #16007**:   https://status.cloud.google.com/incident/compute/16007?post-mortem
 
-**Netflix - Post-mortem of October 22,2012 AWS degradation**: http://techblog.netflix.com/2012/10/post-mortem-of-october-222012-aws.html
+**Netflix - Post-mortem of October 22,2012 AWS degradation**: https://techblog.netflix.com/2012/10/post-mortem-of-october-222012-aws.html

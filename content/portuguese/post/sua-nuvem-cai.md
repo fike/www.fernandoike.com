@@ -38,9 +38,9 @@ O falso mito que ao colocar uma aplicação/sistema na nuvem, ele nunca
 ficará indisponível porque na nuvem as coisas funcionam automagicamente
 é mais comum que possa imaginar. Pense um pouco, todo sistema precisa
 estar armazenado em algum lugar, se não está na empresa precisa estar em
-outro lugar mesmo na nuvem. A nuvem([IaaS](http://en.wikipedia.org/wiki/Infrastructure_as_a_service#Infrastructure_as_a_service_.28IaaS.29),
-[SaaS](http://en.wikipedia.org/wiki/Software_as_a_service),
-[PaaS](http://en.wikipedia.org/wiki/Platform_as_a_service), etc)
+outro lugar mesmo na nuvem. A nuvem([IaaS](https://en.wikipedia.org/wiki/Infrastructure_as_a_service#Infrastructure_as_a_service_.28IaaS.29),
+[SaaS](https://en.wikipedia.org/wiki/Software_as_a_service),
+[PaaS](https://en.wikipedia.org/wiki/Platform_as_a_service), etc)
 facilita muito porque muito coisa é entregue praticamente pronta e com
 um pouco de ajuste já é possível disponibilizar um serviço rapidamente.
 Entretanto mesmo na nuvem, um sistema estará alocada num ou mais
@@ -49,18 +49,18 @@ infraestrutura na nuvem, considere pensar no contingenciamento dele.
 
 Veja alguns exemplos de incidentes de indisponibilidades:
 
--   [Furacão Irene derrubou o AWS](http://www.geekwire.com/2011/amazon-web-services-bracing-hurricane-irene-virgina/)
+-   [Furacão Irene derrubou o AWS](https://www.geekwire.com/2011/amazon-web-services-bracing-hurricane-irene-virgina/)
     (**Amazon Web Service**) (dentre os afetados estão
-    [Reddit](http://www.reddit.com/) e
+    [Reddit](https://www.reddit.com/) e
     [FourSquare](https://pt.foursquare.com/) em Agosto de 2011.
 
--   [Furacão Sandy derrubou vários datacenters](http://www.zdnet.com/hurricane-sandy-knocks-out-nyc-data-centers-websites-services-down-7000006588/)
-    (dentre os sites afetados estão [Gizmodo](http://gizmodo.com) e
-    [Huffington Post](http://www.huffingtonpost.com/)) em Nova York em
+-   [Furacão Sandy derrubou vários datacenters](https://www.zdnet.com/hurricane-sandy-knocks-out-nyc-data-centers-websites-services-down-7000006588/)
+    (dentre os sites afetados estão [Gizmodo](https://gizmodo.com) e
+    [Huffington Post](https://www.huffingtonpost.com/)) em Nova York em
     Outubro de 2012.
 
 -   Problema de energia elétrica derrubou datacenter em São Paulo e
-    derrubou a AWS ([Região SA-EAST-1](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html))
+    derrubou a AWS ([Região SA-EAST-1](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html))
     em Dezembro de 2013.
 
 Geralmente ao colocar um sistema ou site num fornecedor de nuvem como
@@ -73,13 +73,13 @@ sincronização dos dados de um infraestrutura para outra (de uma região
 para outra no caso do AWS).
 
 Alguns sites adotam como parte secundário do plano de contingência ter
-as partes principais em cache numa [CDN (Content Delivery Network)](http://en.wikipedia.org/wiki/Content_delivery_network), tendo
+as partes principais em cache numa [CDN (Content Delivery Network)](https://en.wikipedia.org/wiki/Content_delivery_network), tendo
 como o ponto principal da contingência a redundância dos serviços numa
 região geograficamente distante. Exemplo: Numa região diferente do AWS
 ou num datacenter numa região diferente no caso da
-[Rackspace](http://www.rackspace.com).
+[Rackspace](https://www.rackspace.com).
 
-O caso do [Netflix](http://techblog.netflix.com/2012/10/post-mortem-of-october-222012-aws.html)
+O caso do [Netflix](https://techblog.netflix.com/2012/10/post-mortem-of-october-222012-aws.html)
 é bem interessante como estudo de alta disponibilidade e contingência
 usando AWS, leitura recomendadíssima.
 
@@ -92,4 +92,4 @@ recursos computacionais para melhorar o SLA da sistema que suporta o
 negócio.
 
 Imagens de *Charles Rondeau* e *MALIZ ONG*, elas podem ser encontradas
-em [Public Domain Pictures](http://www.publicdomainpictures.net).
+em [Public Domain Pictures](https://www.publicdomainpictures.net).

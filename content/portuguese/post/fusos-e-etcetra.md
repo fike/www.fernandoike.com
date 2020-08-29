@@ -93,15 +93,15 @@ Sex Mai 16 18:35:16 FNT 2014
 Para saber quais são as cidades ou regiões que pode usar no **TZ**, olhe
 no ”**/usr/share/zoneinfo**” que tem outros. Para saber todas as cidades
 brasileiras que são possíveis de usar no TZ, procure no arquivo
-[zone.tab](http://en.wikipedia.org/wiki/Zone.tab) no
-[tzdata](http://www.iana.org/time-zones) que é disponibilizado na
-[IANA](http://www.iana.org/). [Uma versão
-dele](http://en.wikipedia.org/wiki/Zone.tab) pode ver na Wikipedia.
+[zone.tab](https://en.wikipedia.org/wiki/Zone.tab) no
+[tzdata](https://www.iana.org/time-zones) que é disponibilizado na
+[IANA](https://www.iana.org/). [Uma versão
+dele](https://en.wikipedia.org/wiki/Zone.tab) pode ver na Wikipedia.
 
 Portanto, fusos horários no horário padrão ([standard
-time](http://en.wikipedia.org/wiki/Time_standard)) que estão à Oeste de
-[UTC](http://pt.wikipedia.org/wiki/Tempo_Universal_Coordenado) ou
-[GMT](http://pt.wikipedia.org/wiki/Greenwich_Mean_Time) tem o sinal
+time](https://en.wikipedia.org/wiki/Time_standard)) que estão à Oeste de
+[UTC](https://pt.wikipedia.org/wiki/Tempo_Universal_Coordenado) ou
+[GMT](https://pt.wikipedia.org/wiki/Greenwich_Mean_Time) tem o sinal
 negativo (-) e os fusos à Leste que estão à Leste tem o sinal positivo.
 Mas quando você tem que ajustar o fuso horário num sistema Unix/Linux,
 lembre-se que o sinal é ao contrário; Oeste é positivo (+) e Leste é
@@ -111,8 +111,8 @@ Na lista
 [debian-user](https://lists.debian.org/debian-user/2013/01/msg01133.html)
 tem uma thread com uma boa explicação sobre o tema também recomendável
 ler o artigo na Wikipedia sobre os [fusos horários no
-Brasil](http://en.wikipedia.org/wiki/Time_in_Brazil) (em inglês que é
+Brasil](https://en.wikipedia.org/wiki/Time_in_Brazil) (em inglês que é
 mais datalhado).
 
 Obs. Imagem da Wikipedia, a original pode ser acessada
-[aqui](http://commons.wikimedia.org/wiki/File:Tz_world_2013i_efele.png).
+[aqui](https://commons.wikimedia.org/wiki/File:Tz_world_2013i_efele.png).

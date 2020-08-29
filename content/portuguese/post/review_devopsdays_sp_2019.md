@@ -64,12 +64,12 @@ __Patrocínio__:
 __Apoio__:
 * [ADO Podcast](https://www.arresteddevops.com/)
 * [10Deploys podcast](https://www.10deploys.com/)
-* [VBrownBag](http://vbrownbagbrasil.com.br/)
+* [VBrownBag](https://vbrownbagbrasil.com.br/)
 * [Estabilis](https://www.estabil.is)
 * [Test Girls](https://www.meetup.com/pt-BR/test-girls/?_locale=pt-BR)
-* [Gatilho Kosmico](http://gatilhokosmico.com.br/)
+* [Gatilho Kosmico](https://gatilhokosmico.com.br/)
 * [InfoQ](https://www.infoq.com/br/)
-* [Rails Girls](http://railsgirls.com/saopaulo)
+* [Rails Girls](https://railsgirls.com/saopaulo)
 * [DevTest](https://www.meetup.com/pt-BR/devtestscampinas/)
 
 

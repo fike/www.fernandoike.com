@@ -5,7 +5,7 @@ draft = false
 categories = ["web", "portugues"]
 tags = ["web", "portugues"]
 +++
-O [Hostgator](http://www.hostgator.com) fez um infográfico interessente
+O [Hostgator](https://www.hostgator.com) fez um infográfico interessente
 comparando com cada tipo de hospadegem de site existente no mercado.
 
-![](http://blog.hostgator.com/~/tmp/wp-uploads/2013/03/WebHosting_Explained.png)
+![](https://blog.hostgator.com/~/tmp/wp-uploads/2013/03/WebHosting_Explained.png)

@@ -10,9 +10,9 @@ some time working on that, you will feel more comfortable but the
 package building still is a little bit complex. Mainly if you add tests.
 
 A good tool to create a deb package automatically is
-[pbuilder](http://www.netfort.gr.jp/~dancer/software/pbuilder-doc/pbuilder-doc.html).
+[pbuilder](https://www.netfort.gr.jp/~dancer/software/pbuilder-doc/pbuilder-doc.html).
 It creates a chroot jail and it allows to build deb packages for
-[Debian](http://www.debian.org) and [Ubuntu](http://www.ubuntu.com).
+[Debian](https://www.debian.org) and [Ubuntu](https://www.ubuntu.com).
 
 Create chroot jails environment
 -------------------------------
@@ -38,7 +38,7 @@ before pbuilder use. Bellow is an example with Ubuntu Raring Ringtail
 $sudo apt-key adv --recv-keys --keyserver keyserver.ubuntu.com 3B4FE6ACC0B21F32
 
 $sudo pbuilder create --basetgz /var/cache/pbuilder/base-raring-amd64.tgz \
-    --distribution raring --mirror http://ftp.ubuntu.com/ubuntu \
+    --distribution raring --mirror https://ftp.ubuntu.com/ubuntu \
     --debootstrapopts --keyring=/etc/apt/trusted.gpg
 ```
 
@@ -78,7 +78,7 @@ $sudo pdebuild --auto-debsign --debsign-k XXXXXXXX --  \
 # Ubuntu Raring
 $sudo pdebuild --auto-debsign --debsign-k XXXXXXXX --  \
     --basetgz /var/cache/pbuilder/base-raring-amd64.tgz \
-    --distribution raring  --mirror http://ftp.ubuntu.com/ubuntu \
+    --distribution raring  --mirror https://ftp.ubuntu.com/ubuntu \
     foobar*.dsc
 ```
 

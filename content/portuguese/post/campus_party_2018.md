@@ -8,7 +8,7 @@ tags = ["devops", "agile", "scrum", "portugues", "sindrome do impostor"]
 +++
 Campus Party 2018 - São Paulo
 
-Participei da edição 2018 da [Campus Party São Paulo](http://brasil.campus-party.org/cpbr11/agenda-cpbr11/), este evento foi bem especial porque a edição passada não pude comparecer. Portanto esta edição teve um sabor bem especial. :)
+Participei da edição 2018 da [Campus Party São Paulo](https://brasil.campus-party.org/cpbr11/agenda-cpbr11/), este evento foi bem especial porque a edição passada não pude comparecer. Portanto esta edição teve um sabor bem especial. :)
 
 ## Evento esvaziado
 
@@ -36,7 +36,7 @@ Enfim, ao final concluímos que uma ajuda externa (consultoria de *Agile/Lean*) 
 
 ## A apresentação - Síndrome do Impostor
 
-Alguns meses atrás o Somatório pediu uma ajuda para criar uma apresentação sobre Síndrome do Impostor para Campus Party. Ao longo dos últimos dois meses estudamos e criamos (na real, ele criou) esta apresentação e acho que o público gostou bastante do assunto. Parabéns ao Somatório por não ter desistido e nem engasgado na apresentação, ficou ótima. Os slides da apresentação estão [aqui](http://somatorio.org/talks/sindrome-impostor/)
+Alguns meses atrás o Somatório pediu uma ajuda para criar uma apresentação sobre Síndrome do Impostor para Campus Party. Ao longo dos últimos dois meses estudamos e criamos (na real, ele criou) esta apresentação e acho que o público gostou bastante do assunto. Parabéns ao Somatório por não ter desistido e nem engasgado na apresentação, ficou ótima. Os slides da apresentação estão [aqui](https://somatorio.org/talks/sindrome-impostor/)
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hRhWmrweF0M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

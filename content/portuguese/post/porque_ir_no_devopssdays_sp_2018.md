@@ -42,6 +42,6 @@ Ah, quer patrocinar? Dá um pulo na [página](https://www.devopsdays.org/events/
 
 ## Onde
 
-[Hotel Century Paulista](http://www.centuryflat.com.br/), pertinho do metrô Brigadeiro nos dias 06 e 07 de junho de 2018. Quem vamos?
+[Hotel Century Paulista](https://www.centuryflat.com.br/), pertinho do metrô Brigadeiro nos dias 06 e 07 de junho de 2018. Quem vamos?
 
 [Ingressos](https://www.eventbrite.com.br/e/devopsdays-sp-2018-tickets-42971706531) [aqui](https://www.eventbrite.com.br/e/devopsdays-sp-2018-tickets-42971706531). 

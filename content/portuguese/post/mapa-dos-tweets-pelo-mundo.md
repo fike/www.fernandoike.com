@@ -6,11 +6,11 @@ categories = ["aleatorio", "portugues"]
 tags = ["portugues", "mapas", "visualizacao"]
 +++
 Visualização de dados é uma das que gosto no mundo informatizado, no
-[Mapbox](http://www.mapbox.net/) tem uma [visualização dos
-tweets](http://www.mapbox.com/labs/twitter-gnip/brands/) (ato de
-escrever no [Twitter](http://www.twitter.com/)), praticamente em tempo
+[Mapbox](https://www.mapbox.net/) tem uma [visualização dos
+tweets](https://www.mapbox.com/labs/twitter-gnip/brands/) (ato de
+escrever no [Twitter](https://www.twitter.com/)), praticamente em tempo
 real. Essa forma de ver os dados do twitter é do
-[Gnip](http://www.gnip.com/).
+[Gnip](https://www.gnip.com/).
 
 Alguns exemplos:
 

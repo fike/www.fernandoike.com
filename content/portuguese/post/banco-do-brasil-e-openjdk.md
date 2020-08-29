@@ -30,9 +30,9 @@ fike@klatoon:/tmp$ setarch x86_64 --uname-2.6 iceweasel
 
 
 [virtualbox]: https://www.virtualbox.org/
-[openjdk]: http://openjdk.java.net/
-[icedtea]: http://icedtea.classpath.org/
+[openjdk]: https://openjdk.java.net/
+[icedtea]: https://icedtea.classpath.org/
 [wheezy]: https://www.debian.org/releases/wheezy
-[debian]: http://www.debian.org
+[debian]: https://www.debian.org
 [veewee]: https://github.com/jedi4ever/veewee
 [link_template]: https://github.com/fike/veewee-definitions/tree/master/debgui32

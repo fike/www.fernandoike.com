@@ -7,7 +7,7 @@ tags = ["debian", "toy story", "SL", "portugues"]
 +++
 ![](/images/debian.png)
 
-Hoje o [Debian](http://www.debian.org) faz 20 anos. É muito legal ver um
+Hoje o [Debian](https://www.debian.org) faz 20 anos. É muito legal ver um
 projeto como ele ter bastante tempo e continuar com seu plano ambicioso
 de dominação mundial. Ops, dominação do universo.
 
@@ -18,8 +18,8 @@ suporta tantas arquiteturas de hardware diferentes e principalmente, com
 suporte à tantos idiomas diferentes.
 
 Fui olhar quando foi criado meu login no
-[Alioth](http://alioth.debian.org) e ele é de 2004. :)
+[Alioth](https://alioth.debian.org) e ele é de 2004. :)
 
 Ah, claro! Uma projeto que batiza as versões lançados com os nomes dos
-personagens do [Toy Story](http://pt.wikipedia.org/wiki/Toy_Story),
+personagens do [Toy Story](https://pt.wikipedia.org/wiki/Toy_Story),
 tinha que durar muito tempo.
