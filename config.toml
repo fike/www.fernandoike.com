@@ -68,13 +68,13 @@ removePathAccents = true
       pre = "<i class='fa fa-list fa-fw'></i>"
       weight = 1
       identifier = "portuguese"
-      url = "https://www.fernandoike.com/tags/portugues"
+      url = "https://www.fernandoike.com/pt"
     [[menu.main]]
       name = "English"
       pre = "<i class='fa fa-list fa-fw'></i>"
       weight = 2
       identifier = "english"
-      url = "https://www.fernandoike.com/tags/english"
+      url = "https://www.fernandoike.com/en"
     [[menu.main]]
       name = "About"
       pre = "<i class='fa fa-user fa-fw'></i>"
