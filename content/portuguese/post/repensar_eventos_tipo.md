@@ -1,6 +1,6 @@
 +++
 title = "Eventos de TI em tempos de pandemia (2020)"
-date = 2020-12-06T08:56:54-03:00
+date = 2020-12-07T08:56:54-03:00
 draft = false
 description = "Uma reflexão de como foi participar e organizar eventos de TI pós COVID-19"
 categories = ["eventos", "devops", "kubernetes"]
