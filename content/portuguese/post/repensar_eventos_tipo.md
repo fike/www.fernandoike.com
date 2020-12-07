@@ -6,6 +6,8 @@ description = "Uma reflexão de como foi participar e organizar eventos de TI p�
 categories = ["eventos", "devops", "kubernetes"]
 tags = ["eventos", "devops", "kubernetes"]
 +++
+![pessoas sentadas num local público](/images/audience-828584_640.jpg)
+
 Todos eventos de TI tiveram que mudar de alguma forma em 2020 depois da pandemia COVID-19, alguns migraram para versão online, outros foram adiados para 2021 esperando dias melhores ou só cancelados.
 
 Há aspectos que não são tão simples de reproduzir do evento presencial como coffee-break, as conversas de corredor, visitar aos estandes dos patrocinadores, etc. Alguns eventos chegaram bem perto de reproduzir essas situações mas não é a mesma coisa. Dos eventos que pude participar, os da da Linux Foundation (principalmente, [Kubecon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)) são os que mais chegaram próximo disso.
