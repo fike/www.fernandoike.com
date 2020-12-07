@@ -10,11 +10,7 @@ As últimas duas semanas foram intensas, participação da [Kubecon](https://eve
 
 É muito bacana os organizadores de eventos se esforcem para os participantes, palestrantes e patrocinadores tenham uma boa experiência. Chegaram bem próximo disso, mas é sempre bom lembrar que eventos presenciais e online são diferentes. O futuro provável? Não sei dizer, fato é que eventos online são mais acessíveis. 
 
-<<<<<<< HEAD
-Dificilmente eu iria para uma Kubecon presencial este ano, o custo para deslocar e hospedar não é para qualquer um. O evento ter sido online com custo bem mais em conta permitiu participar até da [Service Mesh Con](https://events.linuxfoundation.org/servicemeshcon/). Eventos internacionais como a Kubecon se tornaram de fato mais acessíveis, ainda é algo distante para uma parcela grande dos tecnologistas (pessoas que trabalham em tecnologia da informação), idioma do evento em inglês e a inscrição em dólar afasta essas pessoas. Por isso, pessoas organizadoras de evento por aqui, sei o quanto é duro ter que cancelar um evento, não desaninem porque é hora de experimentar coisas diferentes para ajudar essas pessoas tecnologistas.
-=======
 Dificilmente eu iria para uma Kubecon presencial este ano, o custo para deslocar e hospedar não é para qualquer um. O evento ter sido online com custo bem mais em conta permitiu participar até da [Service Mesh Con](https://events.linuxfoundation.org/servicemeshcon/). Eventos internacionais como a Kubecon se tornaram de fato mais acessíveis, ainda é algo distante para uma parcela grande dos tecnologistas (pessoas que trabalham em tecnologia da informação), idioma do evento em inglês e a inscrição em dólar afasta essas pessoas. Por isso, pessoas organizadoras de evento por aqui, sei o quanto é duro ter que cancelar um evento, não desaminem porque é hora de experimentar coisas diferentes para ajudar essas pessoas tecnologistas.
->>>>>>> 4e6945cdab64ffb80070b1c7f3461775cabe11fc
 
 Enfim, era para ser um texto curto com os slides da palestra ministrada no TDC São Paulo 2020 (online), voltando ao que deveria ser... tive a oportunidade de falar um pouco sobre Kubernetes, contar um pouco da história de containers, o estado atual dele e um pouco sobre o futuro dele. Os slides estão aqui em baixo.
 
