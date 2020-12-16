@@ -35,7 +35,7 @@ episódios literalmente na varanda do Emerson.
 Ah claro, era uma delícia pesquisar músicas com licenças em [Creative
 Commons](https://creativecommons.org.br/). ;)
 
-Infelizmente, não consegui recurperar as entrevistas dos ministros mas
+Infelizmente, não consegui recuperar as entrevistas dos ministros mas
 os registros anteriores estão todos
 [aqui](https://twitter.com/Carlos_Morimoto).
 
