@@ -1,7 +1,7 @@
 +++
 title = "Testing with Flask send cookie with value correctly"
 date = 2020-12-26T10:46:46-03:00
-draft = true
+draft = false
 description = "It's an example how to test if Flask server set cookie in the HTTP response."
 categories = ["flask", "pytest", "python"]
 tags = ["flask", "pytest", "python"]
