@@ -136,7 +136,7 @@ def profile(id):
 
 ```
 
-After created functions profile needs to change register.html to add the profile field in the Jinja2 file, *templates/auth/register.html*.
+After created functions profile needs to change register.html to add the profile field in the Jinja2 file, "*templates/auth/register.html*".
 
 ```HTML
 {% extends 'base.html' %}
@@ -194,15 +194,13 @@ li><a href="{{ url_for('auth.profile', id=g.user['id']) }}">{{ g.user['username'
 
 ```
 
+## Testing
 
-# Testing
-
-
-Now it's time to write tests!!! 
+Now it's time to write tests!!!
 
 I know, I know... I should create tests before the code using TDD. I'll do it in the next project. 😊
 
-There are two tests in the *tests/test_auth.py* need to adapt to the support profile field on the register page. 
+There are two tests in the *tests/test_auth.py* need to adapt to the support profile field on the register page.
 
 The test_register must support to filled form with profile data:
 
@@ -262,11 +260,9 @@ def test_profile_update(client, auth, app):
 
 ```
 
-# Improve developer experience
-
+## Improve developer experience
 
 To add SQLAlchemy and Alembic, the flaskr tutorial becomes a little bit more complex to start and add new features. I tried to simplify the developer experience to implement a make file and containers using a few shell commands.
-
 
 ```bash
 # start database
@@ -293,7 +289,6 @@ To clean containers generated.
 make clean
 ```
 
-
 ## How to use my repo
 
 If you just want to test, clone my repo and create a python virtual environment
@@ -310,4 +305,3 @@ python3 -m venv venv
 source venv/bin/activate
 
 ```
-
