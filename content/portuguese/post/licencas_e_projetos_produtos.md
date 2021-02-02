@@ -1,7 +1,7 @@
 +++
 title = "Licenças de Software e impacto numa stack de tecnologia"
 date = 2021-02-02T09:35:09-03:00
-draft = true
+draft = false
 description = "Um reflexão sobre o impacto de empresas mudarem a licença do tipo Open Source para SSPL"
 categories = ["licenças", "opensource", "portuguese"]
 tags = ["licenças", "opensource", "portuguese", "elastic", "mongodb", "aws"]
