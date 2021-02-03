@@ -22,7 +22,7 @@ Outra parte importante seria o uso de containers desde o início do projeto. As 
 
 O PostgreSQL é um banco versátil para diferentes usos, os principais provedores de Cloud tem oferta de serviço gerenciado dele  e os ORMs ([SQLAlchemy](https://www.sqlalchemy.org/) e [Django ORM](https://docs.djangoproject.com/en/3.1/topics/db/queries/)) funcionam bem também. Na startup anterior, ele foi utilizado com armazenamento de uma das plataformas desenvolvidas utilizando [Event Sourcing](https://microservices.io/patterns/data/event-sourcing.html) (valeu [Mário Idival](https://twitter.com/marioidival) por implementar!).
 
-Analisando o exemplo que citei, não posso dizer que não teve viés. Apesar das decisões sobre quais tecnologias seriam utilizadas terem tido argumentos, não é possível afirmar que não havia algum viés. Containers como base dos artefatos gerados, PostgreSQL como banco de dados foram decisões tecnológicas baseadas em implantações de sucesso em experiências anteriores.
+Analisando o exemplo que citei, as decisões sobre quais tecnologias seriam utilizadas tinha até bons argumentos, não é possível afirmar que não havia algum viés. Containers como base dos artefatos gerados, PostgreSQL como banco de dados foram decisões tecnológicas baseadas em implantações de sucesso em experiências anteriores.
 
 Reforçando, não há problema em tomar decisões assim mas também cabe ponderar junto com as pessoas que irão desenvolver porque utilizar aquelas tecnologias e identificar potenciais limitações de cada tecnologia não só do ponto de vista técnico, mas também na capacidade da equipe aprender lidar com elas e olhar para outras tecnologias sem estigma da obrigação de aprender “tudo de novo”.
 
@@ -36,7 +36,7 @@ ElasticSearch foram considerado algumas vezes como parte da stack, mas se fosse 
 
 #### 1. O ElasticSearch não está sob uma licença Open Source
 
-Sempre que possível é preferível (para mim) adotar tecnologias com licença considerada Open Source. Isso possibilita um ambiente de colaboração tecnológica e econômica incrível, um bom exemplo são [os projetos mapeados](https://landscape.cncf.io/?license=open-source) pela [CNCF no seu Landscape](https://landscape.cncf.io/) tem um valor de mercado estimado em **10,65 trilhões de dólares**.
+Sempre que possível é preferível (para mim) adotar tecnologias com licença considerada Open Source e com uma governança transparente. Isso possibilita um ambiente de colaboração tecnológica e econômica incrível, um bom exemplo são [os projetos mapeados](https://landscape.cncf.io/?license=open-source) pela [CNCF no seu Landscape](https://landscape.cncf.io/) tem um valor de mercado estimado em **10,65 trilhões de dólares**.
 
 A licença [SSPL](https://www.mongodb.com/licensing/server-side-public-license) [não é considerada](https://opensource.org/node/1099) Open Source pela  [OSI](https://opensource.org) (Open Source Initiative).
 
@@ -74,7 +74,7 @@ A licença do projeto deve estar relacionada ao modelo de negócio que a empresa
 * MariaDB é um banco de dados com a licença GPL-2  desenvolvido pela MariaDB
 * PostgreSQL é um banco de dados com a licença BSD
 
-Se quer usar na sua stack alguma projeto que está sob a licença SSPL é claro que deve usar mas considere que não é de fato Open Source. 😉
+Se quer usar na sua stack alguma projeto que está sob a licença SSPL é claro que deve usar mas considere que não é de fato, Open Source. 😉
 
 ## Referências
 
