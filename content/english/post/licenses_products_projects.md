@@ -1,7 +1,7 @@
 +++
 title = "Licenses and how they impact a project or product"
 date = 2021-02-02T09:35:09-03:00
-draft = true
+draft = false
 description = "It's a text about impacto from companies change license"
 categories = ["licenças", "opensource", "portuguese"]
 tags = ["licenças", "opensource", "portuguese", "elastic", "mongodb", "aws"]
@@ -19,8 +19,6 @@ I chose Python and Django ([REST](https://www.django-rest-framework.org)) was Py
 PostgreSQL is a really cool database that we can use for kinds of purposes, most cloud providers offer it as managed service, and Python ORMs as [SQLAlchemy](https://www.sqlalchemy.org) and [Django ORM](https://docs.djangoproject.com/en/3.1/topics/db/queries/) have good support for it. In a previous AI startup that I worked on, PostgreSQL was used to store [Event Sourcing](https://microservices.io/patterns/data/event-sourcing.html) data. Thank you (Mario Idival)[https://twitter.com/marioidival] for your insight and implementation. 
 
 Certainly, I can't say that I didn't have a bias to decide about technologies. Even though I token decisions based on good arguments, I have to recognize that I have some bias. Containers to delivery artifacts and PostgreSQL as default database were chosen base on previous projects that have success in my experience.
-
-
 
 There isn’t any problem to make decisions but it's better when you can bring your team because will they use these technologies and become easier to identify the limits and weaknesses of each technology in your development cycle and production environment. Also, they will say they are comfortable learning that and look at other technologies without the pressure of obligation to learn base on a decision top-down.
 
