@@ -57,6 +57,7 @@ Se quiser ver o vídeo da apresentação, está [aqui](https://www.twitch.tv/vid
  
 
 **Referências**:
+
 1. [How to Compile a Linux Kernel](https://www.linux.com/topic/desktop/how-compile-linux-kernel-0/)
 2. [Analysis and data as Viñales dodged disaster in Austria](https://www.motogp.com/en/news/2020/08/26/analysis-and-data-as-vinales-dodged-disaster-in-austria/341765)
 3. [OpenTelemetry](https://opentelemetry.io/docs/)
