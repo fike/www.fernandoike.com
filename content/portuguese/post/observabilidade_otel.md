@@ -3,8 +3,8 @@ title = "Observabilidade com OpenTelemetry"
 date = 2021-11-02T20:37:16Z
 draft = false
 description = "O que é Observabilidade e OpenTelemetry"
-tags = ["portugues", "opentelemetry", "kubernetes", "cncf"]
-categories = ["portugues", "opentelemetry", "kubernetes", "cncf"]
+tags = ["portugues", "opentelemetry", "kubernetes", "cncf", "telemetry"]
+categories = ["portugues", "opentelemetry", "kubernetes", "cncf", "telemetry"]
 +++
 
 ![tela do make menuconfig para compilar o kernel linux, a imagem original é da linux.com](/images/kernel_compile_1.jpg) 
