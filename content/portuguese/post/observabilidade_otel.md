@@ -35,7 +35,7 @@ A [imagem](https://www.motogp.com/en/news/2020/08/26/analysis-and-data-as-vinale
 
 Não é legal essa referência entre corridas e nosso trabalho como tecnologistas? A primeira vez que eu vi foi numa apresentação da [Tatiane Paya](https://www.linkedin.com/in/tatypaya) no [DevOpsDays Porto Alegre de 2019](https://devopsdays.org/events/2019-porto-alegre/welcome/) no qual ela [falou sobre Arrancadas e DevOps](https://speakerdeck.com/tpaya/arrancada-o-que-este-esporte-pode-nos-ensinar-sobre-agilidade-e-performance).
   
-Ah!!! Não é simplesmente instalar um agente de **A**pplication **P**erformance **M**onitoring, configurar alertas e criar alguns dashboards, há uma diferença simples mas importante segundo eles: "*Observabilidade é absolutamente, totalmente sobre instrumentação. O delta entre observabilidade e monitoramento é absolutamente as partes que são focadas em engenharia de software.*".
+Ah!!! Não é simplesmente instalar um agente de **A**pplication **P**erformance **M**onitoring, configurar alertas e criar alguns dashboards? Não, não é, há uma diferença simples mas importante segundo eles: "*Observabilidade é absolutamente, totalmente sobre instrumentação. O delta entre observabilidade e monitoramento é absolutamente as partes que são focadas em engenharia de software.*".
  
 # O que é OpenTelemetry?
  
@@ -56,13 +56,13 @@ Se quiser ver o vídeo da apresentação, está [aqui](https://www.twitch.tv/vid
 {{< twitch 1172147054 >}}
  
 
-Referências:
-1 - [How to Compile a Linux Kernel](https://www.linux.com/topic/desktop/how-compile-linux-kernel-0/)
-2 - [Analysis and data as Viñales dodged disaster in Austria](https://www.motogp.com/en/news/2020/08/26/analysis-and-data-as-vinales-dodged-disaster-in-austria/341765)
-3 - [OpenTelemetry](https://opentelemetry.io/docs/)
-4 - [Guia Foca Linux](https://www.guiafoca.org/guiaonline/intermediario/ch16s11.html)
-5 - [Arrancada (DevOps)](https://speakerdeck.com/tpaya/arrancada-o-que-este-esporte-pode-nos-ensinar-sobre-agilidade-e-performance)
-6 - [Best Practices for Observability](https://www.honeycomb.io/blog/best-practices-for-observability/)
-7 - [Recompilando o Kernel](https://www.guiafoca.org/guiaonline/intermediario/ch16s11.html)
-8 - [Custom Resources Definition](https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/)
-9 - [O poder das abstrações](https://speakerdeck.com/drequena/o-poder-da-abstracao)
+**Referências**:
+1. [How to Compile a Linux Kernel](https://www.linux.com/topic/desktop/how-compile-linux-kernel-0/)
+2. [Analysis and data as Viñales dodged disaster in Austria](https://www.motogp.com/en/news/2020/08/26/analysis-and-data-as-vinales-dodged-disaster-in-austria/341765)
+3. [OpenTelemetry](https://opentelemetry.io/docs/)
+4. [Guia Foca Linux](https://www.guiafoca.org/guiaonline/intermediario/ch16s11.html)
+5. [Arrancada (DevOps)](https://speakerdeck.com/tpaya/arrancada-o-que-este-esporte-pode-nos-ensinar-sobre-agilidade-e-performance)
+6. [Best Practices for Observability](https://www.honeycomb.io/blog/best-practices-for-observability/)
+7. [Recompilando o Kernel](https://www.guiafoca.org/guiaonline/intermediario/ch16s11.html)
+8. [Custom Resources Definition](https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/)
+9. [O poder das abstrações](https://speakerdeck.com/drequena/o-poder-da-abstracao)
