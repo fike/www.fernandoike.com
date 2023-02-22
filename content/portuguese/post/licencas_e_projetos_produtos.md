@@ -10,7 +10,7 @@ tags = ["licenças", "opensource", "portuguese", "elastic", "mongodb", "aws"]
 
 As decisões sobre quais tecnologias, frameworks e/ou plataformas que serão base do desenvolvimento de produtos e serviços muitas vezes não são racionais. Elas são fortemente influenciadas por gosto pessoal, buzzwords, etc.
 
-Isso é evidente quando as pessoas nas funções de liderança decidem por tecnologia A ou B, muitas vezes a decisão é fortemente influenciada pelo sucesso de projetos anteriores, recomendação de outras pessoas ou parceiros comerciais. Não há nenhum problema em tomadas de decisão assim desde que tenha claro as limitações de cada tecnologia versus as condições da equipe de adotar a tecnologia definida na decisão.
+Isso é evidente quando as pessoas nas funções de liderança decidem por tecnologia A ou B, muitas vezes a decisão é fortemente influenciada pelo sucesso de projetos anteriores, recomendação de outras pessoas ou parceiros comerciais. Não há nenhum problema em tomadas de decisão assim, desde que tenha claro as limitações de cada tecnologia versus as condições da equipe de adotar a tecnologia definida na decisão.
 
 Um exemplo é quando eu estava na posição de gestor (CTO) de uma startup na área de educação. Uma das minhas responsabilidades era criar uma equipe de tecnologia para desenvolvimento de uma plataforma para a rede de escolas desta startup.
 
@@ -18,7 +18,7 @@ A stack para desenvolvimento seria [Python](https://www.python.org/), especifica
 
 A escolha por Python, Django ([REST Framework](https://www.django-rest-framework.org/)) foi porque Python é uma linguagem de programação com uma curva de aprendizado mais baixa (não quer dizer mais fácil) comparada à outros frameworks, a popularidade da linguagem e consequentemente maior possibilidade de contratar pessoas com algum conhecimento.
 
-Outra parte importante seria o uso de containers desde o início do projeto. As primeiras versões rodam em containers ([Docker](https://www.docker.com/)) nas VMs do IaaS contratado, isso posteriormente foi migrado para [Kubernetes](https://kubernetes.io/). A razão principal disso é gerar cada artefato contido num container, padronizando a construção do artefato e rollout dele nos ambientes de homologação e produção.
+Outra parte importante seria o uso de containers desde o início do projeto. As primeiras versões rodam em containers ([Docker](https://www.docker.com/)) nas VMs do IaaS contratado, isso posteriormente foi migrado para [Kubernetes](https://kubernetes.io/), a razão principal disso é gerar cada artefato contido num container, padronizando a construção do artefato e rollout dele nos ambientes de homologação e produção.
 
 O PostgreSQL é um banco versátil para diferentes usos, os principais provedores de Cloud tem oferta de serviço gerenciado dele  e os ORMs ([SQLAlchemy](https://www.sqlalchemy.org/) e [Django ORM](https://docs.djangoproject.com/en/3.1/topics/db/queries/)) funcionam bem também. Na startup anterior, ele foi utilizado com armazenamento de uma das plataformas desenvolvidas utilizando [Event Sourcing](https://microservices.io/patterns/data/event-sourcing.html) (valeu [Mário Idival](https://twitter.com/marioidival) por implementar!).
 
@@ -28,7 +28,7 @@ Reforçando, não há problema em tomar decisões assim mas também cabe pondera
 
 Há outro aspecto que é pouco abordado nas decisões de quais tecnologias serão adotadas, mas com a mudança das licenças do MongoDB e ElasticSearch despertou um interesse maior sobre as licenças de software.
 
-Observação - A análise aqui é uma opinião, não sou advogado. Não use o conteúdo abaixo como referência, consulte uma empresa especializada no assunto.
+**Observação** - A análise aqui é uma opinião, não sou advogado. Não use o conteúdo abaixo como referência, consulte uma empresa especializada no assunto.
 
 Na startup escolhemos a maior parte da nossa stack base estava com licença do tipo permissiva (BSD): PostgreSQL, Django e Django REST. Python ([PSF License Agreement](https://docs.python.org/3/license.htm)) e Psycopg2 ([LGPL-3](https://www.psycopg.org/license/)) são “derivadas” da [GPL-2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html) e [GPL-3](https://www.gnu.org/licenses/gpl-3.0.en.html). React e [Next.js](https://nextjs.org/) usam [MIT](https://github.com/vercel/next.js/blob/canary/license.md) como licença e a maioria das bibliotecas de dependência dos projetos desenvolvidos usavam [BSD](https://opensource.org/licenses/BSD-3-Clause), MIT ou [Apache2](https://opensource.org/licenses/Apache-2.0).
 
