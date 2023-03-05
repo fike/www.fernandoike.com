@@ -24,7 +24,7 @@ O PostgreSQL é um banco versátil para diferentes usos, os principais provedore
 
 Analisando o exemplo que citei, as decisões sobre quais tecnologias seriam utilizadas tinha até bons argumentos, não é possível afirmar que não havia algum viés. Containers como base dos artefatos gerados, PostgreSQL como banco de dados foram decisões tecnológicas baseadas em implantações de sucesso em experiências anteriores.
 
-Reforçando, não há problema em tomar decisões assim mas também cabe ponderar junto com as pessoas que irão desenvolver porque utilizar aquelas tecnologias e identificar potenciais limitações de cada tecnologia não só do ponto de vista técnico, mas também na capacidade da equipe aprender lidar com elas e olhar para outras tecnologias sem estigma da obrigação de aprender “tudo de novo”.
+Reforçando, não há problema em tomar decisões assim, cabe ponderar junto com as pessoas que irão desenvolver porque utilizar aquelas tecnologias e identificar potenciais limitações de cada tecnologia não só do ponto de vista técnico, mas também na capacidade da equipe aprender lidar com elas e olhar para outras tecnologias sem estigma da obrigação de aprender “tudo de novo”.
 
 Há outro aspecto que é pouco abordado nas decisões de quais tecnologias serão adotadas, mas com a mudança das licenças do MongoDB e ElasticSearch despertou um interesse maior sobre as licenças de software.
 
